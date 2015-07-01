@@ -1,0 +1,81 @@
+baseurl: /content-style-guide
+markdown: redcarpet
+name: 18F Content Style
+exclude:
+- go
+- copy-template
+- Gemfile
+- Gemfile.lock
+- README.md
+- LICENSE.md
+
+permalink: pretty
+highlighter: rouge
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: 18F
+  url: https://18f.gsa.gov
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /assets/img/18f-logo.png
+logoalt: 18F logo
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Introduction
+  url: index.html
+  internal: true
+- text: Use active voice
+  url: use-active-voice/
+  internal: true
+- text: Acronyms
+  url: acronyms/
+  internal: true
+- text: Address the user
+  url: address-the-user/
+  internal: true
+- text: Avoid duplication
+  url: avoid-duplication/
+  internal: true
+- text: Be concise
+  url: be-concise/
+  internal: true
+- text: Conscious style
+  url: conscious-style/
+  internal: true
+- text: Plain language
+  url: plain-language/
+  internal: true
+- text: Capitalization
+  url: capitalization/
+  internal: true
+- text: Publishing legal and technical content
+  url: legal-and-technical-content/
+  internal: true
+- text: Punctuation
+  url: punctuation/
+  internal: true        
+- text: Optimize headings and titles
+  url: optimize-headings-and-titles/
+  internal: true  
+- text: Frequently asked questions (FAQs)
+  url: faqs/
+  internal: true  
+- text: Specific words and phrases
+  url: specific-words-and-phrases/
+  internal: true  
+- text: References
+  url: references/
+  internal: true      
+
+repos:
+- name: 18F Content Style Guide
+  description: Main repository
+  url: https://github.com/18F/content-style-guide
+
+# Style Variables
+brand_color: "#1188ff"
+
+google_analytics_ua: UA-48605964-19
