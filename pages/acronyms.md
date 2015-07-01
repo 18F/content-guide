@@ -3,7 +3,7 @@ permalink: /acronyms/
 layout: default
 title: Acronyms
 ---
-**Acronyms can confuse readers. Whenever possible, use the full name. **
+**Acronyms can confuse readers. Whenever possible, use the full name.**
 
 If an acronym is necessary for future reference, write out the full name
 and follow with the abbreviation in parentheses. For example, *The
