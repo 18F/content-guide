@@ -1,6 +1,6 @@
 baseurl: /content-style-guide
 markdown: redcarpet
-name: 18F Content Style
+name: 18F Content Style Guide
 exclude:
 - go
 - copy-template
