@@ -3,7 +3,6 @@ permalink: /avoid-duplication/
 layout: default
 title: Avoid duplication
 ---
-
 If something is written once and links to relevant information easily
 and well, people are more likely to trust the content. Redundant content
 can cause confusion among readers and create anxiety on the part of
