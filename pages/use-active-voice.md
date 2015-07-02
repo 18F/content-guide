@@ -1,12 +1,12 @@
 ---
 permalink: /use-active-voice/
 layout: default
-title: Use active voice
+title: Active voice
 ---
-Use active voice
+Be active
 ----------------
 
-**Use the active rather than the passive voice, whenever possible.** The
+**Avoid being passive, whenever possible.** The
 active voice allows the reader to more easily identify each sentence’s
 subject (and makes written content more engaging, too).
 
