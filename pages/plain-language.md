@@ -3,7 +3,7 @@ permalink: /plain-language/
 layout: default
 title: Plain language
 ---
-Plain Language is mandatory for [all federal government
+Plain language is mandatory for [all federal government
 websites](http://www.plainlanguage.gov/)[^1]. One of the aspects of
 this most people pick up on is the **plain English list,** which is
 below.
@@ -14,8 +14,8 @@ U.S. government websites are for everyone. The content they contain
 should therefore be as straightforward and clear as possible.
 
 **Don’t use formal or long words when easy or short ones will do.** Use
-"buy" instead of "purchase," "help" instead of "assist," "about" instead
-of "approximately," and so on.
+_buy_ instead of _purchase_, _help_ instead of _assist_, _about_ instead
+of _approximately_, and so on.
 
 We lose our users’ trust if we write using government buzzwords and
 jargon. Often, these words are too general and vague and can lead to
