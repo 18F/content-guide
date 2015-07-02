@@ -26,12 +26,12 @@ shows that “natural resources” is a much more popular search term.
 
 Once you know the most popular keywords, you can prioritize them in:
 
--   titles
+-   Titles
 
--   headings
+-   Headings
 
--   introductions and summaries
+-   Introductions and summaries
 
--   chapter and section titles
+-   Chapter and section titles
 
--   metadata descriptions
+-   Metadata descriptions
