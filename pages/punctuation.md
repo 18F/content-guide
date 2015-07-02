@@ -23,10 +23,10 @@ Bulleted lists should adhere to the following guidelines: Capitalize the first w
 **Colons:** Capitalize the first word after a colon, only if what
 follows is a complete sentence. See the examples below.
 
-*I have several favorite genres: poetry, fiction, and nonfiction.*
+*I have several favorite foods: apples, bananas, and naan chips.*
 
-*I have several favorite genres: Poetry is my first love, but nonfiction
-is a rising star in my life.*
+*I have several favorite foods: Apples were my first favorite snack, but naan chips
+are a rising star in my life.*
 
 **Commas:** We prefer the serial comma (sometimes called the Oxford
 comma). In a list of three or more, include a comma before the
@@ -36,7 +36,7 @@ conjunction. For example: *Please buy apples, bananas, and naan chips.*
 1954.*
 
 **Dashes:** When offsetting a phrase with dashes you should use the
-longer em dash (—), which is Option+Shift+- on Macs, with a space on
+longer em dash (—), which is `Option+Shift+-` on Macs, with a space on
 either side of the dash. For example:
 
 *We emphasize open, digital record keeping, and — whenever possible — we
