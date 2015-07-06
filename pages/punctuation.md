@@ -42,6 +42,11 @@ either side of the dash. For example:
 *We emphasize open, digital record keeping, and — whenever possible — we
 illuminate our processes.*
 
+And when representing a range of numbers you should use the shorter en
+dash (–), which is `Option+-` on Macs. For example:
+
+*We assign 2–3 people to each development team.*
+
 **Quotes:** Below are examples of correctly punctuated quotations.
 
 *“Would you like a banana?” he asked.*
