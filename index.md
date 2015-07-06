@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: default
-title: 18F Content Style Guide
+title: 18F Content Guide
 ---
 This guide helps writers create content that’s easy to use and meets citizens where they’re at. Government websites often talk at readers rather than to them: As with other facets of its online presence, .gov writing tends to describe the government’s concerns in “governmentese,” leaving users frustrated by information that is neither actionable nor understandable.
 

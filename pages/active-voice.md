@@ -1,11 +1,8 @@
 ---
-permalink: /use-active-voice/
+permalink: /active-voice/
 layout: default
 title: Active voice
 ---
-Be active
-----------------
-
 **Avoid being passive, whenever possible.** The
 active voice allows the reader to more easily identify each sentence’s
 subject (and makes written content more engaging, too).

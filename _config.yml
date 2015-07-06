@@ -1,6 +1,6 @@
-baseurl: /content-style-guide
+baseurl: /content-guide
 markdown: redcarpet
-name: 18F Content Style Guide
+name: 18F Content Guide
 exclude:
 - go
 - copy-template
@@ -27,8 +27,8 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Use active voice
-  url: use-active-voice/
+- text: Active voice
+  url: active-voice/
   internal: true
 - text: Acronyms
   url: acronyms/
@@ -71,9 +71,9 @@ navigation:
   internal: true      
 
 repos:
-- name: 18F Content Style Guide
+- name: 18F Content Guide
   description: Main repository
-  url: https://github.com/18F/content-style-guide
+  url: https://github.com/18F/content-guide
 
 # Style Variables
 brand_color: "#1188ff"
