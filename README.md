@@ -1,58 +1,18 @@
-## 18F Guides Template
+## 18F Content Guide
 
-This is a skeleton repo containing the
-[CFPB/DOCter](https://github.com/CFPB/DOCter)-based
-[Jekyll](http://jekyllrb.com/) template for
-[18F Guides](http://18f.github.io/guides/).
+This guide helps writers create content that’s easy to use and meets citizens where they’re at. Government websites often talk at readers rather than to them: As with other facets of its online presence, .gov writing tends to describe the government’s concerns in “governmentese,” leaving users frustrated by information that is neither actionable nor understandable.
 
-### Generating the site/hosting locally
+This guide takes into account that frustration as well as several commonly supported guidelines about writing for the web. Using this guide can help content designers benefit from our experience to date, incorporate user feedback into the content design process, and engender trust by communicating in a consistent manner.
 
-You will need [Ruby](https://www.ruby-lang.org) ( > version 2.1.5 ). You may
-consider using a Ruby version manager such as
-[rbenv](https://github.com/sstephenson/rbenv) or [rvm](https://rvm.io/) to
-help ensure that Ruby version upgrades don't mean all your
-[gems](https://rubygems.org/) will need to be rebuilt.
+## How to use this guide
 
-On OS X, you can use [Homebrew](http://brew.sh/) to install Ruby in
-`/usr/local/bin`, which may require you to update your `$PATH` environment
-variable:
+We created this guide for reference on an as-needed basis. It’s here when you’re wondering whether to capitalize the word federal, for instance, or when you’re wondering how to create a friendly, informational tone.
 
-```shell
-$ brew update
-$ brew install ruby
-```
+To this end, we’ve structured the guide into descriptively named sections. Browse our table of contents to find the topic you’re looking for.
 
-To create a new guide and serve it locally, where `MY-NEW-GUIDE` is the name
-of your new repository:
+We aren’t opposed if you’d like to read this guide start to finish, of course.
 
-```shell
-$ git clone git@github.com:18F/guides-template.git MY-NEW-GUIDE
-$ cd MY-NEW-GUIDE
-$ ./go init
-$ ./go serve
-```
-
-This will check that your Ruby version is supported, install the [Bundler
-gem](http://bundler.io/) if it is not yet installed, install all the gems
-needed by the template, and launch a running instance on
-`http://localhost:4000/guides-template/`. (Make sure to include the trailing slash! The built-in
-Jekyll webserver doesn't redirect to it.) That page contains further
-instructions on how to adapt the template to a new guide repository.
-
-After going through these steps, run `./go` to see a list of available
-commands. The `serve` command is the most common for routine development.
-
-You'll need to create a new Github repository for your new guide. To do this, go to github.com/18f and click the "New Repository" button. Enter the title and description for your new guide and then click "Create Repository".
-
-After the repository is created, you'll see the repo URL at the top. Copy this url by hitting the handy "Copy to Clipboard" button next to the text box. 
-
-Go back to the directory where you cloned the guides-template repository. We're going to change this repo to point to the one you just created (which is empty) and push the template to it.
-```
-git remote set-url origin https://github.com/18F/MY-NEW-GUIDE.git
-git push origin 18f-pages
-```
-
-Now you can edit the template freely, and push up changes as you need. 
+Most importantly, we encourage you to make a copy of this document and adapt its to your organizational needs. This guide is just that: a guide. It’s not meant to provide the final opinion on any of the topics discussed. If a certain section isn’t relevant to you and your team, delete it. And if you feel the guide is missing a section, by all means, add it. This guide is yours to use, and we trust you’ll update it in the ways that best suit you.
 
 ### Public domain
 
