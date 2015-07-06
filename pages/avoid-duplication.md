@@ -21,4 +21,4 @@ to address has not already been covered.**
 
 -   Often, 18F team members write about a government service, tool, or program. Think authoritatively: What department or agency controls the thing you’re writing about? What information have they produced already?
 
--   Start significant projects with a content audit. Identify how any existing information is used and whether it will be helpful to your users in its current state. If it is
+-   Start significant projects with a content audit. Identify how any existing information is used and whether it will be helpful to your users in its current state.
