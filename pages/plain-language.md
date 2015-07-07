@@ -4,7 +4,7 @@ layout: default
 title: Plain language
 ---
 Plain language is mandatory for [all federal government
-websites](http://www.plainlanguage.gov/)[^1]. One of the aspects of
+websites](http://www.plainlanguage.gov/). One of the aspects of
 this most people pick up on is the **plain English list,** which is
 below.
 
@@ -108,5 +108,3 @@ you’re actually doing. Be open and specific.
 Write conversationally. Picture your audience and write as if you were
 talking to them one-on-one and with the authority of someone who can
 actively help.
-
-[^1]: *President Obama signed the Plain Writing Act of 2010 on October 13, 2010. The law requires that federal agencies promote "clear Government communication that the public can understand and use."*
