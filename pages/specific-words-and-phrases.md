@@ -40,10 +40,6 @@ explaining usage. Examples appear in italics.
 
 -   “Info” is a conversational shortening of “information.” In formal situations, use the full word.
 
-**N**
-
--   Notes: **Post-its** are trademarked, paper objects. **Sticky Notes** are trademarked digital objects. Paper objects shouldn’t be referred to as “Sticky Notes,” and digital objects shouldn’t be called “Post-its.”
-
 **O**
 
 -   **open source**, **open source software**
