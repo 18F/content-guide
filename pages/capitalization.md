@@ -7,7 +7,7 @@ title: Capitalization
 internal and external communications relies, to a large extent, on the
 content’s consistency. Inconsistent spellings and capitalizations
 undermine our narrative authority. Unnecessary capitalization can also
-comes off as overly formal and unapproachable. We follow these
+come off as overly formal and unapproachable. We follow these
 capitalization guidelines:
 
 -   Don't capitalize agile, unless it is the first word of a sentence
