@@ -62,6 +62,9 @@ navigation:
   internal: true  
 - text: Frequently asked questions (FAQs)
   url: faqs/
+  internal: true
+- text: Trademarks and brands
+  url: trademarks-and-brands/
   internal: true  
 - text: Specific words and phrases
   url: specific-words-and-phrases/
