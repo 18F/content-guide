@@ -11,7 +11,7 @@ below.
 This isn’t just a list of words to avoid; it’s a way of writing.
 
 U.S. government websites are for everyone. The content they contain
-should therefore be as straightforward and clear as possible.
+should therefore be as straightforward and clear as possible. 
 
 **Don’t use formal or long words when easy or short ones will do.** Use
 _buy_ instead of _purchase_, _help_ instead of _assist_, _about_ instead
@@ -108,3 +108,5 @@ you’re actually doing. Be open and specific.
 Write conversationally. Picture your audience and write as if you were
 talking to them one-on-one and with the authority of someone who can
 actively help.
+
+You can also enter your content into a tool like [readability-score.com](https://readability-score.com/) to determine the reading level your audience will need to understand your text.  Aim for a reading level no higher than 8.0, making text accessible for a larger section of the public.
