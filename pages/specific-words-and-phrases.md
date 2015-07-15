@@ -14,7 +14,7 @@ explaining usage. Examples appear in italics.
 
 -   **agile**
 
--   **and** (never “&” or “+,” unless part of an official title. For example, *D.C. Tech Lady Hackathon + Training Day*)
+-   **and** (never “&” or “+” unless part of an official title. For example, *D.C. Tech Lady Hackathon + Training Day*)
 
 **B**
 
@@ -46,11 +46,11 @@ explaining usage. Examples appear in italics.
 
 **P**
 
--   **percent** is preferred to %. For example, *10 percent of respondents cited. . .*
+-   **percent** is preferred more than the “%” symbol. For example, *10 percent of respondents cited. . .*
 
 **S**
 
--   Slash - avoid using /. Replace it with words.
+-   Slash - avoid using the “/” symbol. Replace the symbol with words.
 
 -   **startup**
 
