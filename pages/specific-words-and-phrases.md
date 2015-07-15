@@ -50,6 +50,8 @@ explaining usage. Examples appear in italics.
 **I**
 
 -   “Info” is a conversational shortening of “information.” In formal situations, use the full word.
+-   
+-   **Internet** should be capitalized in all instances.
 
 **N**
 
@@ -91,4 +93,4 @@ explaining usage. Examples appear in italics.
 
 **W**
 
--   **wi-fi**
+-   **Wi-Fi**
