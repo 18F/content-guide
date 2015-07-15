@@ -12,7 +12,7 @@ explaining usage. Examples appear in italics.
 
 **A**
 
--   **ages** - avoid hyphens in ages unless it clarifies the text. For example, *a group of 9 18-year-old White House tourists*
+-   **ages** - avoid hyphens in ages unless it clarifies the text. For example, *a group of 10 18-year-old White House tourists*
 
 -   **agile**
 
