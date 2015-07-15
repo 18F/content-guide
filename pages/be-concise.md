@@ -19,7 +19,7 @@ To keep content understandable, concise and relevant, it should be:
 
 You should:
 
--   Use contractions (such as can’t and won’t)
+-   Use contractions (such as *can’t* and *won’t*)
 
 -   Not let caveats dictate unwieldy grammar – for example, say *You can* rather than *You may be able to*
 
@@ -31,6 +31,6 @@ You should:
 
 -   Check sentences with more than 25 words to see if you can split them for clarity
 
-Words ending in –ion and –ment tend to make sentences longer and more
-complicated than they need to be. Avoid also turning verbs into nouns,
-another common sign of government-ese at work.
+Words ending in *–ion* and *-ment* tend to make sentences longer and more
+complicated than necessary. Avoid turning verbs into nouns,
+a common sign of government-ese at work.
