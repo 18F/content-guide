@@ -56,7 +56,7 @@ explaining usage. Examples appear in italics.
 
 **N**
 
--   Numbers - Spell out *one* to *nine*. Use numerals for numbers 10 or greater. This is true of ordinal numbers as well. Spell out *first* to *ninth*, and capture *10th* or greater with numerals. Sometimes the government writes about very large numbers: millions, billions, even trillions. We express these numbers with a numeral and a word. For example, *1.6 million people* or *5 billion dollars*. 
+-   Numbers — Spell out *one* to *nine*. Use numerals for numbers 10 or greater. This is true of ordinal numbers as well. Spell out *first* to *ninth*, and capture *10th* or greater with numerals. Sometimes the government writes about very large numbers: millions, billions, even trillions. We express these numbers with a numeral and a word. For example, *1.6 million people* or *5 billion dollars*. 
 
 **O**
 
@@ -68,7 +68,7 @@ explaining usage. Examples appear in italics.
 
 **S**
 
--   Slash - avoid using /. Replace it with words.
+-   Slash — avoid using /. Replace it with words.
 
 -   **startup**
 
@@ -84,7 +84,7 @@ explaining usage. Examples appear in italics.
 
 -   “Tech” is an acceptable informal shortening of “technology.” In formal situations, use the full word.
 
--   Titles - don't capitalize titles unless they precede a name. For example, *the director got approval* or *Director Lopez got approval*. Whenever possible, keep titles gender neutral. For example, we prefer *firefighter* to *fireman* and *chairperson* to *chairman*.
+-   Titles — don't capitalize titles unless they precede a name. For example, *the director got approval* or *Director Lopez got approval*. Whenever possible, keep titles gender neutral. For example, we prefer *firefighter* to *fireman* and *chairperson* to *chairman*.
 
 **U**
 
