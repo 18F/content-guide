@@ -8,13 +8,15 @@ alphabetical order. The bold term shows the accepted form
 (capitalization, hyphenation, punctuation), with accompanying text
 explaining usage. Examples appear in italics.
 
--   18F employees are “18F team members” or “18F staffers.” Avoid all iterations of “18F-r.”
+**0-9**
+
+-   18F employees are **18F team members** or **18F staffers**. Avoid all iterations of 18F-r.
 
 **A**
 
 -   **agile**
 
--   **and** (never “&” or “+,” unless part of an official title. For example, *D.C. Tech Lady Hackathon + Training Day*)
+-   **and** (never & or +, unless part of an official title. For example, *D.C. Tech Lady Hackathon + Training Day*)
 
 **B**
 
@@ -24,7 +26,7 @@ explaining usage. Examples appear in italics.
 
 -   **federal government** (not Federal Government or Federal government)
 
--   **federal** (unless part of a proper noun, like the Federal Bureau of Investigation)
+-   **federal** (unless part of a proper noun, like the *Federal Bureau of Investigation*)
 
 -   **front end**, **front end development**
 
@@ -34,11 +36,15 @@ explaining usage. Examples appear in italics.
 
 -   **GitHub**
 
--   **government** (unless part of a proper noun like Government Printing Office)
+-   **government** (unless part of a proper noun like *Government Printing Office*)
+
+**H**
+
+-   **human-centered design**
 
 **I**
 
--   “Info” is a conversational shortening of “information.” In formal situations, use the full word.
+-   “Info” is an acceptable conversational shortening of “information.” In formal situations, use the full word.
 
 **O**
 
@@ -64,10 +70,12 @@ explaining usage. Examples appear in italics.
 
 **T**
 
--   “Tech” is an informal shortening of “technology.” In formal situations, use the full word.
+-   “Tech” is an acceptable informal shortening of “technology.” In formal situations, use the full word.
 
 **U**
 
 -   **United States government** or **U.S. government** (not U.S. Government)
 
 -   **U.S.**, not US or USA
+
+-   **user-centered design**
