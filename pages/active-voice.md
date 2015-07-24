@@ -19,8 +19,8 @@ Use of the passive voice is common enough that many people don’t notice when t
 
 Occasionally, context makes the passive voice easier to understand than the active voice.
 
-*Forms **issued by the Office of Government Ethics** include the OGE-450 and the OGE-278.*  
-*The agency **is required** to respond to requests within 20 working days.*  
+*Forms __issued by the Office of Government Ethics__ include the OGE-450 and the OGE-278.*  
+*The agency __is required__ to respond to requests within 20 working days.*  
 
 Rewording either of these sentences to use only the active voice would complicate the sentence or pull focus away from its main point. When that is the case, use the passive voice.
 
