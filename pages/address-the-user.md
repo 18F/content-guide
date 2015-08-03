@@ -14,6 +14,6 @@ refer to the additional users by their roles or titles.
 
 ## How to talk about the public
 
-How you refer to the public when writing material is largely dependent on context. Feel free to choose from any of the words on this list: people, the public, users, or folks. 
+How you refer to the public is largely dependent on context. Feel free to choose from any of the words on this list: people, the public, users, or folks.
 
-We don't recommend using the word 'citizens.' Not everyone who uses a government website is a citizen and we shouldn't assume that in our prose.
+We recommend against using the word “citizens” this way. Not everyone who uses a government website is a citizen, and we shouldn’t assume that in our prose. Use “citizens” to specify information related to U.S. citizenship — for example, describing who is eligible to vote in federal elections.
