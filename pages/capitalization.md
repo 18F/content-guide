@@ -20,7 +20,7 @@ See additional capitalization rules in the [Specific words and phrases](https://
 section.
 
 **Headings:** Headlines, page titles, subheads and similar content
-should follow normal sentence capitalization. For example:
+should follow sentence case. For example:
 
 *Making sense of Washington’s tech landscape*
 
