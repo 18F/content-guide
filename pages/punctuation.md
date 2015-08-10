@@ -4,7 +4,7 @@ layout: default
 title: Punctuation
 ---
 
-Bulleted lists should adhere to the following guidelines: Capitalize the first word of every bullet. Include a period at the end of the bullet only if that point is a complete sentence. See the examples below.
+**Bulleted lists:** Capitalize the first word of every bullet. Include a period at the end of the bullet only if that point is a complete sentence. See the examples below.
 
 *When you go to the store, please buy:*
 
