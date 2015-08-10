@@ -8,7 +8,11 @@ alphabetical order. The bold term shows the accepted form
 (capitalization, hyphenation, punctuation), with accompanying text
 explaining usage. Examples appear in italics.
 
--   18F employees are *18F team members* or *18F staffers*. Avoid all iterations of “18F-r.”
+
+**#**
+
+-   18F employees are “18F team members” or “18F staffers.” Avoid all iterations of “18F-r.”
+
 
 **A**
 
@@ -16,7 +20,8 @@ explaining usage. Examples appear in italics.
 
 -   **agile**
 
--   **and**, never “&” or “+,” unless part of an official title. For example, *D.C. Tech Lady Hackathon + Training Day*
+-   **and** (never “&” or “+” unless part of an official title. For example, *D.C. Tech Lady Hackathon + Training Day*)
+
 
 **B**
 
@@ -33,9 +38,10 @@ explaining usage. Examples appear in italics.
 
 **F**
 
--   **federal government**, not "Federal Government" or "Federal government"
 
--   **federal**, unless part of a proper noun. For example, *Federal Bureau of Investigation*
+-   **federal** (unless part of a proper noun, like the Federal Bureau of Investigation)
+
+-   **federal government** (not Federal Government or Federal government)
 
 -   **front end**, **front end development**
 
@@ -55,7 +61,7 @@ explaining usage. Examples appear in italics.
 
 **N**
 
--   Numbers - Spell out *one* to *nine*. Use numerals for numbers 10 or greater. This is true of ordinal numbers as well. Spell out *first* to *ninth*, and capture *10th* or greater with numerals. Sometimes the government writes about very large numbers: millions, billions, even trillions. We express these numbers with a numeral and a word. For example, *1.6 million people* or *5 billion dollars*. 
+-   Numbers - Spell out *one* to *nine*. Use numerals for numbers 10 or greater. This is true of ordinal numbers as well. Spell out *first* to *ninth*, and capture *10th* or greater with numerals. Sometimes the government writes about very large numbers: millions, billions, even trillions. We express these numbers with a numeral and a word. For example, *1.6 million people* or *5 billion dollars*.
 
 **O**
 
@@ -63,11 +69,13 @@ explaining usage. Examples appear in italics.
 
 **P**
 
--   **percent** is preferred to *%*. For example, *10 percent of respondents*.
+
+-   **percent** is preferred more than the “%” symbol. For example, *10 percent of respondents cited. . .*
+
 
 **S**
 
--   Slash - avoid using /. Replace it with words.
+-   Slash - avoid using the “/” symbol. Replace the symbol with words.
 
 -   **startup**
 
