@@ -9,19 +9,19 @@ alphabetical order. The bold term shows the accepted form
 explaining usage. Examples appear in italics.
 
 
-**#**
+**0-9**
 
--   18F employees are “18F team members” or “18F staffers.” Avoid all iterations of “18F-r.”
+-   18F employees are **18F team members** or **18F staffers**. Avoid all iterations of 18F-r.
 
 
 **A**
 
--   **ages** - avoid hyphens in ages unless it clarifies the text. For example, *a group of 10 18-year-old White House tourists*
+-   **ages**, avoid hyphens in ages unless it clarifies the text. For example, *a group of 10 18-year-old White House tourists*
 
 -   **agile**
 
--   **and** (never “&” or “+” unless part of an official title. For example, *D.C. Tech Lady Hackathon + Training Day*)
 
+-   **and**, never & or +, unless part of an official title. For example, *D.C. Tech Lady Hackathon + Training Day*
 
 **B**
 
@@ -39,27 +39,29 @@ explaining usage. Examples appear in italics.
 **F**
 
 
--   **federal** (unless part of a proper noun, like the Federal Bureau of Investigation)
+-   **federal**, unless part of a proper noun. For example, *Federal Bureau of Investigation*
+
+
 
 -   **federal government** (not Federal Government or Federal government)
-
--   **front end**, **front end development**
-
--   **full stack**, **full stack development**
 
 **G**
 
 -   **GitHub**
-
 -   **government**, unless part of a proper noun. For example, *Government Printing Office*
+
+**H**
+
+-   **human-centered design**
 
 **I**
 
--   “Info” is a conversational shortening of “information.” In formal situations, use the full word.
 
--   **Internet** should be capitalized in all instances.
+-   “Info” is an acceptable conversational shortening of “information.” In formal situations, use the full word.
+
 
 **N**
+
 
 -   Numbers - Spell out *one* to *nine*. Use numerals for numbers 10 or greater. This is true of ordinal numbers as well. Spell out *first* to *ninth*, and capture *10th* or greater with numerals. Sometimes the government writes about very large numbers: millions, billions, even trillions. We express these numbers with a numeral and a word. For example, *1.6 million people* or *5 billion dollars*.
 
@@ -77,6 +79,7 @@ explaining usage. Examples appear in italics.
 
 -   Slash - avoid using the “/” symbol. Replace the symbol with words.
 
+
 -   **startup**
 
 -   States:
@@ -89,15 +92,17 @@ explaining usage. Examples appear in italics.
 
 **T**
 
--   “Tech” is an informal shortening of “technology.” In formal situations, use the full word.
+-   “Tech” is an acceptable informal shortening of “technology.” In formal situations, use the full word.
 
--   Titles - don't capitalize titles unless they precede a name. For example, *the director got approval* or *Director Lopez got approval*. Whenever possible, keep titles gender neutral. For example, we prefer *firefighter* to *fireman* and *chairperson* to *chairman*.
+-   Titles — don't capitalize titles unless they precede a name. For example, *the director got approval* or *Director Lopez got approval*. Whenever possible, keep titles gender neutral. For example, we prefer *firefighter* to *fireman* and *chairperson* to *chairman*.
 
 **U**
 
 -   **United States government** or **U.S. government**, not "U.S. Government"
 
--   **U.S.**, not "US" or "USA"
+-   **U.S.**, not US or USA
+
+-   **user-centered design**
 
 **W**
 
