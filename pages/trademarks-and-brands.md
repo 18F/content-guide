@@ -34,7 +34,7 @@ of related companies instead of a single provider.
 For example, *Twitter, Facebook, or YouTube can help you connect with
 users.*
 
-Avoid linking to products or services, as this can be seen as an
+Avoid linking to products or services because people can see it as an
 endorsement. The same rule applies to the brands and products of
 individuals, such as personal websites or websites where you can buy
 their book. Do link to useful resources, like slide decks or how-to

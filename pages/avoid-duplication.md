@@ -7,7 +7,7 @@ If something is written once and links to relevant information easily
 and well, people are more likely to trust the content. Redundant content
 can cause confusion among readers and create anxiety on the part of
 users. If federal websites offer two similar pieces of content on a
-subject, the user may think they have missed others. They may end up
+subject, the user might think they have missed others. They might end up
 calling a help line or sending an email to the first address they find
 because they aren’t sure they have all the information.
 
