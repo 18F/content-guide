@@ -30,8 +30,8 @@ navigation:
 - text: Active voice
   url: active-voice/
   internal: true
-- text: Acronyms
-  url: acronyms/
+- text: Abbreviations
+  url: abbreviations/
   internal: true
 - text: Address the user
   url: address-the-user/
