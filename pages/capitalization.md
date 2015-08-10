@@ -6,7 +6,7 @@ title: Capitalization
 **Follow a consistent capitalization scheme**. Creating trustworthy
 internal and external communications relies, to a large extent, on the
 content’s consistency. Inconsistent spellings and capitalizations
-undermine our narrative authority. Unnecessary capitalization can also
+undermine your narrative authority. Unnecessary capitalization can also
 come off as overly formal and unapproachable. We follow these
 capitalization guidelines:
 
