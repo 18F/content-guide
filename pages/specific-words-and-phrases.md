@@ -34,9 +34,10 @@ explaining usage. Examples appear in italics.
 
 **F**
 
--   **federal government**, not "Federal Government" or "Federal government"
 
--   **federal**, unless part of a proper noun. For example, *Federal Bureau of Investigation*
+-   **federal** (unless part of a proper noun, like the Federal Bureau of Investigation)
+
+-   **federal government** (not Federal Government or Federal government)
 
 -   **front end**, **front end development**
 
