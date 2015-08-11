@@ -59,6 +59,11 @@ explaining usage. Examples appear in italics.
 
 -   “Info” is an acceptable conversational shortening of “information.” In formal situations, use the full word.
 
+**L**
+
+-   **login** when used as noun, for example, *I forgot my login name and password*, or when used as an adjective, for example *Make sure the login page is 508 complaint.*
+
+      - **log in** when used as a verb, for example, *You must log in to access your calendar.*
 
 **N**
 
