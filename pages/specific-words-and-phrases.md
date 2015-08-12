@@ -107,3 +107,7 @@ explaining usage. Examples appear in italics.
 **W**
 
 -   **Wi-Fi**
+
+**Y**
+
+-   Years - Use the full, four-digit year. For informal writing, it's acceptable to use an abbreviated form. For example, *We're thankful web design isn't stuck in the '90s.*
