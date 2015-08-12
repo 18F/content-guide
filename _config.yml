@@ -56,22 +56,25 @@ navigation:
   internal: true
 - text: Punctuation
   url: punctuation/
-  internal: true        
+  internal: true
 - text: Optimize headings and titles
   url: optimize-headings-and-titles/
-  internal: true  
+  internal: true
 - text: Frequently asked questions (FAQs)
   url: faqs/
   internal: true
 - text: Trademarks and brands
   url: trademarks-and-brands/
-  internal: true  
+  internal: true
+- text: Images
+  url: images/
+  internal: true
 - text: Specific words and phrases
   url: specific-words-and-phrases/
-  internal: true  
+  internal: true
 - text: References
   url: references/
-  internal: true      
+  internal: true
 
 repos:
 - name: 18F Content Guide
