@@ -1,6 +1,5 @@
 ---
 permalink: /capitalization/
-layout: default
 title: Capitalization
 ---
 **Follow a consistent capitalization scheme**. Creating trustworthy

@@ -1,6 +1,5 @@
 ---
 permalink: /legal-and-technical-content/
-layout: default
 title: Publishing legal and technical content
 ---
 **Present legal content in plain language**. It's important that we

@@ -1,6 +1,5 @@
 ---
 permalink: /address-the-user/
-layout: default
 title: Address the user
 ---
 **Address the user as *you* wherever possible.** Content on government

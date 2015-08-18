@@ -1,6 +1,5 @@
 ---
 permalink: /trademarks-and-brands/
-layout: default
 title: Trademarks and brands
 ---
 Avoid using a trademark unless you’re referring to a specific product.

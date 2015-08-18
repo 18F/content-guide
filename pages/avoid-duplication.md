@@ -1,6 +1,5 @@
 ---
 permalink: /avoid-duplication/
-layout: default
 title: Avoid duplication
 ---
 If something is written once and links to relevant information easily

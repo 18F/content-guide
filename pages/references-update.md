@@ -1,6 +1,5 @@
 ---
 permalink: /references/
-layout: default
 title: References
 ---
 We adapted this guide from [GOV.UK](https://www.gov.uk/)’s

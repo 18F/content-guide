@@ -1,6 +1,5 @@
 ---
 permalink: /active-voice/
-layout: default
 title: Active voice
 ---
 

@@ -1,6 +1,5 @@
 ---
 permalink: /specific-words-and-phrases/
-layout: default
 title: Specific words and phrases
 ---
 Below are rules for how 18F uses common words and phrases, in
