@@ -53,3 +53,5 @@ Although we advocate using words rather than symbols, in some contexts you may u
 
 *He paused before saying “bananas are not something people should
 hate.”*
+
+**Spaces:** Sentences should always be separated by a single space. Never two spaces. 
