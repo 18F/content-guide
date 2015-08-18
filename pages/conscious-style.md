@@ -1,6 +1,5 @@
 ---
 permalink: /conscious-style/
-layout: default
 title: Conscious style
 ---
 We follow the [Conscious Style Guide](http://consciousstyleguide.com/)

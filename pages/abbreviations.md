@@ -1,6 +1,5 @@
 ---
 permalink: /abbreviations/
-layout: default
 title: Abbreviations
 ---
 **Abbreviations can confuse readers. Spell the words whenever possible.**

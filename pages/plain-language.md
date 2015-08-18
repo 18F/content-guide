@@ -1,6 +1,5 @@
 ---
 permalink: /plain-language/
-layout: default
 title: Plain language
 ---
 Plain language is mandatory for [all federal government
