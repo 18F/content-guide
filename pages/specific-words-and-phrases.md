@@ -89,6 +89,7 @@ explaining usage. Examples appear in italics.
 **U**
 
 -   **United States government** or **U.S. government**, not "U.S. Government"
+-   URLs should be lowercase, even when they appear at the start of a sentence. For example, *notalone.gov launched today*.
 -   **U.S.**, not US or USA
 -   **user-centered design**
 
