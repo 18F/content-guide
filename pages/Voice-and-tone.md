@@ -1,4 +1,7 @@
-## Voice and tone
+---
+permalink: /voice-and-tone/
+title: Voice and tone
+---
 
 If you’re like many folks, you might not be sure of the difference between voice and tone. Maybe you’ve never deliberately crafted a voice and don’t know where to start. Not to fret! In this section, we’ll discuss the differences between voice and tone, how we describe our organizational voice, how to establish your own voice, and how to choose a tone that’s appropriate for whatever you’re writing.
 
@@ -16,11 +19,11 @@ At 18F, we like to communicate in a friendly, straightforward way. We consider o
 
 * Authoritative
 * Conversational
-* Friendly 
+* Friendly
 * Instructive
-* Welcoming to all audiences 
+* Welcoming to all audiences
 
-We believe that government communication can — and should — be fun and easy to read, and our voice represents this. 
+We believe that government communication can — and should — be fun and easy to read, and our voice represents this.
 
 Here are a few sentences, taken from the [18F Content Guide] (https://pages.18f.gov/content-guide/), that exemplify our voice:
 
@@ -28,11 +31,11 @@ We created this guide for reference on an as-needed basis. It’s here when you�
 
 ## Use contractions  
 
-In all of the communication we produce, we want to create a strong connection with our users. We want to get them the information they need in a straightforward way and show that we know what’s important to them. As a government organization, we need to sound somewhat official; we also recognize that official doesn’t need to translate to stuffy, archaic, or aloof. 
+In all of the communication we produce, we want to create a strong connection with our users. We want to get them the information they need in a straightforward way and show that we know what’s important to them. As a government organization, we need to sound somewhat official; we also recognize that official doesn’t need to translate to stuffy, archaic, or aloof.
 
 For this reason, we use contractions in the writing we create for our site. We also encourage clients to consider using contractions, too, though we recognize this may not be the right choice for all contexts.  
 
-The government is run by people for the benefit of people, and we never want users to forget that 18F is a group of enthusiastic, dedicated, hardworking (and friendly) folks. This desire informs how we craft our voice. 
+The government is run by people for the benefit of people, and we never want users to forget that 18F is a group of enthusiastic, dedicated, hardworking (and friendly) folks. This desire informs how we craft our voice.
 
 ## Establishing your own voice
 
@@ -44,7 +47,7 @@ To describe your voice — which, in turn, will allow you to diagram it, create 
 
 **Who is my audience?** In writing, as elsewhere, your audience is paramount — without them, you’d have no reason to write. Put yourself in their situation and think about the stylistic traits that might appeal to them. Remember, your voice doesn’t need to appeal to everyone (and, in fact, shouldn’t — cure-alls cure nothing, as the old saying goes).
 
-Use your answers to these questions to craft a description of your voice. Once you’ve come up with your description, look it over and identify any contradictions or holes (never a good thing). While voices should be nuanced, they should also be cohesive. 
+Use your answers to these questions to craft a description of your voice. Once you’ve come up with your description, look it over and identify any contradictions or holes (never a good thing). While voices should be nuanced, they should also be cohesive.
 
 ## Choosing a tone
 

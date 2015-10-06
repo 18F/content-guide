@@ -71,6 +71,9 @@ navigation:
 - text: Images
   url: images/
   internal: true
+- text: Voice and tone
+  url: voice-and-tone/
+  internal: ture
 - text: Specific words and phrases
   url: specific-words-and-phrases/
   internal: true
