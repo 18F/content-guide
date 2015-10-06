@@ -1,11 +1,11 @@
 ---
-permalink: /abbreviations/
+permalink: /acronyms-and-abbreviations/
 title: Acronyms and abbreviations
 ---
 
 Abbreviations are any shortened or contracted word or phrase. For example, writing *St.* instead of *Street*, or *Rx* for *prescription*, or *D.C.* for *District of Columbia*. 
 
-Acronyms are a *type* of abbreviation. They shorten phrases in a specific way— using parts of the initial word or phrase (usually letters) to form an abbreviation. For example, *DIY* or *ASAP*. 
+Acronyms are a *type* of abbreviation. They shorten phrases in a specific way— using parts of the initial word or phrase (usually letters) to form an abbreviation. For example, *DIY* or *ASAP*.
 
 In the most technical sense, there is a difference between acronyms (abbreviations pronounced as words, like *NASA*) and initialisms (abbreviations pronounced as letters, like *FBI*). For simplicity, our content guide refers to both as acronyms. The readability issues that acronyms and initialisms create tend to be similar, and “acronym” is the more common term.
 

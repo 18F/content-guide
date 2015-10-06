@@ -32,8 +32,8 @@ navigation:
 - text: Active voice
   url: active-voice/
   internal: true
-- text: Abbreviations
-  url: abbreviations/
+- text: Acronyms and abbreviations
+  url: acronyms-and-abbreviations/
   internal: true
 - text: Address the user
   url: address-the-user/
@@ -71,6 +71,9 @@ navigation:
 - text: Images
   url: images/
   internal: true
+- text: Voice and tone
+  url: voice-and-tone/
+  internal: ture
 - text: Specific words and phrases
   url: specific-words-and-phrases/
   internal: true
