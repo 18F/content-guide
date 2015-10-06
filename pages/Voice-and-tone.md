@@ -59,10 +59,10 @@ Let’s consider three examples that target three different reader groups. Obitu
 
 <table>
     <tr>
-        <td>**Type of writing**</td>
-        <td>**Intended readership**</td>
-        <td>**Tone**</td>
-        <td>**Example**</td>
+        <td><strong>Type of writing</strong></td>
+        <td><strong>Intended readership</strong></td>
+        <td><strong>Tone</strong></td>
+        <td><strong>Example</strong></td>
     </tr>
     <tr>
         <td>Obituary of a prominent community member</td>
@@ -74,7 +74,7 @@ Let’s consider three examples that target three different reader groups. Obitu
         <td>Blog post announcing open source documentation guide</td>
         <td>Developers and other readers with a strong tech background</td>
         <td>Direct, impartial</td>
-        <td>“The [Open Source Style Guide] (https://18f.gsa.gov/2015/07/29/style-guide-for-open-source-documentation/) is a comprehensive handbook for writing clear, accessible, and user-friendly documentation so that your open source code repositories are accessible both internally and externally.</td>
+        <td>“The <a href="https://18f.gsa.gov/2015/07/29/style-guide-for-open-source-documentation/">Open Source Style Guide</a> is a comprehensive handbook for writing clear, accessible, and user-friendly documentation so that your open source code repositories are accessible both internally and externally.</td>
     </tr>
     <tr>
         <td>Marketing email from the boutique bridal department of a well-known clothing company </td>
