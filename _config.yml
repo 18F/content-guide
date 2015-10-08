@@ -73,7 +73,7 @@ navigation:
   internal: true
 - text: Voice and tone
   url: voice-and-tone/
-  internal: ture
+  internal: true
 - text: Specific words and phrases
   url: specific-words-and-phrases/
   internal: true
