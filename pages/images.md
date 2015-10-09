@@ -70,7 +70,7 @@ we generally hold our work to a higher standard specified by the Web
 Content Accessibility Guidelines’ (WCAG) AA standard.
 
 For images this means every image on a web page must have “alt text”
-describing the image. Additionally, and text that appears in the image
+describing the image. Additionally, any text that appears in the image
 must also appear in the alt text. Most screen readers already add “Image
 of” when reading out an image, so alt text like “Image of the 18F logo”
 is redundant because screen readers will read it “Image of image of the
