@@ -56,6 +56,9 @@ navigation:
 - text: Publishing legal and technical content
   url: legal-and-technical-content/
   internal: true
+- text: URLs and filenames
+  url: urls-and-filenames/
+  internal: true
 - text: Punctuation
   url: punctuation/
   internal: true
