@@ -43,7 +43,7 @@ def_command :update_gems, 'Update Ruby gems' do |gems|
   update_gems gems
 end
 
-def_command :serve, 'Serve the site at localhost:4000' do |args|
+def_command :serve, 'Serve the site at localhost:4000 (or at host and port specified by -H and -P)' do |args|
   serve_jekyll args
 end
 
