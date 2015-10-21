@@ -29,11 +29,11 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Active voice
-  url: active-voice/
-  internal: true
 - text: Acronyms and abbreviations
   url: acronyms-and-abbreviations/
+  internal: true
+- text: Active voice
+  url: active-voice/
   internal: true
 - text: Address the user
   url: address-the-user/
@@ -44,45 +44,46 @@ navigation:
 - text: Be concise
   url: be-concise/
   internal: true
-- text: Conscious style
-  url: conscious-style/
-  internal: true
-- text: Plain language
-  url: plain-language/
-  internal: true
 - text: Capitalization
   url: capitalization/
   internal: true
-- text: Publishing legal and technical content
-  url: legal-and-technical-content/
-  internal: true
-- text: URLs and filenames
-  url: urls-and-filenames/
-  internal: true
-- text: Punctuation
-  url: punctuation/
-  internal: true
-- text: Optimize headings and titles
-  url: optimize-headings-and-titles/
+- text: Conscious style
+  url: conscious-style/
   internal: true
 - text: Frequently asked questions (FAQs)
   url: faqs/
   internal: true
-- text: Trademarks and brands
-  url: trademarks-and-brands/
-  internal: true
 - text: Images
   url: images/
   internal: true
-- text: Voice and tone
-  url: voice-and-tone/
+- text: Optimize headings and titles
+  url: optimize-headings-and-titles/
   internal: true
-- text: Specific words and phrases
-  url: specific-words-and-phrases/
+- text: Plain language
+  url: plain-language/
+  internal: true
+- text: Publishing legal and technical content
+  url: legal-and-technical-content/
+  internal: true
+- text: Punctuation
+  url: punctuation/
   internal: true
 - text: References
   url: references/
   internal: true
+- text: Specific words and phrases
+  url: specific-words-and-phrases/
+  internal: true
+- text: Trademarks and brands
+  url: trademarks-and-brands/
+  internal: true
+- text: URLs and filenames
+  url: urls-and-filenames/
+  internal: true
+- text: Voice and tone
+  url: voice-and-tone/
+  internal: true
+
 
 repos:
 - name: 18F Content Guide
