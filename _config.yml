@@ -68,9 +68,6 @@ navigation:
 - text: Punctuation
   url: punctuation/
   internal: true
-- text: References
-  url: references/
-  internal: true
 - text: Specific words and phrases
   url: specific-words-and-phrases/
   internal: true
@@ -83,7 +80,9 @@ navigation:
 - text: Voice and tone
   url: voice-and-tone/
   internal: true
-
+- text: References
+  url: references/
+  internal: true
 
 repos:
 - name: 18F Content Guide
