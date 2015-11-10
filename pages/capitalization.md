@@ -15,7 +15,7 @@ capitalization guidelines:
 
 -   Don't capitalize “federal” or “government”
 
-See additional capitalization rules in the [Specific words and phrases](https://pages.18f.gov/content-style-guide/specific-words-and-phrases/)
+See additional capitalization rules in the [Specific words and phrases](https://pages.18f.gov/content-guide/specific-words-and-phrases/)
 section.
 
 **Headings:** Headlines, page titles, subheads and similar content
