@@ -56,6 +56,9 @@ navigation:
 - text: Images
   url: images/
   internal: true
+- text: Numbers and percentages
+  url: numbers-and-percentages/
+  internal: true
 - text: Optimize headings and titles
   url: optimize-headings-and-titles/
   internal: true
