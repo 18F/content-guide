@@ -181,7 +181,11 @@ Both:
 Maintaining URLs
 ----------------
 
-URLs should never stop working.
+Users constantly bookmark and share web pages, making the maintenance of 
+permanent and long-lasting URLs an important piece of content management. 
+Broken links obscure the internet landscape.
+
+URLs should never stop working. 
 
 This is not as technically challenging as it sounds. If the domain — the
 high-level domain, not subdomains — is lost, the URLs will be lost, but
@@ -189,8 +193,10 @@ otherwise it’s entirely possible to keep them working. Planning for them
 to continue working is the first step in any process that involves new
 URLs.
 
-If a URL is changed, the old URL should redirect to the new one. There
-are a variety of ways to accomplish this, some of them requiring more
+Whenever possible, maintain original URLs. 
+In all other cases, set up a redirect for outdated URLs and links; 
+this is almost always a painless task for web managers. There are a variety 
+of ways to accomplish this, some of them requiring more
 technical work than others. It’s most difficult to accomplish when
 moving from URLs that include query parameters, as some early website
 systems did. Sensibly-constructed URLs are easier to migrate.
