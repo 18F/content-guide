@@ -25,6 +25,7 @@ explaining usage. Examples appear in italics.
 **D**
 
 -   **D.C.**, not "DC"
+-   **digital coalition**
 -   **drop-down** when used as an adjective. For example, *drop-down menu.* **drop down** when used as a noun. For example, *an option from the drop down.* Never "dropdown."
 
 **E**
