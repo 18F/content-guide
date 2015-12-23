@@ -22,6 +22,12 @@ explaining usage. Examples appear in italics.
 
 -   **back end**, **back end development**
 
+**C**
+
+-   **Congress** is a noun that refers to the U.S. Senate and House of Representatives
+-   **congressional** is lowercase unless part of a proper name. For example, *Congressional Record*
+
+
 **D**
 
 -   **D.C.**, not "DC"
@@ -31,6 +37,8 @@ explaining usage. Examples appear in italics.
 **E**
 
 -   **email**, not "e-mail"
+-   **executive branch**
+
 
 **F**
 
