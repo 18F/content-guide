@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 name: 18F Content Guide
 exclude:
 - CONTRIBUTING.md
@@ -10,6 +10,8 @@ exclude:
 
 permalink: pretty
 highlighter: rouge
+kramdown:
+  auto_ids: true
 
 sass:
   style: :compressed
