@@ -45,6 +45,9 @@ navigation:
 - text: Conscious style
   url: conscious-style/
   internal: true
+- text: How users read 
+  url: how-users-read/
+  internal: true
 - text: Plain language
   url: plain-language/
   internal: true
