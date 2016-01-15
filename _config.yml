@@ -55,6 +55,9 @@ navigation:
 - text: Frequently asked questions (FAQs)
   url: faqs/
   internal: true
+- text: How users read 
+  url: how-users-read/
+  internal: true
 - text: Images
   url: images/
   internal: true
