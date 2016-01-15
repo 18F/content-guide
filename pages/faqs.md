@@ -1,6 +1,5 @@
 ---
 permalink: /faqs/
-layout: default
 title: Frequently asked questions (FAQs)
 ---
 FAQs are bad. We don't like them. **If you write content by starting
@@ -12,12 +11,12 @@ content editor. In most cases, FAQ content is not where users expect to
 find it, which makes users’ experience frustrating and less than
 informative.
 
-If you find yourself contemplating an FAQ, instead consider going to the
-places in your website that are generating questions and rethinking how
-you can alter that content or design to solve the question. Or provide
-an answer in the context of the user experience so that users don’t have
-to navigate to an additional page to find the answer.
+If you're thinking about adding FAQs, consider reviewing the content on
+your website that is generating questions and think about how you can 
+change the content or design to answer the question — or provide an 
+answer in context to prevent people from visiting an additional webpage
+to find the answer.
 
-If you receive many of the same types of inquires via email, take note
-that your users are identifying for you a gap in your content. Pay
-attention and correct this content gap as quickly as you can.
+If you receive similar questions by email, take note
+that your users are identifying problems in your content. Pay
+attention to correct these problems as quickly as possible.

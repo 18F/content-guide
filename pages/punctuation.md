@@ -1,10 +1,9 @@
 ---
 permalink: /punctuation/
-layout: default
 title: Punctuation
 ---
 
-Bulleted lists should adhere to the following guidelines: Capitalize the first word of every bullet. Include a period at the end of the bullet only if that point is a complete sentence. See the examples below.
+**Bulleted lists:** Capitalize the first word of every bullet. Include a period at the end of the bullet only if that point is a complete sentence. See the examples below.
 
 *When you go to the store, please buy:*
 
@@ -54,3 +53,5 @@ Although we advocate using words rather than symbols, in some contexts you may u
 
 *He paused before saying “bananas are not something people should
 hate.”*
+
+**Spaces:** Sentences should always be separated by a single space. Never two spaces. 

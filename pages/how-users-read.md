@@ -1,6 +1,5 @@
 ---
 permalink: /how-users-read/
-layout: default
 title: How users read
 ---
 ## Consider the reader
