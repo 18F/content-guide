@@ -9,12 +9,13 @@ We designed this guide with readers in mind. The strategies and techniques we de
 ### Important information first
 Online, users tend to scan text until they find the information they need. No matter how carefully you craft your content, most people will only read [25 percent of it](https://www.nngroup.com/articles/website-reading/). This statistic isn’t meant to dishearten; rather, we believe it underscores the importance of getting content right.
 
-Put the most important information in the first two paragraphs. That’s the section users are most likely to read. In journalism, this technique is called the “inverted pyramid.” 
+Put the most important information in the first two paragraphs. That’s the section users are most likely to read. In journalism, this technique is called the “inverted pyramid.”
 
 ### Break up text
 Large chunks of text can overwhelm readers. Use subheads and bullet points; they provide clear narrative structure for readers in a hurry. Meanwhile, put your information-carrying words at the beginning of your sentences, and keep them in [active voice](https://pages.18f.gov/content-guide/active-voice/).
 
 For example:
+
 - Original subhead: *Looking into the regulation of campaign finances*
 - Better subhead: *Campaign finance law explained*
 
@@ -52,15 +53,12 @@ If you’re wrangling a lot of data, tables can help you visualize that content.
 </table>
 
 ### Keep sentences short and sweet
-Craft sentences at 25 words or fewer, whenever possible. If a sentence has fewer than 14 words, [readers understand 90 percent of content](http://comprehension.prsa.org/?p=217). At 25 words, sentences are markedly more difficult to comprehend. 
+Craft sentences at 25 words or fewer, whenever possible. If a sentence has fewer than 14 words, [readers understand 90 percent of content](http://comprehension.prsa.org/?p=217). At 25 words, sentences are markedly more difficult to comprehend.
 
-We also recommend varying sentence length. Switching things up helps you keep readers interested. This tactic will also give you better control of your content’s [tone](https://pages.18f.gov/content-guide/voice-and-tone/)— a text with only short sentences can unintentionally sound terse. The occasional longer sentence adds a bit of narrative interest (and can help a piece of writing sound friendlier, too). 
+We also recommend varying sentence length. Switching things up helps you keep readers interested. This tactic will also give you better control of your content’s [tone](https://pages.18f.gov/content-guide/voice-and-tone/) — a text with only short sentences can unintentionally sound terse. The occasional longer sentence adds a bit of narrative interest (and can help a piece of writing sound friendlier, too).
 
-Here’s an example of how you might transform a too-long sentence into something more manageable: 
+Here’s an example of how you might transform a too-long sentence into something more manageable:
 
 - Too long: *Due to privacy and logistical considerations, passes cannot be replaced if lost or stolen; a new Paper Voucher must be accessed by going to the everykidinapark.gov website and completing the same activities to obtain a new Paper Voucher.*
 
 - Easier to read: *Unfortunately, we can’t replace lost or stolen passes. Get a new pass by visiting everykidinapark.gov and signing up again.*
-
-
-
