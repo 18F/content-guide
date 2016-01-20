@@ -108,4 +108,4 @@ Write conversationally. Picture your audience and write as if you were
 talking to them one-on-one and with the authority of someone who can
 actively help.
 
-For a comprehensive explanation of plain language, please check out the [Federal Plain Language Guidelines] (http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=3861979&CFTOKEN=cbb4a39d1e0a1042-298391FB-E153-0A73-341ABEDF77AE21AF&jsessionid=83029D534F870FEEDAB242987DF50ECB.chh).
+For a comprehensive explanation of plain language, please check out the [Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=3861979&CFTOKEN=cbb4a39d1e0a1042-298391FB-E153-0A73-341ABEDF77AE21AF&jsessionid=83029D534F870FEEDAB242987DF50ECB.chh).
