@@ -25,7 +25,7 @@ At 18F, we like to communicate in a friendly, straightforward way. We consider o
 
 We believe that government communication can — and should — be fun and easy to read, and our voice represents this.
 
-Here are a few sentences, taken from the [18F Content Guide] (https://pages.18f.gov/content-guide/), that exemplify our voice:
+Here are a few sentences, taken from the [18F Content Guide](https://pages.18f.gov/content-guide/), that exemplify our voice:
 
 We created this guide for reference on an as-needed basis. It’s here when you’re wondering whether to capitalize the word federal, for instance, or when you’re wondering how to create a friendly, informational tone.
 
