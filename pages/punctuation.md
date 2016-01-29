@@ -3,7 +3,7 @@ permalink: /punctuation/
 title: Punctuation
 ---
 
-**Bulleted lists:** Capitalize the first word of every bullet. Include a period at the end of the bullet only if that point is a complete sentence. See the examples below.
+**Bulleted lists:** Capitalize the first word of every bullet. Don't use semicolons after points in a bulleted list. Include a period at the end of the bullet only if that point is a complete sentence. See the examples below.
 
 *When you go to the store, please buy:*
 
