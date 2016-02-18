@@ -94,6 +94,7 @@ explaining usage. Examples appear in italics.
 
 -   “Tech” is an acceptable informal shortening of “technology.” In formal situations, use the full word.
 -   Titles — don't capitalize titles unless they precede a name. For example, *the director got approval* or *Director Lopez got approval*. Whenever possible, keep titles gender neutral. For example, we prefer *firefighter* to *fireman* and *chairperson* to *chairman*.
+-   Use **to do** as a noun and **to-do** as an adjective. For example, *your to dos* or *your to-do list*.
 
 **U**
 
