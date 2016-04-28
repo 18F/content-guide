@@ -31,6 +31,9 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
+- text: Content principles
+  url: content-principles/
+  internal: true
 - text: Acronyms and abbreviations
   url: acronyms-and-abbreviations/
   internal: true
