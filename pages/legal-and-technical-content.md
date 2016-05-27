@@ -13,3 +13,7 @@ always explain it in plain language.
 
 Use technical terms when necessary. They're not jargon — you
 need only explain what they mean the first time you reference them.
+
+If you are publishing the source code for a project, the
+[18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/)
+can help you make the project easy to use and understand.
