@@ -33,6 +33,10 @@ Try:
 
 > [Create an issue](https://github.com/18F/writing-lab/issues/new) with details about your request.
 
+Or:
+
+> To get started, [create an issue](https://github.com/18F/writing-lab/issues/new) in GitHub with details about your request.
+
 Focus on what the reader can do rather than what they can’t. (This is known as using positive language.)
 
 Instead of:
