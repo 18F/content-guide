@@ -13,20 +13,35 @@ Help the reader follow along. Break instructions or processes down into individu
 
 Refer to navigation labels, buttons, and menus as they appear in the app or website. Verify the spelling and capitalization as you write. Be specific.
 
-* Instead of: _Open a new meeting invitation._
-* Try: _In Google Calendar, click **Create**._
+Instead of:
+
+> Open a new meeting invitation.
+
+Try:
+
+> In Google Calendar, click **Create**.
 
 ### Direct the reader.
 
 Start your sentences with active verbs or clear objectives.
 
-* Instead of: _Help us understand what kind of help you need by [creating an issue in GitHub](https://github.com/18F/writing-lab/issues/new)._
-* Try: _[Create an issue](https://github.com/18F/writing-lab/issues/new) with details about your request._
+Instead of:
+
+> Help us understand what kind of help you need by [creating an issue in GitHub](https://github.com/18F/writing-lab/issues/new).
+
+Try:
+
+> [Create an issue](https://github.com/18F/writing-lab/issues/new) with details about your request.
 
 Focus on what the reader can do rather than what they can’t. (This is known as using positive language.)
 
-* Instead of: _You cannot continue without signing in._
-* Try: _Sign in to continue._
+Instead of:
+
+> You cannot continue without signing in.
+
+Try:
+
+> Sign in to continue.
 
 ## Guidelines
 
@@ -68,10 +83,10 @@ var value = el.options[el.selectedIndex].value;
 
 Use [straight quotes](http://smartquotesforsmartpeople.com/) within code blocks rather than curly (or smart) quotes.
 
-### Code-like elements
+#### Code-like elements
 
-The same rules apply to pieces of content that must be used exactly as
-presented, such as passwords or WiFi network names:
+The same rules apply to pieces of text that must be used exactly as
+presented, such as passwords or Wi-Fi network names:
 
 > `someCl3v3rN4me` is the name of our WiFi network.
 > Your password is `PleaseChangeMeSoon`.
@@ -86,13 +101,13 @@ Use clear verbs to tell readers how to interact with interface elements:
 
 In the 18F Handbook, we emphasize the name of the interface label like so:
 
-* _In the **File** menu, choose **Save**._
-* _Select **I agree**._
-* _Click **Continue**._
+> In the **File** menu, choose **Save**.
+> Select **I agree**.
+> Click **Continue**.
 
 ### Tables
 
-Tables are generally suitable only for data: two or more “objects” (rows) that share two or more “values” (columns). In tables, column widths are the same for all rows, which can make them easier to scan visually. Tables are also more easily navigable for sightless users. Here are some other guidelines to consider:
+Tables are generally suitable only for data: two or more “objects” (rows) that share two or more “values” (columns). In tables, column widths are the same for all rows, which can make them easier to scan visually. Tables are [easily navigable for sightless users](http://webaim.org/techniques/tables/) so long as the content is ordered in a logical way. Here are some other guidelines to consider:
 
 * When listing numbers, it’s good practice to align them to the right of their cell, with the same decimal precision (“40.50” and “1.00”) so that the numbers are easier to compare while scanning.
 * Always align column headings up with the values in the columns. For example, numeric column headings should be aligned right if the values are, too.
@@ -102,9 +117,11 @@ Tables are generally suitable only for data: two or more “objects” (rows) th
 It’s rare that a document lives on its own. Tell people where to go for help if they have questions.
 
 For documentation and guides, you might say:
-* For more information, see the [18F Code of Conduct](https://github.com/18F/code-of-conduct).
+
+> For more information, see the [18F Code of Conduct](https://github.com/18F/code-of-conduct).
 
 To refer the reader to a Slack channel, follow this format from the 18F Handbook:
-* Still have questions? Ask in []#newcomers](https://18f.slack.com/archives/newcomers).
+
+> Still have questions? Ask in [#newcomers](https://18f.slack.com/archives/newcomers).
 
 If your work relates to several other documents, pick the most important ones or gather the links in a section at the bottom.
