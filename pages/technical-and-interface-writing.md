@@ -88,7 +88,7 @@ Use [straight quotes](http://smartquotesforsmartpeople.com/) within code blocks 
 The same rules apply to pieces of text that must be used exactly as
 presented, such as passwords or Wi-Fi network names:
 
-> `someCl3v3rN4me` is the name of our WiFi network.
+> `someCl3v3rN4me` is the name of our WiFi network.  
 > Your password is `PleaseChangeMeSoon`.
 
 ### Interface elements
@@ -101,9 +101,9 @@ Use clear verbs to tell readers how to interact with interface elements:
 
 In the 18F Handbook, we emphasize the name of the interface label like so:
 
-> In the **File** menu, choose **Save**.  
-> Select **I agree**.  
-> Click **Continue**.
+> 1. In the **File** menu, choose **Save**.  
+> 2. Select **I agree**.  
+> 3. Click **Continue**.
 
 ### Tables
 
