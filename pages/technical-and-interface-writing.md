@@ -107,7 +107,7 @@ In the 18F Handbook, we emphasize the name of the interface label like so:
 
 ### Tables
 
-Tables are generally suitable only for data: two or more “objects” (rows) that share two or more “values” (columns). In tables, column widths are the same for all rows, which can make them easier to scan visually. Tables are [easily navigable for sightless users](http://webaim.org/techniques/tables/) so long as the content is ordered in a logical way. Here are some other guidelines to consider:
+Tables are generally suitable only for data: two or more “objects” (rows) that share two or more “values” (columns). In tables, column widths are the same for all rows, which can make them easier to scan visually. Tables are [easily navigable for sightless users](http://webaim.org/techniques/tables/) so long as the content is organized in a logical way. Here are some other guidelines to consider:
 
 * When listing numbers, it’s good practice to align them to the right of their cell, with the same decimal precision (“40.50” and “1.00”) so that the numbers are easier to compare while scanning.
 * Always align column headings up with the values in the columns. For example, numeric column headings should be aligned right if the values are, too.
