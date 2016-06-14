@@ -56,7 +56,7 @@ Be consistent with how you phrase titles. If your guide or tutorial has several 
 * Nouns: _Policies_, _Teams_, _Offices_
 * Verbs: _Create an account_, _File a report_, _Download our data_
 
-[Use sentence case](https://pages.18f.gov/content-guide/capitalization/) for headings. (If you’re writing articles for the 18F Handbook or 18F Pages, the table of contents will auto-generate based on your `<h2>`, `<h3>`, and `<h4>` tags.)
+[Use sentence case](https://pages.18f.gov/content-guide/capitalization/) for headings. (If you’re writing articles for the 18F Handbook or 18F Pages, the table of contents will auto-generate based on your `<h2>`, `<h3>`, and `<h4>` tags or Markdown headings.)
 
 ### Introduction
 
@@ -101,7 +101,7 @@ Use clear verbs to tell readers how to interact with interface elements:
 
 * _Choose_ from drop-down menus.
 * _Select_ or _deselect_ checkboxes and radio buttons.
-* _Click_ buttons and links.
+* _Click_ or _tap_ buttons and links.
 
 In the 18F Handbook, we emphasize the name of the interface label like so:
 

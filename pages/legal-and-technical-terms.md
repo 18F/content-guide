@@ -3,9 +3,9 @@ permalink: /legal-and-technical-terms/
 title: Legal and technical terms
 ---
 
-It's important that we present complicated information simply to increase the likelihood people will understand it.
+Present complicated information clearly so it’s easier to understand.
 
-A rule of thumb: If you need to include legal jargon, make sure you also write a short, plain-language summary to go along with it. Where evidence shows there's a clear user need for including a legal term, always explain it in plain language.
+If you need to include legal jargon, make sure you also write a short, plain-language summary to go along with it. Where evidence shows there’s a clear user need for including a legal term, always explain it in plain language.
 
 Use technical terms when necessary. They're not jargon — you need only explain what they mean the first time you reference them.
 
