@@ -27,15 +27,15 @@ Start your sentences with active verbs or clear objectives.
 
 Instead of:
 
-> Help us understand what kind of help you need by [creating an issue in GitHub](https://github.com/18F/writing-lab/issues/new).
+> Help us understand what kind of help you need by [creating an issue in GitHub](https://github.com/18F/FEC/issues/new).
 
 Try:
 
-> [Create an issue](https://github.com/18F/writing-lab/issues/new) with details about your request.
+> [Create an issue](https://github.com/18F/FEC/issues/new) with details about your request.
 
 Or:
 
-> To get started, [create an issue](https://github.com/18F/writing-lab/issues/new) in GitHub with details about your request.
+> To get started, [create an issue](https://github.com/18F/FEC/issues/new) in GitHub with details about your request.
 
 Focus on what the reader can do rather than what they can’t. (This is known as using positive language.)
 
