@@ -58,11 +58,17 @@ navigation:
 - text: Frequently asked questions (FAQs)
   url: faqs/
   internal: true
-- text: How users read 
+- text: How users read
   url: how-users-read/
   internal: true
 - text: Images
   url: images/
+  internal: true
+- text: Interface and technical writing
+  url: technical-and-interface-writing/
+  internal: true
+- text: Legal and technical terms
+  url: legal-and-technical-terms/
   internal: true
 - text: Numbers and percentages
   url: numbers-and-percentages/
@@ -72,9 +78,6 @@ navigation:
   internal: true
 - text: Plain language
   url: plain-language/
-  internal: true
-- text: Publishing legal and technical content
-  url: legal-and-technical-content/
   internal: true
 - text: Punctuation
   url: punctuation/
