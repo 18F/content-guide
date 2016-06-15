@@ -101,7 +101,8 @@ Use clear verbs to tell readers how to interact with interface elements:
 
 * _Choose_ from drop-down menus.
 * _Select_ or _deselect_ checkboxes and radio buttons.
-* _Click_ or _tap_ buttons and links.
+* _Click_ or _tap_ buttons.
+* _Follow_ or _open_ links.
 
 In the 18F Handbook, we emphasize the name of the interface label like so:
 
