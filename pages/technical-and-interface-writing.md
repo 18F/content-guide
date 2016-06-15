@@ -92,7 +92,7 @@ Use [straight quotes](http://smartquotesforsmartpeople.com/) within code blocks 
 The same rules apply to pieces of text that must be used exactly as
 presented, such as passwords or Wi-Fi network names:
 
-> `someCl3v3rN4me` is the name of our WiFi network.  
+> `someCl3v3rN4me` is the name of our Wi-Fi network.  
 > Your password is `PleaseChangeMeSoon`.
 
 ### Interface elements
