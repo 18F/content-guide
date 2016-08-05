@@ -1,5 +1,6 @@
 ---
 title: Acronyms and abbreviations
+permalink: /acronyms-and-abbreviations/
 ---
 
 Abbreviations are any shortened or contracted word or phrase. For example, writing *St.* instead of *Street*, or *Rx* for *prescription*, or *D.C.* for *District of Columbia*. 

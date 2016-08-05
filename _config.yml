@@ -30,15 +30,24 @@ collections:
     output: true
     permalink: /:path/
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
-  url: index.html
-  internal: true
 - text: Content principles
   url: content-principles/
   internal: true
+  children:
+  - text: Easy to read
+    url: easy-to-read/
+    internal: true
 - text: Acronyms and abbreviations
   url: acronyms-and-abbreviations/
   internal: true
@@ -69,7 +78,7 @@ navigation:
 - text: Images
   url: images/
   internal: true
-- text: Interface and technical writing
+- text: Technical and interface writing
   url: technical-and-interface-writing/
   internal: true
 - text: Legal and technical terms
@@ -96,11 +105,11 @@ navigation:
 - text: URLs and filenames
   url: urls-and-filenames/
   internal: true
-- text: Voice and tone
-  url: voice-and-tone/
-  internal: true
 - text: References
   url: references/
+  internal: true
+- text: Voice and tone
+  url: Voice-and-tone/
   internal: true
 
 repos:
@@ -113,13 +122,6 @@ google_analytics_ua: UA-48605964-19
 back_link:
   url: "https://pages.18f.gov/guides/"
   text: Read more 18F Guides
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "guides_style_18f_default"
 
 # Configuration for jekyll_pages_api_search plugin gem.
 jekyll_pages_api_search:
