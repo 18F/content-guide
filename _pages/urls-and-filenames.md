@@ -1,5 +1,4 @@
 ---
-permalink: /urls-and-filenames/
 title: URLs and filenames
 ---
 

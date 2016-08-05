@@ -1,5 +1,4 @@
 ---
-permalink: /references/
 title: References
 ---
 We adapted this guide from [GOV.UK](https://www.gov.uk/)’s excellent work, and we’d like to thank their content team for championing plain language and information accessibility.

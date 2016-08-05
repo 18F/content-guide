@@ -1,5 +1,4 @@
 ---
-permalink: /acronyms-and-abbreviations/
 title: Acronyms and abbreviations
 ---
 

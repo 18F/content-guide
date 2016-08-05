@@ -1,5 +1,4 @@
 ---
-permalink: /technical-and-interface-writing/
 title: Technical and interface writing
 ---
 

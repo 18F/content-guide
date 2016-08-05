@@ -1,5 +1,4 @@
 ---
-permalink: /plain-language/
 title: Plain language
 ---
 Plain language is mandatory for [all federal government

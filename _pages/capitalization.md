@@ -1,5 +1,4 @@
 ---
-permalink: /capitalization/
 title: Capitalization
 ---
 **Follow a consistent capitalization scheme**. Creating trustworthy

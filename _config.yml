@@ -25,6 +25,11 @@ author:
 logourl: /assets/img/18f-logo.png
 logoalt: 18F logo
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:

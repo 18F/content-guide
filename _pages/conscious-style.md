@@ -1,5 +1,4 @@
 ---
-permalink: /conscious-style/
 title: Conscious style
 ---
 We follow the [Conscious Style Guide](http://consciousstyleguide.com/)

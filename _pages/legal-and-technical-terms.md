@@ -1,5 +1,4 @@
 ---
-permalink: /legal-and-technical-terms/
 title: Legal and technical terms
 ---
 
