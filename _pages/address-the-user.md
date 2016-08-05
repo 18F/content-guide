@@ -1,5 +1,4 @@
 ---
-permalink: /address-the-user/
 title: Address the user
 ---
 **Address the user as *you* wherever possible.** Content on government

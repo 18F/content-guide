@@ -1,5 +1,4 @@
 ---
-permalink: /trademarks-and-brands/
 title: Trademarks and brands
 ---
 Avoid using a trademark unless you’re referring to a specific product.

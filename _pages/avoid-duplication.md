@@ -1,5 +1,4 @@
 ---
-permalink: /avoid-duplication/
 title: Avoid duplication
 ---
 If something is written once and links to relevant information easily

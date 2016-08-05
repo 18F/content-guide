@@ -1,5 +1,4 @@
 ---
-permalink: /images/
 title: Images
 ---
 Images are an excellent way to communicate information. Use relevant

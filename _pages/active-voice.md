@@ -1,5 +1,4 @@
 ---
-permalink: /active-voice/
 title: Active voice
 ---
 

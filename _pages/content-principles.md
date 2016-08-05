@@ -1,5 +1,4 @@
 ---
-permalink: /content-principles/
 title: Content principles
 ---
 
