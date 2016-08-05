@@ -6,7 +6,7 @@ This guide helps writers create content that’s easy to understand and meets pe
 
 This guide takes that frustration into account, as well as several commonly supported guidelines about writing for the web. Using this guide can help content designers benefit from our experience to date, incorporate user feedback into the content design process, and engender trust by communicating in a consistent manner.
 
-## How to use this guide 
+## How to use this guide
 
 We created this guide for reference on an as-needed basis. It’s here when you’re wondering whether to capitalize the word federal, for instance, or when you’re wondering how to create a friendly, informational tone.
 
