@@ -13,13 +13,11 @@ In titles, subheadings, and interface labels, we use numerals instead of spellin
 
 ## Percentages
 
-In keeping with AP style, we spell out *percent* in most cases, with a few exceptions.
+In keeping with AP style, we spell out *percent* in most cases, with a few exceptions. We use the percent sign (%) in these circumstances:
 
-We use the percent sign (%) in these circumstances:
-
-* **In tables and in technical or scientific writing**. For example: *60% of participants reported experiencing negative side effects*.
-* **In headings and subheadings**. For example: *Candidate Woof takes 7% lead in the election for best dog*.
-* **In interface labels**
-* **In captions and infographics**
+* **Tables and in technical or scientific writing**. For example: *60% of participants reported experiencing negative side effects*.
+* **Headings and subheadings**. For example: *Candidate Woof takes 7% lead in the election for best dog*.
+* **Interface labels**
+* **Captions and infographics**
 
 We choose to use the percent sign in these cases to improve content’s scannability, allowing readers to digest the content more quickly.

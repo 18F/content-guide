@@ -2,10 +2,7 @@
 permalink: /trademarks-and-brands/
 title: Trademarks and brands
 ---
-Avoid using a trademark unless you’re referring to a specific product.
-This can be tricky when a trademarked name, like Kleenex, has become
-synonymous with an entire family of products. It’s preferable to use a
-generic word — for example, *tissue* — instead of a brand name.
+Avoid using a trademark unless you’re referring to a specific product. This can be tricky when a trademarked name, like Kleenex, has become synonymous with an entire family of products. It’s preferable to use a generic word — for example, *tissue* — instead of a brand name.
 
 Common trademarked words (with alternative terms):
 
@@ -25,18 +22,8 @@ Common trademarked words (with alternative terms):
 -   Taser (stun gun)
 -   Xerox (photocopy, copy)
 
-Careful use of trademarked names and brands is important because the
-government shouldn’t endorse specific brands or products. When writing
-about private brands or products to illustrate a point, mention a range
-of related companies instead of a single provider.
+Careful use of trademarked names and brands is important because the government shouldn’t endorse specific brands or products. When writing about private brands or products to illustrate a point, mention a range of related companies instead of a single provider.
 
-For example, *Twitter, Facebook, or YouTube can help you connect with
-users.*
+For example, *Twitter, Facebook, or YouTube can help you connect with users.*
 
-Avoid linking to products or services because people can see it as an
-endorsement. The same rule applies to the brands and products of
-individuals, such as personal websites or websites where you can buy
-their book. Do link to useful resources, like slide decks or how-to
-guides, from private individuals or companies. If you mention a
-trademark, capitalize and punctuate it in the trademark holder’s
-preferred style.
+Avoid linking to products or services because people can see it as an endorsement. The same rule applies to the brands and products of individuals, such as personal websites or websites where you can buy their book. Do link to useful resources, like slide decks or how-to guides, from private individuals or companies. If you mention a trademark, capitalize and punctuate it in the trademark holder’s preferred style.

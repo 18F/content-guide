@@ -2,17 +2,11 @@
 permalink: /capitalization/
 title: Capitalization
 ---
-**Follow a consistent capitalization scheme**. Creating trustworthy
-internal and external communications relies, to a large extent, on the
-content’s consistency. Inconsistent spellings and capitalizations
-undermine your narrative authority. We follow these
-capitalization guidelines:
+**Follow a consistent capitalization scheme**. Creating trustworthy internal and external communications relies, to a large extent, on the content’s consistency. Inconsistent spellings and capitalizations undermine your narrative authority. We follow these capitalization guidelines:
 
--   Don't capitalize “agile,” unless it is the first word of a sentence
-
--   Don't capitalize “open source,” unless it is the first word of a sentence
-
--   Don't capitalize “federal” or “government”
+- Don't capitalize “agile,” unless it is the first word of a sentence
+- Don't capitalize “open source,” unless it is the first word of a sentence
+- Don't capitalize “federal” or “government”
 
 When you're deciding whether to capitalize noun phrases, keep in mind that in English, title case is often a marker of formality. Using it judiciously can help clarify that you're speaking about a specific, official thing (such as a form, office, or person). Overuse can cause users stress by implying formality or officialness where it doesn't exist. For instance:
 
@@ -24,8 +18,7 @@ section.
 
 ## Headings
 
-Headlines, page titles, subheads and similar content should follow sentence
-case, and should not include a trailing colon. For example:
+Headlines, page titles, subheads and similar content should follow sentence case, and should not include a trailing colon. For example:
 
 *Making sense of Washington’s tech landscape*
 

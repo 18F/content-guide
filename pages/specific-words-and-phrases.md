@@ -2,8 +2,7 @@
 permalink: /specific-words-and-phrases/
 title: Specific words and phrases
 ---
-Below are rules for how 18F uses common words and phrases, in alphabetical order. The bold term shows the accepted form
-(capitalization, hyphenation, punctuation), with accompanying text explaining usage. Examples appear in italics.
+Below are rules for how 18F uses common words and phrases, in alphabetical order. The bold term shows the accepted form (capitalization, hyphenation, punctuation), with accompanying text explaining usage. Examples appear in italics.
 
 **0-9**
 
@@ -30,7 +29,7 @@ Below are rules for how 18F uses common words and phrases, in alphabetical order
 
 - **D.C.**, not "DC"
 - **digital coalition**
-- **Draft U.S. Web Design Standards** on first use and **Draft Standards** on subsequent references 
+- **Draft U.S. Web Design Standards** on first use and **Draft Standards** on subsequent references
 - **drop-down** when used as an adjective. For example, *drop-down menu.* **drop down** when used as a noun. For example, *an option from the drop down.* Never "dropdown."
 
 **E**

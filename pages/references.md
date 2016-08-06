@@ -11,5 +11,4 @@ As we created this guide, we also referred to these resources:
 - [Conscious Style Guide](http://consciousstyleguide.com/)
 - [Plain Language Action and Information Network](http://www.plainlanguage.gov/)
 
-Can’t find something you’re looking for? Create a new section — this
-guide is a living document.
+Can’t find something you’re looking for? Create a new section — this guide is a living document.
