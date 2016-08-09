@@ -1,10 +1,8 @@
 ---
 title: Capitalization
 ---
-**Follow a consistent capitalization scheme**. Creating trustworthy
-internal and external communications relies, to a large extent, on the
-content’s consistency. Inconsistent spellings and capitalizations
-undermine your narrative authority. We follow these capitalization guidelines:
+
+**Follow a consistent capitalization scheme**. Creating trustworthy internal and external communications relies, to a large extent, on the content’s consistency. Inconsistent spellings and capitalizations undermine your narrative authority. We follow these capitalization guidelines:
 
 - Do capitalize proper nouns, including names of individuals, places, and agencies
 - Don't capitalize “agile,” unless it is the first word of a sentence
@@ -21,8 +19,7 @@ section.
 
 ## Headings
 
-Headlines, page titles, subheads and similar content should follow sentence
-case, and should not include a trailing colon. For example:
+Headlines, page titles, subheads and similar content should follow sentence case, and should not include a trailing colon. For example:
 
 *Making sense of Washington’s tech landscape*
 

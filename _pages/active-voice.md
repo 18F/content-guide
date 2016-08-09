@@ -4,12 +4,7 @@ title: Active voice
 
 Our writing should be concise and direct. We prefer the voice that best supports this style, which is usually the active voice. The active voice allows the reader to more easily identify each sentence’s subject (and it makes written content more engaging, too).
 
-**Avoid passive verb tenses whenever possible.** The
-active voice makes content easier to understand because
-the reader can more easily identify who the subject
-performing the action is. It makes written content more
-engaging, too.
-
+**Avoid passive verb tenses whenever possible.** The active voice makes content easier to understand because the reader can more easily identify who the subject performing the action is. It makes written content more engaging, too.
 
 **No:** *The request form must be submitted to the approving official.*  
 **Yes:** *You must submit the request form to the approving official.*  
