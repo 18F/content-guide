@@ -12,14 +12,8 @@ In the most technical sense, there is a difference between acronyms (abbreviatio
 
 **Acronyms often confuse readers. Avoid them whenever possible.**
 
-If an acronym is necessary for future reference, spell the full word
-and follow with the acronym in parentheses on the first reference. For example, *The
-General Services Administration (GSA)*.
+If an acronym is necessary for future reference, spell the full word and follow with the acronym in parentheses on the first reference. For example, *The General Services Administration (GSA)*.
 
-Some acronyms are more recognizable than their full spellings. For example,
-*NASA*, *NAACP*, *FBI*. In such instances, the acronym is always
-acceptable, at the writer’s discretion.
+Some acronyms are more recognizable than their full spellings. For example, *NASA*, *NAACP*, *FBI*. In such instances, the acronym is always acceptable, at the writer’s discretion.
 
-At the writer’s discretion, refer to organizations on second reference
-with a shortened name instead of an acronym. For example, use *Labor* in
-place of *Department of Labor*, rather than *DOL.*
+At the writer’s discretion, refer to organizations on second reference with a shortened name instead of an acronym. For example, use *Labor* in place of *Department of Labor*, rather than *DOL.*

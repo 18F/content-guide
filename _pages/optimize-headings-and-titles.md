@@ -26,13 +26,9 @@ shows that “natural resources” is a much more popular search term.
 Once you know the most popular keywords, you can prioritize them in:
 
 -   Titles
-
 -   Headings
-
 -   Introductions and summaries
-
 -   Chapter and section titles
-
 -   Metadata descriptions
 
 See also: information about [heading capitalization](../capitalization/#headings).
