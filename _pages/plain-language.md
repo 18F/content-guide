@@ -66,5 +66,6 @@ For more about plain language, these guidelines and lists are great resources:
 
 * [Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/TOC.cfm)
 * [Avoiding legal, foreign, and technical jargon](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeNoJargon.cfm)
+* King County: [Shorter, simpler words](http://www.kingcounty.gov/exec/styleguide/concisewriting/simplerwords.aspx)
 * Gov.uk: [Plain English](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#plain-english) and [Words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
 
