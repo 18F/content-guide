@@ -9,7 +9,7 @@ Below are rules for how 18F uses common words and phrases, in alphabetical order
 
 **A**
 
-- **ages**, avoid hyphens in ages unless it clarifies the text. For example, *a group of 10 18-year-old White House tourists*
+- **ages**, avoid hyphens in ages unless it clarifies the text. For example, _a group of 10 18-year-old White House tourists_
 - **agile**
 - **a.m.**
 - **and**, never & or +, unless part of an official title. For example, *D.C. Tech Lady Hackathon + Training Day*
@@ -26,7 +26,7 @@ Below are rules for how 18F uses common words and phrases, in alphabetical order
 
 **D**
 
-- **D.C.**, not "DC"
+- **D.C.**, not _DC_
 - **digital coalition**
 - **Draft U.S. Web Design Standards** on first use and **Draft Standards** on subsequent references
 - **drop-down** when used as an adjective. For example, *drop-down menu.* **drop down** when used as a noun. For example, *an option from the drop down.* Never "dropdown."

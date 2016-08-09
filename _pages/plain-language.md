@@ -24,34 +24,34 @@ Try to avoid these words when you can:
 
 - Agenda (unless you’re talking about a meeting)
 - Advancing
-- Collaborate (use *working with*)
-- Combating (use *working against* or *fighting*)
+- Collaborate (use _working with_)
+- Combating (use _working against_ or _fighting_)
 - Commit/pledge (we need to be more specific — we’re either doing something or we’re not)
-- Countering (use *answering* or *responding*)
+- Countering (use _answering_ or _responding_)
 - Deliver (pizzas, mail, and services are delivered — not abstract concepts like improvements or priorities)
 - Deploy (unless you’re talking about the military or software)
 - Dialogue (we speak to people)
 - Disincentivize (and incentivize)
 - Empower
-- Execute (use *run* or *do*)
-- Facilitate (instead, say something specific about *how* you are helping)
+- Execute (use _run_ or _do_)
+- Facilitate (instead, say something specific about _how_ you are helping)
 - Focusing
 - Foster (unless it's children)
-- Illegals/illegal aliens (use *undocumented immigrants*)
+- Illegals/illegal aliens (use _undocumented immigrants_)
 - Impact (as a verb)
-- Initiate (use *start*)
+- Initiate (use _start_)
 - Innovative (use words that describe the positive outcome of the innovation)
 - In order to (superfluous — don’t use it)
-- Key (unless it unlocks something — otherwise, use *important* or omit)
+- Key (unless it unlocks something — otherwise, use _important_ or omit)
 - Land (as a verb only use if you’re talking about aircraft)
 - Leverage (unless you use it in the financial sense)
-- Liaise (use *collaborate* or *work with*)
-- Modify (use *change* instead)
+- Liaise (use _collaborate_ or _work with_)
+- Modify (use _change_ instead)
 - Overarching
 - Progress (what are you actually doing?)
 - Promote (unless you are talking about an ad campaign or some other marketing promotion)
 - Robust
-- Simple/simply (use *straightforward*, *uncomplicated*, or *clear*, or leave the descriptor out altogether)
+- Simple/simply (use _straightforward_, _uncomplicated_, or _clear_, or leave the descriptor out altogether)
 - Slimming down (processes don’t diet)
 - Streamline
 - Strengthening (unless you’re referring to bridges or other structures)
@@ -59,8 +59,8 @@ Try to avoid these words when you can:
 - Thought leader (refer to a person’s accomplishments)
 - Touchpoint (mention specific system components)
 - Transforming (what are you actually doing to change it?)
-- User testing (use *user research* or *usability testing*)
-- Utilize (use *use*)
+- User testing (use _user research_ or _usability testing_)
+- Utilize (use _use_)
 
 For more about plain language, these guidelines and lists are great resources: 
 
