@@ -1,5 +1,4 @@
 ---
-permalink: /specific-words-and-phrases/
 title: Specific words and phrases
 ---
 Below are rules for how 18F uses common words and phrases, in alphabetical order. The bold term shows the accepted form (capitalization, hyphenation, punctuation), with accompanying text explaining usage. Examples appear in italics.

@@ -1,5 +1,4 @@
 ---
-permalink: /faqs/
 title: Frequently asked questions (FAQs)
 ---
 FAQs are bad. We don't like them. **If you write content by starting

@@ -1,5 +1,4 @@
 ---
-permalink: /images/
 title: Images
 ---
 Images are an excellent way to communicate information. Use relevant photos, graphics, and other visual elements when they clarify what you are communicating. The same principles we apply to written content apply to images:

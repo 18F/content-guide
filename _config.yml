@@ -25,12 +25,14 @@ author:
 logourl: /assets/img/18f-logo.png
 logoalt: 18F logo
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
-  url: index.html
-  internal: true
 - text: Content principles
   url: content-principles/
   internal: true
@@ -64,7 +66,7 @@ navigation:
 - text: Images
   url: images/
   internal: true
-- text: Interface and technical writing
+- text: Technical and interface writing
   url: technical-and-interface-writing/
   internal: true
 - text: Legal and technical terms
@@ -91,11 +93,11 @@ navigation:
 - text: URLs and filenames
   url: urls-and-filenames/
   internal: true
-- text: Voice and tone
-  url: voice-and-tone/
-  internal: true
 - text: References
   url: references/
+  internal: true
+- text: Voice and tone
+  url: Voice-and-tone/
   internal: true
 
 repos:

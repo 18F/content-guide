@@ -1,5 +1,4 @@
 ---
-permalink: /how-users-read/
 title: How users read
 ---
 ## Consider the reader

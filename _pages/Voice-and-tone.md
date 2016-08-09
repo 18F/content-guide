@@ -1,5 +1,4 @@
 ---
-permalink: /voice-and-tone/
 title: Voice and tone
 ---
 

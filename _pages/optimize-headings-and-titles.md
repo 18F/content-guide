@@ -1,5 +1,4 @@
 ---
-permalink: /optimize-headings-and-titles/
 title: Optimize headings and titles
 ---
 Most people start their search for information with a search engine. If

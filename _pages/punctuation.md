@@ -1,5 +1,4 @@
 ---
-permalink: /punctuation/
 title: Punctuation
 ---
 

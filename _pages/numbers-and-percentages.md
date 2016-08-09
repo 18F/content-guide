@@ -1,5 +1,4 @@
 ---
-permalink: /numbers-and-percentages/
 title: Numbers and percentages
 ---
 

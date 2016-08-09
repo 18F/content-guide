@@ -1,5 +1,4 @@
 ---
-permalink: /plain-language/
 title: Plain language
 ---
 [Plain language](http://www.plainlanguage.gov/) is mandatory for all federal government websites. One of the aspects of this most people pick up on is the **plain English list,** which is below.
