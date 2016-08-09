@@ -1,38 +1,52 @@
 ---
 title: Plain language
 ---
-[Plain language](http://www.plainlanguage.gov/) is mandatory for all federal government websites. One of the aspects of this most people pick up on is the **plain English list,** which is below.
+U.S. government websites are for everyone. The content they contain should be as straightforward as possible. One of the best ways to make content clear and usable is to use **plain language**. When we use words people understand, our content is more findable, accessible, and inclusive. [Plain language](http://www.plainlanguage.gov/) is also mandatory for all federal government websites.
 
-This isn’t just a list of words to avoid; it’s a way of writing.
+When we use jargon in our writing, we risk losing users’ trust. Government, legal, business jargon are often vague or unfamiliar to users, and can lead to misinterpretation.
 
-U.S. government websites are for everyone. The content they contain should therefore be as straightforward and clear as possible.
+Another temptation that can hurt readability is figurative language: it often doesn’t say what you actually mean, and can make your content more difficult to understand. For example:
+
+- Drive (you can only drive vehicles, not schemes or people)
+- Drive out (unless it's cattle)
+- Going forward (unless you’re giving directions)
+- One-stop shop (we’re the government, not a big box store)
+
+In most cases, you can avoid these figures of speech by describing what you’re actually doing. Be open and specific.
+
+If you're struggling to use plain language, try writing conversationally. Picture your audience and write as if you were talking to them one-on-one, with the authority of someone who can actively help.
 
 **Don’t use formal or long words when easy or short ones will do.** Use _buy_ instead of _purchase_, _help_ instead of _assist_, _about_ instead of _approximately_, and so on.
 
-We lose our users’ trust if we write using government buzzwords and jargon. Often, these words are too general and vague and can lead to misinterpretation or empty, meaningless text. We can do without these words:
+**Plain English lists** can help spot problem words and consider alternatives, but keep in mind that plain language is more than just a list of words to avoid — it’s a way of writing.
+
+Try to avoid these words when you can:
 
 - Agenda (unless you’re talking about a meeting)
 - Advancing
 - Collaborate (use *working with*)
 - Combating (use *working against* or *fighting*)
 - Commit/pledge (we need to be more specific — we’re either doing something or we’re not)
-- Countering
-- Deliver (pizzas, mail, and services are delivered - not abstract concepts like improvements or priorities)
+- Countering (use *answering* or *responding*)
+- Deliver (pizzas, mail, and services are delivered — not abstract concepts like improvements or priorities)
 - Deploy (unless you’re talking about the military or software)
 - Dialogue (we speak to people)
 - Disincentivize (and incentivize)
 - Empower
+- Execute (use *run* or *do*)
 - Facilitate (instead, say something specific about *how* you are helping)
 - Focusing
 - Foster (unless it's children)
 - Illegals/illegal aliens (use *undocumented immigrants*)
 - Impact (as a verb)
-- Initiate
+- Initiate (use *start*)
 - Innovative (use words that describe the positive outcome of the innovation)
-- Key (unless it unlocks something. A subject/thing isn’t “key” — it’s probably important)
+- In order to (superfluous — don’t use it)
+- Key (unless it unlocks something — otherwise, use *important* or omit)
 - Land (as a verb only use if you’re talking about aircraft)
 - Leverage (unless you use it in the financial sense)
-- Liaise
+- Liaise (use *collaborate* or *work with*)
+- Modify (use *change* instead)
 - Overarching
 - Progress (what are you actually doing?)
 - Promote (unless you are talking about an ad campaign or some other marketing promotion)
@@ -45,19 +59,12 @@ We lose our users’ trust if we write using government buzzwords and jargon. Of
 - Thought leader (refer to a person’s accomplishments)
 - Touchpoint (mention specific system components)
 - Transforming (what are you actually doing to change it?)
-- User testing (unless you’re actually testing the users — otherwise, use *usability testing*)
-- Utilize
+- User testing (use *user research* or *usability testing*)
+- Utilize (use *use*)
 
-Avoid using figurative language — it often doesn’t say what you actually mean and can make your content more difficult to understand. For example:
+For more about plain language, these guidelines and lists are great resources: 
 
-- Drive (you can only drive vehicles, not schemes or people)
-- Drive out (unless it's cattle)
-- Going forward (unless you’re giving directions)
-- In order to (superfluous — don’t use it)
-- One-stop shop (we’re the government, not a big box store)
+* [Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/TOC.cfm)
+* [Avoiding legal, foreign, and technical jargon](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeNoJargon.cfm)
+* Gov.uk: [Plain English](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#plain-english) and [Words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
 
-In most cases, you can avoid these figures of speech by describing what you’re actually doing. Be open and specific.
-
-Write conversationally. Picture your audience and write as if you were talking to them one-on-one and with the authority of someone who can actively help.
-
-For a comprehensive explanation of plain language, please check out the [Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/index.cfm?CFID=3861979&CFTOKEN=cbb4a39d1e0a1042-298391FB-E153-0A73-341ABEDF77AE21AF&jsessionid=83029D534F870FEEDAB242987DF50ECB.chh).
