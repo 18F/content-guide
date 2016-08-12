@@ -15,13 +15,10 @@ or more different words or phrases and see over time how often people
 have searched for them. Generally, it’s best to use whichever phrase is
 used more often in your heading.
 
-For example, an interior page on the [U.S. EITI
-site](https://useiti.doi.gov/sectors/) is titled “U.S. Natural Resource
-Sectors.” Before naming a page like this, you should compare the phrase
-“natural resources” to similar phrases like “natural deposits.” A[
-Google Trend search comparing those two
-phrases,](https://www.google.com/trends/explore#q=Natural%20resources%2C%20Natural%20deposits&cmpt=q&tz=Etc%2FGMT%2B4)
-shows that “natural resources” is a much more popular search term.
+For example, the phrase _extractive industries_ is part of the name of the [U.S. EITI site](https://useiti.doi.gov/), but _extractive industries_ isn't a familiar term for many users (and there aren't very many searches for that term). To help make content more findable, the site includes familiar terms like _natural resources_, _fossil fuels_, and _renewable energy_ whenever possible.
+
+A [Google Trend search](https://www.google.com/trends/explore?date=all&q=extractive%20industries,fossil%20fuels)
+shows that _natural resources_ and _fossil fuels_ are both more popular search terms. The [page about natural resource production in the U.S.](https://useiti.doi.gov/how-it-works/production/) is a great example of how those terms can be included in headers.
 
 Once you know the most popular keywords, you can prioritize them in:
 
