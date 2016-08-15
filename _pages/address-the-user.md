@@ -5,7 +5,7 @@ title: Address the user
 
 If you’re creating content that addresses multiple users — for example, a patient and their caregiver — address the nominal user as “you” and refer to the additional users by their roles or titles.
 
-## How to talk about the public
+### How to talk about the public
 
 How you refer to the public is largely dependent on context. Feel free to choose from any of the words on this list: people, the public, users, or folks.
 
