@@ -16,7 +16,7 @@ Instead of:
 
 > Open a new meeting invitation.
 
-Try:
+Use:
 
 > In Google Calendar, click **Create**.
 
@@ -28,7 +28,7 @@ Instead of:
 
 > Help us understand what kind of help you need by [creating an issue in GitHub](https://github.com/18F/FEC/issues/new).
 
-Try:
+Use:
 
 > [Create an issue](https://github.com/18F/FEC/issues/new) with details about your request.
 
@@ -42,7 +42,7 @@ Instead of:
 
 > You cannot continue without signing in.
 
-Try:
+Use:
 
 > Sign in to continue.
 
@@ -75,8 +75,7 @@ Do not capitalize code elements, even at the start of a sentence, unless the ter
 Use [fenced code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/) for multi-line code snippets, and specify the language to enable [syntax highlighting on GitHub](https://help.github.com/articles/creating-and-highlighting-code-blocks/#syntax-highlighting):
 
 -----
-In JavaScript, to get the current value of a `select` element with an
-`id` of `mySelect`, use this:
+In JavaScript, to get the current value of a `select` element with an `id` of `mySelect`, use this:
 
 ```javascript
 var el = document.getElementById("mySelect");
@@ -88,8 +87,7 @@ Use [straight quotes](http://smartquotesforsmartpeople.com/) within code blocks 
 
 #### Code-like elements
 
-The same rules apply to pieces of text that must be used exactly as
-presented, such as passwords or Wi-Fi network names:
+The same rules apply to pieces of text that must be used exactly as presented, such as passwords or Wi-Fi network names:
 
 > `someCl3v3rN4me` is the name of our Wi-Fi network.  
 > Your password is `PleaseChangeMeSoon`.
