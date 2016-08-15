@@ -1,16 +1,17 @@
 ---
 title: How users read
 ---
-## Consider the reader
 
-We designed this guide with readers in mind. The strategies and techniques we describe promote user-centered content. Below you’ll find a few characteristics of online readers as well as our recommendations on ways to keep them in mind when writing and editing.
+Below you’ll find a few characteristics of online readers as well as our recommendations on ways to keep them in mind when writing and editing.
 
 ### Important information first
+
 Online, users tend to scan text until they find the information they need. No matter how carefully you craft your content, most people will only read [25 percent of it](https://www.nngroup.com/articles/website-reading/). This statistic isn’t meant to dishearten; rather, we believe it underscores the importance of getting content right.
 
 Put the most important information in the first two paragraphs. That’s the section users are most likely to read. In journalism, this technique is called the “inverted pyramid.”
 
 ### Break up text
+
 Large chunks of text can overwhelm readers. Use subheads and bullet points; they provide clear narrative structure for readers in a hurry. Meanwhile, put your information-carrying words at the beginning of your sentences, and keep them in [active voice](https://pages.18f.gov/content-guide/active-voice/).
 
 For example:
@@ -52,6 +53,7 @@ If you’re wrangling a lot of data, tables can help you visualize that content.
 </table>
 
 ### Keep sentences short and sweet
+
 Craft sentences at 25 words or fewer, whenever possible. If a sentence has fewer than 14 words, [readers understand 90 percent of content](http://comprehension.prsa.org/?p=217). At 25 words, sentences are markedly more difficult to comprehend.
 
 We also recommend varying sentence length. Switching things up helps you keep readers interested. This tactic will also give you better control of your content’s [tone](https://pages.18f.gov/content-guide/voice-and-tone/) — a text with only short sentences can unintentionally sound terse. The occasional longer sentence adds a bit of narrative interest (and can help a piece of writing sound friendlier, too).
