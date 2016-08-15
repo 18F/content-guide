@@ -2,7 +2,7 @@
 title: Capitalization
 ---
 
-**Follow a consistent capitalization scheme**. Creating trustworthy internal and external communications relies, to a large extent, on the content’s consistency. Inconsistent spellings and capitalizations undermine your narrative authority. We follow these capitalization guidelines:
+Follow a consistent capitalization scheme. Creating trustworthy internal and external communications relies, to a large extent, on the content’s consistency. Inconsistent spellings and capitalizations undermine your narrative authority. We follow these capitalization guidelines:
 
 - Do capitalize proper nouns, including names of individuals, places, and agencies
 - Don't capitalize _agile,_ unless it is the first word of a sentence
@@ -17,12 +17,15 @@ When you're deciding whether to capitalize noun phrases, keep in mind that in En
 See additional capitalization rules in the [Specific words and phrases](https://pages.18f.gov/content-guide/specific-words-and-phrases/)
 section.
 
-## Headings
+### Personal titles
+
+Don’t capitalize personal titles unless they precede a name. For example, *the director got approval* or *Director Lopez got approval*. Whenever possible, keep titles gender neutral. For example, we prefer *firefighter* to *fireman* and *chairperson* to *chairman*.
+
+### Headings
 
 Headlines, page titles, subheads and similar content should follow sentence case, and should not include a trailing colon. For example:
 
-_Making sense of Washington’s tech landscape_
-
-_Privileges and responsibilities_
+> _Making sense of Washington’s tech landscape_
+> _Privileges and responsibilities_
 
 See also: information about [optimizing headings](../optimize-headings-and-titles/).
