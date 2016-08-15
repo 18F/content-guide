@@ -20,7 +20,7 @@ If you're struggling to use plain language, try writing conversationally. Pictur
 
 **Plain English lists** can help spot problem words and consider alternatives, but keep in mind that plain language is more than just a list of words to avoid — it’s a way of writing.
 
-Try to avoid these words when you can:
+### Words to avoid
 
 - Agenda (unless you’re talking about a meeting)
 - Advancing
@@ -62,10 +62,9 @@ Try to avoid these words when you can:
 - User testing (use _user research_ or _usability testing_)
 - Utilize (use _use_)
 
-For more about plain language, these guidelines and lists are great resources: 
+For more about plain language, these guidelines and lists are great resources:
 
 * [Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/TOC.cfm)
 * [Avoiding legal, foreign, and technical jargon](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeNoJargon.cfm)
 * King County: [Shorter, simpler words](http://www.kingcounty.gov/exec/styleguide/concisewriting/simplerwords.aspx)
 * Gov.uk: [Plain English](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#plain-english) and [Words to avoid](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid)
-
