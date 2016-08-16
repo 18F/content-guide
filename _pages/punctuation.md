@@ -62,4 +62,4 @@ Use _and_ instead of an ampersand or plus sign, unless they’re part of an offi
 
 ### Slashes
 
-Avoid using the _/_ symbol. Replace it with _or_ or _and_ as appropriate.
+Avoid using the slash (/) symbol. Replace it with words or commas as appropriate.
