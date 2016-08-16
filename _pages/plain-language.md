@@ -7,10 +7,10 @@ When we use jargon in our writing, we risk losing users’ trust. Government, le
 
 Another temptation that can hurt readability is figurative language: it often doesn’t say what you actually mean, and can make your content more difficult to understand. For example:
 
-- Drive (you can only drive vehicles, not schemes or people)
-- Drive out (unless it's cattle)
-- Going forward (unless you’re giving directions)
-- One-stop shop (we’re the government, not a big box store)
+- drive (you can only drive vehicles, not schemes or people)
+- drive out (unless it's cattle)
+- going forward (unless you’re giving directions)
+- one-stop shop (we’re the government, not a big box store)
 
 In most cases, you can avoid these figures of speech by describing what you’re actually doing. Be open and specific.
 
