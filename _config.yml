@@ -1,7 +1,7 @@
 markdown: kramdown
 name: 18F Content Guide
-title: 18F Content guide
-description: This guide helps writers create content that’s easy to understand and meets people where they are. Government websites often talk at readers rather than to them. As with other facets of its online presence, .gov writing tends to describe the government’s concerns in governmentese, leaving users frustrated by information that is neither actionable nor understandable.
+title: 18F Content Guide
+description: A set of best practices and style considerations to guide your work.
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -48,56 +48,80 @@ defaults:
 navigation:
 - text: Introduction
   internal: true
-- text: Content principles
-  url: principles/
+- text: About this guide
+  url: about/
   internal: true
+  generated: true
+  children:
+  - text: License
+    url: license/
+    internal: true
+  - text: References
+    url: resources/
+    internal: true
 - text: Best practices
+  blurb: |
+    How to think about content when you’re working in government.
   url: best-practices/
   internal: true
   generated: true
   children:
-  - text: Capitalization
-    url: capitalization/
+  - text: Address the user
+    url: address-the-user/
     internal: true
-  - text: Conscious style
-    url: conscious-style/
+  - text: Avoid duplication
+    url: avoid-duplication/
+    internal: true
+  - text: Be concise
+    url: be-concise/
+    internal: true
+  - text: Content principles
+    url: principles/
+    internal: true
+  - text: Legal and technical terms
+    url: legal-and-technical-terms/
+    internal: true
+  - text: Plain language
+    url: plain-language/
+    internal: true
+  - text: Voice and tone
+    url: voice-and-tone/
     internal: true
 - text: 18f style
-  url: 18f-style/
+  url: 18F-style/
   internal: true
   generated: true
   children:
+  - text: Grammar and mechanics
+    url: grammar-and-mechanics/
+    internal: true
+    generated: true
+    children:
+    - text: Active voice
+      url: active-voice/
+      internal: true
+    - text: Capitalization
+      url: capitalization/
+      internal: true
+    - text: Conscious style
+      url: conscious-style/
+      internal: true
+    - text: Numbers and percentages
+      url: numbers-and-percentages/
+      internal: true
+    - text: Punctuation
+      url: punctuation/
+      internal: true
+    - text: Specific words and phrases
+      url: words-and-phrases/
+      internal: true
   - text: Content types
     url: content-types/
     internal: true
     generated: true
     children:
-    - text: Voice and tone
-      url: Voice-and-tone/
-      internal: true
-    - text: Active voice
-      url: active-voice/
-      internal: true
-    - text: Legal and technical terms
-      url: legal-and-technical-terms/
-      internal: true
-    - text: Numbers and percentages
-      url: numbers-and-percentages/
-      internal: true
     - text: Optimize headings and titles
-      url: optimize-headings-and-titles/
-      internal: true
-    - text: Plain language
-      url: plain-language/
-      internal: true
-    - text: Punctuation
-      url: punctuation/
-      internal: true
-    - text: References
-      url: references/
-      internal: true
-    - text: Specific words and phrases
-      url: specific-words-and-phrases/
+      url: headings-and-titles/
       internal: true
     - text: Technical and interface writing
       url: technical-and-interface-writing/
@@ -108,35 +132,6 @@ navigation:
     - text: URLs and filenames
       url: urls-and-filenames/
       internal: true
-  - text: Grammar
-    url: grammar/
-    internal: true
-    generated: true
-    children:
-    - text: Address the user
-      url: address-the-user/
-      internal: true
-    - text: Avoid duplication
-      url: avoid-duplication/
-      internal: true
-    - text: Be concise
-      url: be-concise/
-      internal: true
-- text: Content principles
-  url: content-principles/
-  internal: true
-  generated: true
-  children:
-  - text: Frequently asked questions (FAQs)
-    url: faqs/
-    internal: true
-  - text: How users read
-    url: how-users-read/
-    internal: true
-  - text: Images
-    url: images/
-    internal: true
-
 
 repos:
 - name: 18F Content Guide
