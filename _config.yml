@@ -1,5 +1,7 @@
 markdown: kramdown
 name: 18F Content Guide
+title: 18F Content guide
+description: This guide helps writers create content that’s easy to understand and meets people where they are. Government websites often talk at readers rather than to them. As with other facets of its online presence, .gov writing tends to describe the government’s concerns in governmentese, leaving users frustrated by information that is neither actionable nor understandable.
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -30,6 +32,9 @@ collections:
     output: true
     permalink: /:path/
 
+generate_nodes: true
+flat_namespace: true
+
 defaults:
   -
     scope:
@@ -41,76 +46,97 @@ defaults:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
+- text: Introduction
+  internal: true
+- text: Content principles
+  url: principles/
+  internal: true
+- text: Best practices
+  url: best-practices/
+  internal: true
+  generated: true
+  children:
+  - text: Capitalization
+    url: capitalization/
+    internal: true
+  - text: Conscious style
+    url: conscious-style/
+    internal: true
+- text: 18f style
+  url: 18f-style/
+  internal: true
+  generated: true
+  children:
+  - text: Content types
+    url: content-types/
+    internal: true
+    generated: true
+    children:
+    - text: Voice and tone
+      url: Voice-and-tone/
+      internal: true
+    - text: Active voice
+      url: active-voice/
+      internal: true
+    - text: Legal and technical terms
+      url: legal-and-technical-terms/
+      internal: true
+    - text: Numbers and percentages
+      url: numbers-and-percentages/
+      internal: true
+    - text: Optimize headings and titles
+      url: optimize-headings-and-titles/
+      internal: true
+    - text: Plain language
+      url: plain-language/
+      internal: true
+    - text: Punctuation
+      url: punctuation/
+      internal: true
+    - text: References
+      url: references/
+      internal: true
+    - text: Specific words and phrases
+      url: specific-words-and-phrases/
+      internal: true
+    - text: Technical and interface writing
+      url: technical-and-interface-writing/
+      internal: true
+    - text: Trademarks and brands
+      url: trademarks-and-brands/
+      internal: true
+    - text: URLs and filenames
+      url: urls-and-filenames/
+      internal: true
+  - text: Grammar
+    url: grammar/
+    internal: true
+    generated: true
+    children:
+    - text: Address the user
+      url: address-the-user/
+      internal: true
+    - text: Avoid duplication
+      url: avoid-duplication/
+      internal: true
+    - text: Be concise
+      url: be-concise/
+      internal: true
 - text: Content principles
   url: content-principles/
   internal: true
+  generated: true
   children:
-  - text: Easy to read
-    url: easy-to-read/
+  - text: Frequently asked questions (FAQs)
+    url: faqs/
     internal: true
-- text: Acronyms and abbreviations
-  url: acronyms-and-abbreviations/
-  internal: true
-- text: Active voice
-  url: active-voice/
-  internal: true
-- text: Address the user
-  url: address-the-user/
-  internal: true
-- text: Avoid duplication
-  url: avoid-duplication/
-  internal: true
-- text: Be concise
-  url: be-concise/
-  internal: true
-- text: Capitalization
-  url: capitalization/
-  internal: true
-- text: Conscious style
-  url: conscious-style/
-  internal: true
-- text: Frequently asked questions (FAQs)
-  url: faqs/
-  internal: true
-- text: How users read
-  url: how-users-read/
-  internal: true
-- text: Images
-  url: images/
-  internal: true
-- text: Technical and interface writing
-  url: technical-and-interface-writing/
-  internal: true
-- text: Legal and technical terms
-  url: legal-and-technical-terms/
-  internal: true
-- text: Numbers and percentages
-  url: numbers-and-percentages/
-  internal: true
-- text: Optimize headings and titles
-  url: optimize-headings-and-titles/
-  internal: true
-- text: Plain language
-  url: plain-language/
-  internal: true
-- text: Punctuation
-  url: punctuation/
-  internal: true
-- text: Specific words and phrases
-  url: specific-words-and-phrases/
-  internal: true
-- text: Trademarks and brands
-  url: trademarks-and-brands/
-  internal: true
-- text: URLs and filenames
-  url: urls-and-filenames/
-  internal: true
-- text: References
-  url: references/
-  internal: true
-- text: Voice and tone
-  url: Voice-and-tone/
-  internal: true
+  - text: How users read
+    url: how-users-read/
+    internal: true
+  - text: Images
+    url: images/
+    internal: true
+
 
 repos:
 - name: 18F Content Guide
@@ -119,9 +145,6 @@ repos:
 
 google_analytics_ua: UA-48605964-19
 
-back_link:
-  url: "https://pages.18f.gov/guides/"
-  text: Read more 18F Guides
 
 # Configuration for jekyll_pages_api_search plugin gem.
 jekyll_pages_api_search:

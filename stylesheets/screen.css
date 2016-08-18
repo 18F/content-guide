@@ -1,12 +1,4 @@
-/* @override https://handbook.18f.gov/stylesheets/screen.css */
-
-/* @override http://127.0.0.1:4000/stylesheets/screen.css */
-
 /* @override http://localhost:4000/stylesheets/screen.css */
-
-/* @override http://localhost:4000/stylesheets/screen.css */
-
-/* @override http://127.0.0.1:3000/stylesheets/screen.css */
 
 /* @group bootstrap */
 
@@ -155,15 +147,14 @@ img { max-width: 100%; }
 .site-header{
 	padding: 4px 0 6px;
 	border-bottom: 1px solid #006d47;
-	background: #006f49;
-	background: linear-gradient(#007f5d, #006f49);
-	color: #fff;
+	background: #22425a;
+	color: #cef9ff;
 }
 
 
 .site-header h1 a{
 	font-size: 24px;
-	color: inherit;
+	color: #fff;
 	text-decoration: none;
 	line-height: 40px;
 	letter-spacing: -1px;
@@ -180,7 +171,7 @@ img { max-width: 100%; }
 
 .site-header form .field{
 	position: relative;
-	background-color: #003629;
+	background-color: #0b2136;
 	border-radius: 99em;
 }
 
@@ -198,7 +189,7 @@ html body .site-header form input{
 	appearance: none;
 	border: none;
 	border-radius: 999em;
-	box-shadow: 0 1px 0 #007f5d;
+	box-shadow: 0 1px 0 #5578b2;
 	display: block;
 	width: 100% !important;
 	height: 32px;
@@ -1031,9 +1022,7 @@ a[id]{
 	}
 
 	.layout-table-of-contents .site-header{
-		background: #007f5d;
-		background: linear-gradient(#007f5d, #008c56);
-		color: #fff8ce;
+		color: #cef9ff;
 		padding: 1.4em 0 1.8em;
 	}
 
@@ -1052,7 +1041,7 @@ a[id]{
 		padding-bottom: 0.33em;
 		display: block;
 		letter-spacing: -0.03em;
-		text-shadow: rgba(0,99,173,0.5) 2px 2px 0;
+		text-shadow: rgba(0,35,173,0.5) 2px 2px 0;
 		max-width: 640px;
 		margin: 0 auto;
 		position: relative;
@@ -1102,33 +1091,6 @@ a[id]{
 	margin: 0 auto;
 }
 
-.layout-table-of-contents .wrapper ol li.classes,
-.layout-table-of-contents .wrapper ol li.offices,
-.layout-table-of-contents .wrapper ol li.teams,
-.layout-table-of-contents .wrapper ol li.tools{
-	font-weight: 600;
-}
-
-.layout-table-of-contents .wrapper ol li.classes,
-.layout-table-of-contents .wrapper ol li.offices,
-.layout-table-of-contents .wrapper ol li.teams,
-.layout-table-of-contents .wrapper ol li.tools{
-	padding-top: 1em;
-}
-
-.layout-table-of-contents .wrapper ol li.classes > ol,
-.layout-table-of-contents .wrapper ol li.offices > ol,
-.layout-table-of-contents .wrapper ol li.teams > ol,
-.layout-table-of-contents .wrapper ol li.tools > ol{
-	padding-top: 0.6em;
-
-}
-
-
-.layout-table-of-contents .wrapper ol li.policies{
-	padding-bottom: 1em;
-}
-
 .layout-table-of-contents .wrapper ol li{
 	font-weight: normal;
 	margin-bottom: 2px;
@@ -1155,7 +1117,15 @@ a[id]{
 	margin-bottom: 0.4em;
 	border-top: 0.2em solid #f2f0e3;
 	margin-top: 1em;
-	color: #51322a;
+	color: #36514a;
+}
+
+.layout-table-of-contents ol li.best-practices li{
+	display: block;
+	padding: 1em;
+	background: #eee;
+	border-radius: 4px;
+  
 }
 
 .layout-table-of-contents ol li:first-of-type h1{
@@ -1238,129 +1208,6 @@ a[id]{
 	}
 }
 
-
-/* @end */
-
-/* @group .layout-article-acano */
-
-.layout-article-acano .table-acano-friendly-rooms{ margin: 0; }
-.layout-article-acano .table-acano-friendly-rooms .col-room{
-	width: 100px;
-}
-.layout-article-acano .table-acano-friendly-rooms .col-name,
-.layout-article-acano .table-acano-friendly-rooms .col-sip{
-	width: 170px;
-}
-
-.layout-article-acano .table-acano-cospaces .col-num{
-	width: 80px;
-}
-
-/* @end */
-
-/* @group .layout-article-float */
-
-@media screen and (min-width: 711.11px) {
-	.layout-article-float main .expandable{
-		position: relative;
-		float: right;
-		width: 192px;
-		margin-left: -296px;
-		left: 328px;
-		margin-right: 50vw;
-		position: relative;
-		clear: both;
-		-webkit-transition: 0.4s 0.2s width;
-	}
-
-	.layout-article-float main .expandable img{
-		width: 100%;
-		border: 1px solid #ddd;
-		padding: 8px;
-		-webkit-transition: 0.4s 0.2s;
-	}
-
-	.layout-article-float main .expandable::after{
-		content: "";
-		background: url(images/svg/zoom-in.svg) no-repeat;
-		background-size: contain;
-		position: absolute;
-		left: 6px;
-		bottom: 6px;
-		width: 20px;
-		height: 20px;
-		opacity: 0.8;
-		-webkit-transition: 0.4s 0.2s;
-	}
-
-	.layout-article-float main .expandable:hover,
-	.layout-article-float main .expandable:active{
-		width: 640px;
-		margin-bottom: 12px;
-		border-color: #fff;
-	}
-
-	.layout-article-float main .expandable:hover img,
-	.layout-article-float main .expandable:active img{
-		padding: 0;
-		border-color: #fff;
-	}
-
-	.layout-article-float main .expandable:hover::after,
-	.layout-article-float main .expandable:active::after{
-		opacity: 0;
-	}
-
-}
-
-/* @end */
-
-/* @group .layout-article-tock */
-
-@media screen and (min-width: 426.66px) {
-	.layout-article-tock img{
-		width: 100%;
-		max-width: 512px;
-		margin-top: 1em;
-		border: 1px solid #eee;
-		display: block;
-	}
-}
-@media screen and (min-width: 568.88px) { .layout-article-tock img{ width: 45%; } }
-
-@media screen and (min-width: 711.11px) { .layout-article-tock img{ width: 56%; } }
-
-@media screen and (min-width: 746.66px) { .layout-article-tock img{ width: 56%; } }
-
-@media screen and (min-width: 853.33px) { .layout-article-tock img{ width: 66%; } }
-
-
-/* @end */
-
-/* @group .layout-article-professional-development-and-training */
-
-@media screen and (min-width: 40em) { .layout-article-professional-development-and-training table tr td:last-child{ width: 7em; } }
-
-/* @end */
-
-.col-grouplet{
-	width: 100px;
-}
-
-/* @group .layout-article-working-groups-and-guilds-101 */
-
-
-/* @end */
-
-/* @group .layout-article-chicago, .layout-article-san-francisco, .layout-article-washington-dc */
-
-@media screen and (min-width: 40em){
-	.table-office-metadata .col-key{
-		width: 100px;
-		text-align: right;
-		color: #555;
-	}
-}
 
 /* @end */
 
