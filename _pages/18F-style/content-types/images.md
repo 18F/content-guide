@@ -7,7 +7,7 @@ Images are an excellent way to communicate information. Use relevant photos, gra
 -   Be concise: Don’t use numerous or complex images when one or two simple ones will do.
 -   Be conscious: Consider how your image choices include or exclude.
 
-### Common uses of imagery at 18F
+## Common uses of imagery at 18F
 
 -   Group pictures or images of people working together are great additions to posts about meetups, hackathons, or other events.
 -   Screenshots can go a long way in explaining design and user experience techniques in how-to pieces.
@@ -17,7 +17,7 @@ An image on the 18F blog that spans the full width of a blog post should be 1600
 
 When floating images left or right around the text of a post, make sure the images are between 500 pixels and 100 pixels wide, but when using multiple images on the page, consider how those images might look as the text wraps on smaller screens. Make sure you test your content on a phone to ensure the images don’t impede the readability of the text.
 
-### Copyrighted images
+## Copyrighted images
 
 Government works, including both written content and images created by 18F staff, are in the public domain by default.
 
@@ -36,7 +36,7 @@ If you do use copyrighted images:
 -   Attribute the photo to the source (especially if required or requested).
 -   Where possible, link to the source online.
 
-### Accessibility
+## Accessibility
 
 Images must comply with 508 standards and accessibility guidelines. The broad requirement is that any information presented in an image must also be presented in an alternative format (for people who cannot view images). While 508 compliant is the minimum threshold for our content, we generally hold our work to a higher standard specified by the Web Content Accessibility Guidelines’ (WCAG) AA standard.
 
@@ -44,6 +44,6 @@ For images this means every image on a web page must have “alt text” describ
 
 For more details and examples, read our [Accessibility Guide](https://pages.18f.gov/accessibility/images/).
 
-### Captions
+## Captions
 
 When captioning an image, the goal is to add additional context and information. Don’t simply state what the reader is able to see by looking at the photo itself. Captions should increase depth and understanding. They are also a good place to include attribution information when images are under a Creative Commons license or other groups have granted 18F permission to use an image.

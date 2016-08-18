@@ -2,8 +2,7 @@
 title: URLs and filenames
 ---
 
-Creating URLs
--------------
+## Creating URLs
 
 URLs should be short, memorable, easy to type, and well-structured.
 Your control over your URL may be limited, but you should do what you can
@@ -85,7 +84,7 @@ to remember).
 
 ### Examples
 
-Domain names:
+#### Domain names
 
 -   **Starting Point**:
     `www.longnamecreationservice.departmentoflongnames.bureauofnames.gov`.
@@ -117,7 +116,7 @@ Domain names:
     a shorter description of what the service does is better to have as
     the lowest level of the domain.
 
-Paths:
+#### Paths
 
 -   **Starting Point**:
     `/services/default/php/forms/departmentoflongnames/longnamecreationservice/index.php?action=create`.
@@ -155,7 +154,7 @@ Paths:
     **Rationale**: As above, if they aren’t familiar with the
     abbreviation, use a shorter description of what the server does.
 
-Both:
+#### Both
 
 -   **Starting Point**:
     `www.longnamecreationservice.departmentoflongnames.bureauofnames.gov/services/default/php/forms/departmentoflongnames/longnamecreationservice/index.php?action=create`.
@@ -177,14 +176,13 @@ Both:
     **Rationale**: This is reasonable if the Long Name Creation Service is
     one of many related services that the Department of Long Names provides.
 
-Maintaining URLs
-----------------
+## Maintaining URLs
 
-Users constantly bookmark and share web pages, making the maintenance of 
-permanent and long-lasting URLs an important piece of content management. 
+Users constantly bookmark and share web pages, making the maintenance of
+permanent and long-lasting URLs an important piece of content management.
 Broken links obscure the internet landscape.
 
-URLs should never stop working. 
+URLs should never stop working.
 
 This is not as technically challenging as it sounds. If the domain — the
 high-level domain, not subdomains — is lost, the URLs will be lost, but
@@ -192,9 +190,9 @@ otherwise it’s entirely possible to keep them working. Planning for them
 to continue working is the first step in any process that involves new
 URLs.
 
-Whenever possible, maintain original URLs. 
-In all other cases, set up a redirect for outdated URLs and links; 
-this is almost always a painless task for web managers. There are a variety 
+Whenever possible, maintain original URLs.
+In all other cases, set up a redirect for outdated URLs and links;
+this is almost always a painless task for web managers. There are a variety
 of ways to accomplish this, some of them requiring more
 technical work than others. It’s most difficult to accomplish when
 moving from URLs that include query parameters, as some early website
@@ -229,8 +227,7 @@ Once we use `/content-guide/` to refer to this guide, we can no longer
 decide in future to use `/content-guide/` as the location for something
 else, even if we later change the URL for this guide.
 
-Creating filenames
-------------------
+## Creating filenames
 
 Use hyphens to separate words, just as with URLs.
 
@@ -254,8 +251,7 @@ Avoid the use of special characters beyond the hyphen and period, unless
 absolutely necessary. Do not include spaces (use hyphens in their
 place).
 
-Presenting URLs and filenames in text
--------------------------------------
+## Presenting URLs and filenames in text
 
 Whether beginning with the protocol or not, always lowercase URLs in
 text. Paths are case-sensitive, however, so their casing must be
@@ -298,8 +294,7 @@ Delimiting an awkward URL in email:
 > per our guidelines, and make the latter the definitive URL for the
 > page?
 
-URL Structure
--------------
+### URL Structure
 
 1.  **The protocol.** For example `https://`, `http://`, or `ftp://`.
     The `://` is always present.

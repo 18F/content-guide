@@ -3,7 +3,7 @@ title: Trademarks and brands
 ---
 Avoid using a trademark unless you’re referring to a specific product. This can be tricky when a trademarked name, like Kleenex, has become synonymous with an entire family of products. It’s preferable to use a generic word — for example, *tissue* — instead of a brand name.
 
-### Common trademarked words (with alternative terms)
+## Common trademarked words (with alternative terms)
 
 -   Band-Aid (adhesive bandage, bandage)
 -   Bubble Wrap (packaging bubbles)

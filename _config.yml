@@ -75,9 +75,6 @@ navigation:
   - text: Be concise
     url: be-concise/
     internal: true
-  - text: Content principles
-    url: principles/
-    internal: true
   - text: Legal and technical terms
     url: legal-and-technical-terms/
     internal: true
@@ -86,6 +83,15 @@ navigation:
     internal: true
   - text: Voice and tone
     url: voice-and-tone/
+    internal: true
+  - text: Content principles
+    url: content-principles/
+    internal: true
+  - text: Frequently asked questions (FAQs)
+    url: faqs/
+    internal: true
+  - text: How users read
+    url: how-users-read/
     internal: true
 - text: 18f style
   url: 18F-style/
@@ -132,6 +138,12 @@ navigation:
     - text: URLs and filenames
       url: urls-and-filenames/
       internal: true
+    - text: Images
+      url: images/
+      internal: true
+- text: Acronyms and abbreviations
+  url: acronyms-and-abbreviations/
+  internal: true
 
 repos:
 - name: 18F Content Guide

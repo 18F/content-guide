@@ -17,11 +17,11 @@ When you're deciding whether to capitalize noun phrases, keep in mind that in En
 See additional capitalization rules in the [Specific words and phrases](https://pages.18f.gov/content-guide/specific-words-and-phrases/)
 section.
 
-### Personal titles
+## Personal titles
 
 Don’t capitalize personal titles unless they precede a name. For example, *the director got approval* or *Director Lopez got approval*. Whenever possible, keep titles gender neutral. For example, we prefer *firefighter* to *fireman* and *chairperson* to *chairman*.
 
-### Headings
+## Headings
 
 Headlines, page titles, subheads and similar content should follow sentence case, and should not include a trailing colon. For example:
 

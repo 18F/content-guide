@@ -2,7 +2,7 @@
 title: Numbers and percentages
 ---
 
-### Numbers
+## Numbers
 
 Generally speaking, we follow the guidelines outlined in the AP Stylebook. In body copy, we prefer to spell out numbers *one* through *nine*, and use numerals for numbers 10 and greater. This is true of ordinal numbers, as well. Spell out *first* to *ninth*, and capture *10th* or greater with numerals.
 
@@ -10,11 +10,11 @@ Sometimes the government writes about very large numbers: millions, billions, ev
 
 In titles, subheadings, and interface labels, we use numerals instead of spelling out numbers. For example, *10 digital tech leaders you should know now* or *6 ways to incorporate plain-language strategies*. We do this to promote ease of reading and scannability — in titles and headings, it’s easier for readers to scan numerals than it is for them to scan written-out numbers.
 
-### Dates
+## Dates
 
 Use the full, four-digit year. For informal writing, it's okay to use an abbreviated form. For example, *We're thankful web design isn't stuck in the '90s.*
 
-### Percentages
+## Percentages
 
 In keeping with AP style, we spell out *percent* in most cases, with a few exceptions. We use the percent sign (%) in these circumstances:
 
