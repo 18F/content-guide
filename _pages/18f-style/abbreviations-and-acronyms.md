@@ -1,10 +1,8 @@
 ---
-title: Acronyms and abbreviations
-permalink: /acronyms-and-abbreviations/
-
+title: Abbreviations and acronyms
 ---
 
-Abbreviations are any shortened or contracted word or phrase. For example, writing *St.* instead of *Street*, or *Rx* for *prescription*, or *D.C.* for *District of Columbia*. 
+Abbreviations are any shortened or contracted word or phrase. For example, writing *St.* instead of *Street*, or *Rx* for *prescription*, or *D.C.* for *District of Columbia*.
 
 Acronyms are a *type* of abbreviation. They shorten phrases in a specific way— using parts of the initial word or phrase (usually letters) to form an abbreviation. For example, *DIY* or *ASAP*.
 
