@@ -1,21 +1,20 @@
 ---
 title: Frequently asked questions (FAQs)
 ---
-FAQs are bad. We don't like them. **If you write content by starting
-with user needs, you won’t need to use FAQs.**
+Like our peers at GDS, we [strongly discourage writing FAQs](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#dont-use-faqs), or Frequently Asked Questions.
 
-Frequently asked questions usually aren’t questions asked by the reader,
-but rather are important information dumped in the FAQ section by the
-content editor. In most cases, FAQ content is not where users expect to
-find it, which makes users’ experience frustrating and less than
-informative.
+FAQs:
 
-If you're thinking about adding FAQs, consider reviewing the content on
-your website that is generating questions and think about how you can 
-change the content or design to answer the question — or provide an 
-answer in context to prevent people from visiting an additional webpage
-to find the answer.
+* Are hard to read and search for
+* Duplicate other content on your site
+* Are usually not questions asked by the public
+* Mean that content is not where people expect to find it—it needs to be in context
 
-If you receive similar questions by email, take note
-that your users are identifying problems in your content. Pay
-attention to correct these problems as quickly as possible.
+If you’re thinking about posting FAQs, review the related content on your site and look for ways to improve it. For example:
+
+* Is it organized in a logical way?
+* Can you group similar topics together?
+* Is it easy to find?
+* Is it clear and up-to-date?
+
+If people are asking similar questions, the existing content isn’t meeting their needs. Perhaps you need to rewrite it or combine several pieces of content. Pay attention to what users are asking for and find the best way to guide them through the process.
