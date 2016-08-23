@@ -8,7 +8,7 @@ Read the full text of the [Legal Code](https://creativecommons.org/publicdomain/
 
 ## No copyright
 
-We dedicate this work to the public domain by waiving our rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+We dedicate this work to the public domain by waiving our rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
 
 ## Other information
 
