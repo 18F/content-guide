@@ -5,7 +5,6 @@ exclude:
 - CONTRIBUTING.md
 - Gemfile
 - Gemfile.lock
-- LICENSE.md
 - README.md
 - go
 
