@@ -4,13 +4,13 @@ title: Structure the content
 
 Below you’ll find a few characteristics of online readers as well as our recommendations on ways to keep them in mind when writing and editing.
 
-### Important information first
+## Important information first
 
 Online, users tend to scan text until they find the information they need. No matter how carefully you craft your content, most people will only read [25 percent of it](https://www.nngroup.com/articles/website-reading/). This statistic isn’t meant to dishearten; rather, we believe it underscores the importance of getting content right.
 
 Put the most important information in the first two paragraphs. That’s the section users are most likely to read. In journalism, this technique is called the “inverted pyramid.”
 
-### Break up text
+## Break up text
 
 Large chunks of text can overwhelm readers. Use subheads and bullet points; they provide clear narrative structure for readers in a hurry. Meanwhile, put your information-carrying words at the beginning of your sentences, and keep them in [active voice](https://pages.18f.gov/content-guide/active-voice/).
 
@@ -52,7 +52,7 @@ If you’re wrangling a lot of data, tables can help you visualize that content.
     </tbody>
 </table>
 
-### Keep sentences short and sweet
+## Keep sentences short and sweet
 
 Craft sentences at 25 words or fewer, whenever possible. If a sentence has fewer than 14 words, [readers understand 90 percent of content](http://comprehension.prsa.org/?p=217). At 25 words, sentences are markedly more difficult to comprehend.
 
