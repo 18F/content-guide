@@ -2,7 +2,7 @@
 title: Punctuation
 ---
 
-### Bulleted lists
+## Bulleted lists
 
 Capitalize the first word of every bullet. Don't use semicolons after points in a bulleted list. Include a period at the end of the bullet only if that point is a complete sentence. See the examples below.
 
@@ -17,7 +17,7 @@ Capitalize the first word of every bullet. Don't use semicolons after points in 
 -   *Please buy apples, bananas, and naan chips.*
 -   *Fill the car with gas.*
 
-### Colons
+## Colons
 
 Capitalize the first word after a colon, only if what follows is a complete sentence. See the examples below.
 
@@ -26,11 +26,11 @@ Capitalize the first word after a colon, only if what follows is a complete sent
 *I have several favorite foods: Apples were my first favorite snack, but naan chips
 are a rising star in my life.*
 
-### Commas
+## Commas
 
 We use the serial comma (sometimes called the Oxford comma). In a list of three or more, include a comma before the conjunction. For example: *Please buy apples, bananas, and naan chips.*
 
-### Dashes
+## Dashes
 
 When offsetting a phrase with dashes you should use the longer em dash (—), which is `Option+Shift+-` on Macs, with a space on either side of the dash. For example:
 
@@ -41,7 +41,7 @@ Although we advocate using words rather than symbols, in some contexts you may u
 
 *We assign 2–3 people to each development team.*
 
-### Quotes
+## Quotes
 
 Below are examples of correctly punctuated quotations.
 
@@ -52,14 +52,14 @@ Below are examples of correctly punctuated quotations.
 *He paused before saying “bananas are not something people should
 hate.”*
 
-### Spaces
+## Spaces
 
 Sentences should always be separated by a single space. Never two spaces.
 
-### Ampersands or plus signs
+## Ampersands or plus signs
 
 Use _and_ instead of an ampersand or plus sign, unless they’re part of an official title or company name. For example, *D.C. Tech Lady Hackathon + Training Day*
 
-### Slashes
+## Slashes
 
 Avoid using the slash (/) symbol. Replace it with words or commas as appropriate.
