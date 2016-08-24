@@ -20,7 +20,7 @@ If you're struggling to use plain language, try writing conversationally. Pictur
 
 Plain language lists can help spot problem words and consider alternatives, but keep in mind that plain language is more than just a list of words to avoid—it’s a way of writing.
 
-### Words to avoid
+## Words to avoid
 
 - agenda (unless you’re talking about a meeting)
 - advancing
@@ -62,7 +62,7 @@ Plain language lists can help spot problem words and consider alternatives, but 
 - user testing (use _user research_ or _usability testing_)
 - utilize (use _use_)
 
-### Additional resources
+## Additional resources
 
 * [Federal Plain Language Guidelines](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/TOC.cfm)
 * [Avoiding legal, foreign, and technical jargon](http://www.plainlanguage.gov/howto/guidelines/FederalPLGuidelines/writeNoJargon.cfm)
