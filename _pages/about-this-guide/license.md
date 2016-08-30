@@ -1,5 +1,5 @@
 ---
 title: License
-permalink: LICENSE.md
+permalink: /LICENSE.md/
 ---
 

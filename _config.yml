@@ -94,11 +94,11 @@ navigation:
   - text: Punctuation
     url: punctuation/
     internal: true
+  - text: Specific words and phrases
+    url: specific-words-and-phrases/
+    internal: true
   - text: Voice and tone
     url: voice-and-tone/
-    internal: true
-  - text: Words and phrases
-    url: words-and-phrases/
     internal: true
 - text: Content types
   blurb: |
@@ -130,9 +130,9 @@ navigation:
   - text: Credits
     url: credits/
     internal: true
-  - text: License
-    url: license/
-    internal: true
+- text: License
+  url: LICENSE.md/
+  internal: true
   - text: Resources
     url: resources/
     internal: true
