@@ -45,6 +45,8 @@ defaults:
 # List links that should appear in the site sidebar here
 navigation:
 - text: Best practices
+  blurb: |
+    Tips and standards for developing user-centered content.
   url: best-practices/
   internal: true
   generated: true
@@ -68,6 +70,8 @@ navigation:
     url: structure-the-content/
     internal: true
 - text: 18F style
+  blurb: |
+    Grammar, spelling, and mechanics.
   url: 18f-style/
   internal: true
   generated: true
@@ -93,10 +97,12 @@ navigation:
   - text: Voice and tone
     url: voice-and-tone/
     internal: true
-  - text: Specific words and phrases
+  - text: Words and phrases
     url: words-and-phrases/
     internal: true
 - text: Content types
+  blurb: |
+    Detailed guidance for web and print elements.
   url: content-types/
   internal: true
   generated: true
