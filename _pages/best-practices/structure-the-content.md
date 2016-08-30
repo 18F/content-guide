@@ -31,9 +31,7 @@ If you’re wrangling a lot of data, tables can help you visualize that content.
     </thead>
     <tbody>
         <tr>
-            <td rowspan="5">Quarterly (Form <a href="http://www.fec.gov/pdf/forms/fecfrm3i.pdf">3</a>, <a href="http://www.fec.gov/pdf/forms/fecfrm3i.pdf#page=19">3Z</a>, <a href="http://www.fec.gov/pdf/forms/fecfrm3li.pdf">3L</a>)</td>
-        </tr>
-        <tr>
+            <td rowspan="4">Quarterly (Form <a href="http://www.fec.gov/pdf/forms/fecfrm3i.pdf">3</a>, <a href="http://www.fec.gov/pdf/forms/fecfrm3i.pdf#page=19">3Z</a>, <a href="http://www.fec.gov/pdf/forms/fecfrm3li.pdf">3L</a>)</td>
             <td>January 1–March 31</td>
             <td>April 15</td>
         </tr>

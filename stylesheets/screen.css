@@ -1,5 +1,7 @@
 /* @override http://localhost:4000/stylesheets/screen.css */
 
+/* @override http://localhost:4000/stylesheets/screen.css */
+
 /* @group bootstrap */
 
 html {
@@ -189,7 +191,7 @@ html body .site-header form input{
 	appearance: none;
 	border: none;
 	border-radius: 999em;
-	box-shadow: 0 1px 0 #5578b2;
+	box-shadow: 0 1px 0 #526d99;
 	display: block;
 	width: 100% !important;
 	height: 32px;
@@ -577,11 +579,18 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 .page ul,
 .page ol,
 .page dl,
-.page li{
+.page li,
+.page pre{
 	line-height: 1.4em;
 	margin: 0 auto 0.7em;
 	max-width: 640px;
 	width: 90%;
+}
+
+.page pre,
+.page code{
+	line-height: 1;
+	font-style: normal;
 }
 
 
@@ -668,7 +677,7 @@ a[id]{
 	font-size: 21px;
 	line-height: 1.3em;
 	font-family: Merriweather, Georgia;
-	color: #c56815;
+	color: #1e8a82;
 	max-width: 640px;
 	margin: 28px auto 16px;
 }
@@ -744,7 +753,8 @@ a[id]{
 	.page ul,
 	.page ol,
 	.page dl,
-	.page li{
+	.page li,
+	.page pre{
 		width: 90%;
 		margin-left: auto;
 		margin-right: auto;
@@ -845,33 +855,6 @@ a[id]{
 	border: 1px solid #ddd;
 	padding: 8px;
 }
-
-.page .h-card .p-job-title{
-	clear: left;
-	display: block;
-
-}
-
-
-@media screen and (min-width: 711.11px){
-	.page .h-card{
-		position: relative;
-		left: -80px;
-	}
-}
-
-.page .h-card::before{
-	content: "";
-	position: absolute;
-	left: 0;
-	top: 0;
-	bottom: 0;
-	width: 6px;
-	background: #e7f3f4;
-	border-radius: 5px 0 0 5px
-}
-
-.page .h-card .p-tel{ clear: left; }
 
 .page li{
 	list-style-type: square;
