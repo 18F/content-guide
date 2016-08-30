@@ -131,7 +131,7 @@ navigation:
     url: credits/
     internal: true
   - text: License
-    url: LICENSE.md/
+    url: license/
     internal: true
   - text: Resources
     url: resources/
