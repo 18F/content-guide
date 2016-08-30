@@ -130,12 +130,12 @@ navigation:
   - text: Credits
     url: credits/
     internal: true
-- text: License
-  url: LICENSE.md/
-  internal: true
-- text: Resources
-  url: resources/
-  internal: true
+  - text: License
+    url: LICENSE.md/
+    internal: true
+  - text: Resources
+    url: resources/
+    internal: true
 
 repos:
 - name: 18F Content Guide
