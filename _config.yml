@@ -127,8 +127,8 @@ navigation:
   internal: true
   generated: true
   children:
-  - text: Credits
-    url: credits/
+  - text: How to use this guide
+    url: how-to-use-this-guide/
     internal: true
   - text: License
     url: license/
