@@ -44,6 +44,20 @@ defaults:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
+- text: Introduction
+  url: introduction/
+  internal: true
+  generated: true
+  children:
+  - text: How to use this guide
+    url: how-to-use-this-guide/
+    internal: true
+  - text: License
+    url: license/
+    internal: true
+  - text: Resources
+    url: resources/
+    internal: true
 - text: Our approach
   blurb: |
     Tips and standards for developing user-centered content.
@@ -121,20 +135,6 @@ navigation:
     internal: true
   - text: URLs and filenames
     url: urls-and-filenames/
-    internal: true
-- text: About this guide
-  url: about-this-guide/
-  internal: true
-  generated: true
-  children:
-  - text: How to use this guide
-    url: how-to-use-this-guide/
-    internal: true
-  - text: License
-    url: license/
-    internal: true
-  - text: Resources
-    url: resources/
     internal: true
 
 repos:
