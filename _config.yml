@@ -44,13 +44,16 @@ defaults:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Best practices
+- text: Our approach
   blurb: |
     Tips and standards for developing user-centered content.
-  url: best-practices/
+  url: our-approach/
   internal: true
   generated: true
   children:
+  - text: Content principles
+    url: content-principles/
+    internal: true
   - text: Address the user
     url: address-the-user/
     internal: true
@@ -60,19 +63,16 @@ navigation:
   - text: Be concise
     url: be-concise/
     internal: true
-  - text: Content principles
-    url: content-principles/
-    internal: true
   - text: Use plain language
     url: plain-language/
     internal: true
   - text: Structure the content
     url: structure-the-content/
     internal: true
-- text: 18F style
+- text: Our style
   blurb: |
     Grammar, spelling, and mechanics.
-  url: 18f-style/
+  url: our-style/
   internal: true
   generated: true
   children:
