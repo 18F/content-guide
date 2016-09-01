@@ -53,7 +53,7 @@ navigation:
   - text: How to use this guide
     url: how-to-use-this-guide/
     internal: true
-    - text: License
+  - text: License
     url: license/
     internal: true
   - text: Resources

@@ -2,25 +2,25 @@
 title: Content principles
 ---
 
-### Start with user needs.
+## Start with user needs.
 
 Write in a way that suits the situation. Ask yourself: Who is going to read this? What do they need to know? How might they be feeling?
 
 Help people find the information they need quickly and easily. Guide them through the process.
 
-### Do the hard work to make it simple.
+## Do the hard work to make it simple.
 
 Use plain language and simple sentences.
 
 Choose clarity over cleverness.
 
-### Write for everyone.
+## Write for everyone.
 
 Respect the complexity of our users’ experiences.
 
 Be willing to be surprised about who’s reading your work.
 
-### Build trust.
+## Build trust.
 
 Talk like a person.
 
@@ -28,7 +28,7 @@ Tell the truth.
 
 Use positive language and concrete examples.
 
-### Start small and iterate.
+## Start small and iterate.
 
 Make sure your content works for users. Don’t be afraid to scrap what’s there and start over.
 
