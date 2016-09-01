@@ -53,9 +53,6 @@ navigation:
   - text: How to use this guide
     url: how-to-use-this-guide/
     internal: true
-  - text: License
-    url: license/
-    internal: true
   - text: Resources
     url: resources/
     internal: true
@@ -91,17 +88,11 @@ navigation:
   internal: true
   generated: true
   children:
-  - text: Abbreviations and acronyms
-    url: acronyms-and-abbreviations/
-    internal: true
   - text: Active voice
     url: active-voice/
     internal: true
   - text: Capitalization
     url: capitalization/
-    internal: true
-  - text: Concious style
-    url: concious-style/
     internal: true
   - text: Numbers and percentages
     url: numbers-and-percentages/
@@ -114,6 +105,9 @@ navigation:
     internal: true
   - text: Voice and tone
     url: voice-and-tone/
+    internal: true
+  - text: Conscious style
+    url: conscious-style/
     internal: true
 - text: Content types
   blurb: |
@@ -137,6 +131,14 @@ navigation:
   - text: URLs and filenames
     url: urls-and-filenames/
     internal: true
+- text: Introduction
+  internal: true
+- text: Abbreviations and acronyms
+  url: acronyms-and-abbreviations/
+  internal: true
+- text: License
+  url: license/
+  internal: true
 
 
 repos:
