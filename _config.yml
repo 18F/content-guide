@@ -92,7 +92,7 @@ navigation:
   generated: true
   children:
   - text: Abbreviations and acronyms
-    url: abbreviations-and-acronyms/
+    url: acronyms-and-abbreviations/
     internal: true
   - text: Active voice
     url: active-voice/
@@ -137,6 +137,7 @@ navigation:
   - text: URLs and filenames
     url: urls-and-filenames/
     internal: true
+
 
 repos:
 - name: 18F Content Guide
