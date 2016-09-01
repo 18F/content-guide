@@ -62,7 +62,6 @@ Here’s an example of how you might transform a too-long sentence into somethin
 
 - Easier to read: *Unfortunately, we can’t replace lost or stolen passes. Get a new pass by visiting [everykidinapark.gov](https://everykidinapark.gov/) and signing up again.*
 
-
 ## Don’t use FAQs
 
 Like our peers at GDS, we [strongly discourage writing FAQs](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#dont-use-faqs), or Frequently Asked Questions.
