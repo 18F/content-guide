@@ -15,9 +15,10 @@ As we created this guide, we also referred to these resources:
 * [Conscious Style Guide](http://consciousstyleguide.com/)
 * [Plain Language Action and Information Network](http://www.plainlanguage.gov/)
 * [USAGov Bilingual Style Guide](https://www.usa.gov/style-guide/table-of-contents)
-* [GLAAD Media Reference Guide](http://www.glaad.org/reference)
 * [Disability Language Style Guide](http://ncdj.org/style-guide/)
 * [Diversity Style Guide](http://www.diversitystyleguide.com/)
+* [GLAAD Media Reference Guide](http://www.glaad.org/reference)
+* [MailChimp Style Guide](http://styleguide.mailchimp.com/)
 
 ## Related links
 
