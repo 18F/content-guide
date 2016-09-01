@@ -1,5 +1,8 @@
 ---
 title: Structure the content
+redirect_from:
+- /faqs
+- /how-users-read/
 ---
 
 Below you’ll find a few characteristics of online readers as well as our recommendations on ways to keep them in mind when writing and editing.

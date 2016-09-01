@@ -92,7 +92,7 @@ navigation:
   generated: true
   children:
   - text: Abbreviations and acronyms
-    url: acronyms-and-abbreviations/
+    url: abbreviations-and-acronyms/
     internal: true
   - text: Active voice
     url: active-voice/

@@ -1,6 +1,9 @@
 ---
 title: Use plain language
+redirect_from:
+- /legal-and-technical-terms/
 ---
+
 U.S. government websites are for everyone. The content they contain should be as straightforward as possible.
 
 One of the best ways to make content clear and usable is to use **plain language**. When we use words people understand, our content is more findable, accessible, and inclusive. [Plain language](http://www.plainlanguage.gov/) is also mandatory for all federal government websites.
