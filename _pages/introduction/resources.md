@@ -18,7 +18,7 @@ As we created this guide, we also referred to these resources:
 * [Disability Language Style Guide](http://ncdj.org/style-guide/)
 * [Diversity Style Guide](http://www.diversitystyleguide.com/)
 * [GLAAD Media Reference Guide](http://www.glaad.org/reference)
-* [MailChimp Style Guide](http://styleguide.mailchimp.com/)
+* [MailChimp Content Style Guide](http://styleguide.mailchimp.com/)
 
 ## Related links
 
