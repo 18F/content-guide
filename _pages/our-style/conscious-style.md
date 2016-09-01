@@ -5,7 +5,7 @@ We follow the [Conscious Style Guide](http://consciousstyleguide.com/) because w
 
 ## Age
 
-We prefer _older person_ or _senior_ to elderly.
+We prefer _older person_ or _senior_ to _elderly_.
 
 ## Nationality
 
