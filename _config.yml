@@ -34,6 +34,9 @@ collections:
 generate_nodes: true
 flat_namespace: true
 
+gems:
+  - jekyll-redirect-from
+
 defaults:
   -
     scope:

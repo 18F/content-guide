@@ -1,7 +1,7 @@
 ---
 title: Use plain language
 redirect_from:
-- /legal-and-technical-terms/
+  - /legal-and-technical-terms/
 ---
 
 U.S. government websites are for everyone. The content they contain should be as straightforward as possible.
