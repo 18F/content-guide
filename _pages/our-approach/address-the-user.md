@@ -11,4 +11,4 @@ If you’re creating content that addresses multiple users—such as a patient a
 
 How you refer to the public is largely dependent on context. Feel free to choose from any of the words on this list: people, the public, users, or folks.
 
-We recommend against using the word “citizens” this way. Not everyone who uses a government website is a citizen, and we shouldn’t assume that in our prose. Use “citizens” to specify information related to U.S. citizenship — for example, describing who is eligible to vote in federal elections.
+We recommend against using the word [citizens](https://pages.18f.gov/content-guide/conscious-style/#nationality) this way. Not everyone who uses a government website is a citizen, and we shouldn’t assume that in our prose. Use _citizens_ to specify information related to U.S. citizenship — for example, describing who is eligible to vote in federal elections.
