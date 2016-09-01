@@ -2,7 +2,9 @@
 title: Capitalization
 ---
 
-Follow a consistent capitalization scheme. Creating trustworthy internal and external communications relies, to a large extent, on the content’s consistency. Inconsistent spellings and capitalizations undermine your narrative authority. We follow these capitalization guidelines:
+Follow a consistent capitalization scheme.
+
+Creating trustworthy internal and external communications relies, to a large extent, on the content’s consistency. Inconsistent spellings and capitalizations undermine your narrative authority. We follow these capitalization guidelines:
 
 - Do capitalize proper nouns, including names of individuals, places, and agencies
 - Don't capitalize _agile,_ unless it is the first word of a sentence
