@@ -1,5 +1,5 @@
 ---
-title: How users read
+title: Structure the content
 ---
 
 Below you’ll find a few characteristics of online readers as well as our recommendations on ways to keep them in mind when writing and editing.
@@ -31,9 +31,7 @@ If you’re wrangling a lot of data, tables can help you visualize that content.
     </thead>
     <tbody>
         <tr>
-            <td rowspan="5">Quarterly (Form <a href="http://www.fec.gov/pdf/forms/fecfrm3i.pdf">3</a>, <a href="http://www.fec.gov/pdf/forms/fecfrm3i.pdf#page=19">3Z</a>, <a href="http://www.fec.gov/pdf/forms/fecfrm3li.pdf">3L</a>)</td>
-        </tr>
-        <tr>
+            <td rowspan="4">Quarterly (Form <a href="http://www.fec.gov/pdf/forms/fecfrm3i.pdf">3</a>, <a href="http://www.fec.gov/pdf/forms/fecfrm3i.pdf#page=19">3Z</a>, <a href="http://www.fec.gov/pdf/forms/fecfrm3li.pdf">3L</a>)</td>
             <td>January 1–March 31</td>
             <td>April 15</td>
         </tr>
@@ -63,3 +61,24 @@ Here’s an example of how you might transform a too-long sentence into somethin
 - Too long: *Due to privacy and logistical considerations, passes cannot be replaced if lost or stolen; a new Paper Voucher must be accessed by going to the [everykidinapark.gov](https://everykidinapark.gov/) website and completing the same activities to obtain a new Paper Voucher.*
 
 - Easier to read: *Unfortunately, we can’t replace lost or stolen passes. Get a new pass by visiting [everykidinapark.gov](https://everykidinapark.gov/) and signing up again.*
+
+
+## Don’t use FAQs
+
+Like our peers at GDS, we [strongly discourage writing FAQs](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#dont-use-faqs), or Frequently Asked Questions.
+
+FAQs:
+
+* Are hard to read and search for
+* Duplicate other content on your site
+* Are usually not questions asked by the public
+* Mean that content is not where people expect to find it—it needs to be in context
+
+If you’re thinking about posting FAQs, review the related content on your site and look for ways to improve it. For example:
+
+* Is it organized in a logical way?
+* Can you group similar topics together?
+* Is it easy to find?
+* Is it clear and up-to-date?
+
+If people are asking similar questions, the existing content isn’t meeting their needs. Perhaps you need to rewrite it or combine several pieces of content. Pay attention to what users are asking for and find the best way to guide them through the process.

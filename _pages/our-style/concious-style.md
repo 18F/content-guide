@@ -1,5 +1,5 @@
 ---
-title: Conscious style
+title: Concious style
 ---
 We follow the [Conscious Style Guide](http://consciousstyleguide.com/) because we are inclusive of all users.
 

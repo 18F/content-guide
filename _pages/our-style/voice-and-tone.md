@@ -4,7 +4,7 @@ title: Voice and tone
 
 If you’re like many folks, you might not be sure of the difference between voice and tone. Maybe you’ve never deliberately crafted a voice and don’t know where to start. Not to fret! In this section, we’ll discuss the differences between voice and tone, how we describe our organizational voice, how to establish your own voice, and how to choose a tone that’s appropriate for whatever you’re writing.
 
-## What’s the difference between voice and tone?
+## The difference between voice and tone
 
 It’s a common question and one that young writers find themselves asking often: What’s the difference between voice and tone?
 
@@ -48,7 +48,7 @@ To describe your voice — which, in turn, will allow you to diagram it, create 
 
 Use your answers to these questions to craft a description of your voice. Once you’ve come up with your description, look it over and identify any contradictions or holes (never a good thing). While voices should be nuanced, they should also be cohesive.
 
-## Choosing a tone
+### Choosing a tone
 
 As we mentioned earlier, your voice is a constant, but your tone is a variable. Consider the following: If you’re having an irredeemably terrible day, you might get peeved at a store associate who chirpily (and repeatedly) asks if they can help you with anything. Instead of picking up on your nonverbal — or perhaps verbal — cues, this associate is **tone-deaf**. The associate maintained a consistently helpful voice, but they failed to shift their tone from energetic to restrained. As a result, their message (however valuable or well-intended) is lost on you.
 

@@ -1,0 +1,17 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <span class="hub">
+      <a href="https://guides.18f.gov"><img src="{{site.baseurl}}/images/logo/18F-Logo-S.png" alt="18F">Guides</a>
+    </span>
+    <nav>
+      <a href="{{ site.baseurl}}/nav-tips/" class="button button-nav-tips">Navigation tips</a>
+      {% unless page.hide_edit_link %}
+      <a class="button button-edit" href="https://github.com/{{ site.github.organization }}/{{ site.github.repository }}/edit/{{ site.github.default_branch }}/{{ page.path }}">Edit this page</a>{% endunless %}
+      <a class="button button-issue" href="https://github.com/{{ site.github.organization }}/{{ site.github.repository }}/issues/">File an issue</a>
+    </nav>          
+  </div>
+</footer>
+
+{% guides_style_18f_include analytics.html %}
+
+{% jekyll_pages_api_search_load %}

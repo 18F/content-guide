@@ -1,10 +1,10 @@
-As a work of the United States government, this project is in the public domain within the United States.
+---
+title: License
+---
 
-Additionally, we waive copyright and related rights in the work worldwide through the CC0 1.0 Universal public domain dedication.
+As a work of the federal government, this project is in the public domain within the United States.
 
-## CC0 1.0 Universal summary
-
-Read the full text of the [Legal Code](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
 ## No copyright
 

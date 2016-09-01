@@ -1,5 +1,5 @@
 ---
-title: Plain language
+title: Use plain language
 ---
 U.S. government websites are for everyone. The content they contain should be as straightforward as possible. One of the best ways to make content clear and usable is to use **plain language**. When we use words people understand, our content is more findable, accessible, and inclusive. [Plain language](http://www.plainlanguage.gov/) is also mandatory for all federal government websites.
 
@@ -20,7 +20,7 @@ If you're struggling to use plain language, try writing conversationally. Pictur
 
 Plain language lists can help spot problem words and consider alternatives, but keep in mind that plain language is more than just a list of words to avoid—it’s a way of writing.
 
-## Words to avoid
+### Words to avoid
 
 - agenda (unless you’re talking about a meeting)
 - advancing
@@ -61,6 +61,14 @@ Plain language lists can help spot problem words and consider alternatives, but 
 - transforming (what are you actually doing to change it?)
 - user testing (use _user research_ or _usability testing_)
 - utilize (use _use_)
+
+## When to use legal and technical terms
+
+Present complicated information clearly so it’s easier to understand. If you need to include legal terms or technical language, include a short, plain-language summary or define your terms up front.
+
+It’s fine to use technical terms when they’re appropriate for the audience or the situation, but you need to explain what they mean on the first reference.
+
+If you’re publishing source code, see the [18F Open Source Style Guide](https://pages.18f.gov/open-source-guide/) for tips on making the project easy to use and understand.
 
 ## Additional resources
 

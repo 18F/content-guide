@@ -1,5 +1,5 @@
 ---
-title: Optimize headings and titles
+title: Headings and titles
 ---
 Most people start their search for information with a search engine. If
 they can't find your page, they won't be reading your content.

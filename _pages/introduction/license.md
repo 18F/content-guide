@@ -1,0 +1,4 @@
+---
+title: License
+permalink: /license/
+---

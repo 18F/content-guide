@@ -1,10 +1,10 @@
 markdown: kramdown
-name: 18F Content Guide
+title: 18F Content Guide
+description: How to plan, write, and manage content at 18F.
 exclude:
 - CONTRIBUTING.md
 - Gemfile
 - Gemfile.lock
-- LICENSE.md
 - README.md
 - go
 
@@ -18,87 +18,126 @@ sass:
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: 18F
+  name: 18F Content Guild
   url: https://18f.gsa.gov
 
-# Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /assets/img/18f-logo.png
-logoalt: 18F logo
+github:
+  organization: 18F
+  repository: content-guide
+  default_branch: 18f-pages
 
 collections:
   pages:
     output: true
     permalink: /:path/
 
+generate_nodes: true
+flat_namespace: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Content principles
-  url: content-principles/
+- text: Introduction
+  url: introduction/
   internal: true
-- text: Acronyms and abbreviations
-  url: acronyms-and-abbreviations/
+  generated: true
+  children:
+  - text: How to use this guide
+    url: how-to-use-this-guide/
+    internal: true
+  - text: License
+    url: license/
+    internal: true
+  - text: Resources
+    url: resources/
+    internal: true
+- text: Our approach
+  blurb: |
+    Tips and standards for developing user-centered content.
+  url: our-approach/
   internal: true
-- text: Active voice
-  url: active-voice/
+  generated: true
+  children:
+  - text: Content principles
+    url: content-principles/
+    internal: true
+  - text: Address the user
+    url: address-the-user/
+    internal: true
+  - text: Avoid duplication
+    url: avoid-duplication/
+    internal: true
+  - text: Be concise
+    url: be-concise/
+    internal: true
+  - text: Use plain language
+    url: plain-language/
+    internal: true
+  - text: Structure the content
+    url: structure-the-content/
+    internal: true
+- text: Our style
+  blurb: |
+    Grammar, spelling, and mechanics.
+  url: our-style/
   internal: true
-- text: Address the user
-  url: address-the-user/
+  generated: true
+  children:
+  - text: Abbreviations and acronyms
+    url: acronyms-and-abbreviations/
+    internal: true
+  - text: Active voice
+    url: active-voice/
+    internal: true
+  - text: Capitalization
+    url: capitalization/
+    internal: true
+  - text: Concious style
+    url: concious-style/
+    internal: true
+  - text: Numbers and percentages
+    url: numbers-and-percentages/
+    internal: true
+  - text: Punctuation
+    url: punctuation/
+    internal: true
+  - text: Specific words and phrases
+    url: specific-words-and-phrases/
+    internal: true
+  - text: Voice and tone
+    url: voice-and-tone/
+    internal: true
+- text: Content types
+  blurb: |
+    Detailed guidance for web and print elements.
+  url: content-types/
   internal: true
-- text: Avoid duplication
-  url: avoid-duplication/
-  internal: true
-- text: Be concise
-  url: be-concise/
-  internal: true
-- text: Capitalization
-  url: capitalization/
-  internal: true
-- text: Conscious style
-  url: conscious-style/
-  internal: true
-- text: Frequently asked questions (FAQs)
-  url: faqs/
-  internal: true
-- text: How users read
-  url: how-users-read/
-  internal: true
-- text: Images
-  url: images/
-  internal: true
-- text: Technical and interface writing
-  url: technical-and-interface-writing/
-  internal: true
-- text: Legal and technical terms
-  url: legal-and-technical-terms/
-  internal: true
-- text: Numbers and percentages
-  url: numbers-and-percentages/
-  internal: true
-- text: Optimize headings and titles
-  url: optimize-headings-and-titles/
-  internal: true
-- text: Plain language
-  url: plain-language/
-  internal: true
-- text: Punctuation
-  url: punctuation/
-  internal: true
-- text: Specific words and phrases
-  url: specific-words-and-phrases/
-  internal: true
-- text: Trademarks and brands
-  url: trademarks-and-brands/
-  internal: true
-- text: URLs and filenames
-  url: urls-and-filenames/
-  internal: true
-- text: References
-  url: references/
-  internal: true
-- text: Voice and tone
-  url: Voice-and-tone/
-  internal: true
+  generated: true
+  children:
+  - text: Headings and titles
+    url: headings-and-titles/
+    internal: true
+  - text: Images
+    url: images/
+    internal: true
+  - text: Technical and interface writing
+    url: technical-and-interface-writing/
+    internal: true
+  - text: Trademarks and brands
+    url: trademarks-and-brands/
+    internal: true
+  - text: URLs and filenames
+    url: urls-and-filenames/
+    internal: true
+
 
 repos:
 - name: 18F Content Guide
@@ -107,22 +146,12 @@ repos:
 
 google_analytics_ua: UA-48605964-19
 
-back_link:
-  url: "https://pages.18f.gov/guides/"
-  text: Read more 18F Guides
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "guides_style_18f_default"
 
 # Configuration for jekyll_pages_api_search plugin gem.
 jekyll_pages_api_search:
   # Uncomment this to speed up site generation while developing.
   #skip_index: true
-
+  placeholder: Search
   # Each member of `index_fields` should correspond to a field generated by
   # the jekyll_pages_api. It can hold an optional `boost` member as a signal
   # to Lunr.js to weight the field more highly (default is 1).
