@@ -54,8 +54,8 @@ navigation:
     url: how-to-use-this-guide/
     internal: true
   - text: License
-    url: license/
-    internal: true
+  	url: license/
+  	internal: true
   - text: Resources
     url: resources/
     internal: true
@@ -91,7 +91,7 @@ navigation:
   internal: true
   generated: true
   children:
-    - text: Abbreviations and acronyms
+  - text: Abbreviations and acronyms
     url: acronyms-and-abbreviations/
     internal: true
   - text: Active voice
