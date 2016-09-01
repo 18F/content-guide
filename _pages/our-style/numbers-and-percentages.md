@@ -4,7 +4,7 @@ title: Numbers and percentages
 
 ## Numbers
 
-Generally speaking, we follow the guidelines outlined in the AP Stylebook. In body copy, we prefer to spell out numbers *one* through *nine*, and use numerals for numbers 10 and greater. This is true of ordinal numbers, as well. Spell out *first* to *ninth*, and capture *10th* or greater with numerals.
+Generally speaking, we follow the guidelines outlined in the [AP Stylebook](https://www.apstylebook.com/). In body copy, we prefer to spell out numbers *one* through *nine*, and use numerals for numbers 10 and greater. This is true of ordinal numbers, as well. Spell out *first* to *ninth*, and capture *10th* or greater with numerals.
 
 Sometimes the government writes about very large numbers: millions, billions, even trillions. We express these numbers with a numeral and a word. For example, *1.6 million people*. When referring to amounts of money in cents or greater than $1 million, we use numerals followed by words: *5 cents* or *$2.7 million*. For amounts of money less than $1 million, we use the dollar sign: *$17*.
 
