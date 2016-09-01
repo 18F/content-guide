@@ -32,11 +32,11 @@ We use the serial comma (sometimes called the Oxford comma). In a list of three 
 
 ## Dashes
 
-When offsetting a phrase with dashes you should use the longer em dash (—), which is `Option+Shift+-` on Macs, with a space on either side of the dash. For example:
+When offsetting a phrase with dashes you should use the longer em dash (—), which is `Option + Shift + -` on Macs, with a space on either side of the dash. For example:
 
 *We emphasize open, digital record keeping, and — whenever possible — we illuminate our processes.*
 
-Although we advocate using words rather than symbols, in some contexts you may use an "en dash" to convey a range of numbers. For example,  both *10–20 students* and *10 to 20 students* are acceptable options.  En dash is `Option+-` on Macs.
+Although we advocate using words rather than symbols, in some contexts you may use an "en dash" to convey a range of numbers. For example,  both *10–20 students* and *10 to 20 students* are acceptable options.  En dash is `Option + -` on Macs.
 
 *We assign 2–3 people to each development team.*
 
