@@ -1,5 +1,6 @@
 ---
 title: License
+permalink: /license
 ---
 
 As a work of the federal government, this project is in the public domain within the United States.
