@@ -4,7 +4,7 @@ title: Punctuation
 
 ## Bulleted lists
 
-Capitalize the first word of every bullet. Don't use semicolons after points in a bulleted list. Include a period at the end of the bullet only if that point is a complete sentence. See the examples below.
+Capitalize the first word of every bullet. Don't use semicolons after points in a bulleted list. Include a period at the end of the bullet only if that point is a complete sentence. For example:
 
 *When you go to the store, please buy:*
 
@@ -19,7 +19,7 @@ Capitalize the first word of every bullet. Don't use semicolons after points in 
 
 ## Colons
 
-Capitalize the first word after a colon, only if what follows is a complete sentence. See the examples below.
+Capitalize the first word after a colon, only if what follows is a complete sentence. For example:
 
 *I have several favorite foods: apples, bananas, and naan chips.*
 
@@ -34,8 +34,7 @@ We use the serial comma (sometimes called the Oxford comma). In a list of three 
 
 When offsetting a phrase with dashes you should use the longer em dash (—), which is `Option+Shift+-` on Macs, with a space on either side of the dash. For example:
 
-*We emphasize open, digital record keeping, and — whenever possible — we
-illuminate our processes.*
+*We emphasize open, digital record keeping, and — whenever possible — we illuminate our processes.*
 
 Although we advocate using words rather than symbols, in some contexts you may use an "en dash" to convey a range of numbers. For example,  both *10–20 students* and *10 to 20 students* are acceptable options.  En dash is `Option+-` on Macs.
 
@@ -49,8 +48,7 @@ Below are examples of correctly punctuated quotations.
 
 *“I hate bananas,” she said. “You know I hate bananas.”*
 
-*He paused before saying “bananas are not something people should
-hate.”*
+*He paused before saying “bananas are not something people should hate.”*
 
 ## Spaces
 
@@ -62,4 +60,4 @@ Use _and_ instead of an ampersand or plus sign, unless they’re part of an offi
 
 ## Slashes
 
-Avoid using the slash (/) symbol. Replace it with words or commas as appropriate.
+Avoid using the slash `/` symbol. Replace it with words or commas as appropriate.
