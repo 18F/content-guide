@@ -63,7 +63,7 @@ Include a short two- or three-sentence summary about the document to help the re
 
 ### Code
 
-Use backticks to style text and code snippets readers may want to copy and paste. For example:
+Use [backticks](https://help.github.com/articles/basic-writing-and-formatting-syntax/#quoting-code) to style text and code snippets readers may want to copy and paste. For example:
 
 * Use the `legend` element to offer a label within each form element.
 * Copy and paste `mkdir /home/foo/doc/bar && cd $_` into Terminal.
