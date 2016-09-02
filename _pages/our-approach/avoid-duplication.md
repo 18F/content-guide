@@ -11,4 +11,6 @@ There are thousands of federal websites. Collectively, they host hundreds of mil
 
 - Often, 18F team members write about a government service, tool, or program. Think authoritatively: What department or agency controls the thing you’re writing about? What information have they produced already?
 
-- Start significant projects with a content audit. Identify how any existing information is used and whether it will be helpful to your users in its current state. If it isn’t, what must change for it to help you address your users’ needs? Focus your work on those changes.
+- Start significant projects with a [content audit][]. Identify how any existing information is used and whether it will be helpful to your users in its current state. If it isn’t, what must change for it to help you address your users’ needs? Focus your work on those changes.
+
+[content audit]: https://methods.18f.gov/decide/content-audit/
