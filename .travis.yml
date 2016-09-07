@@ -2,9 +2,7 @@ language: ruby
 rvm:
 - 2.1.5
 install:
-  - gem uninstall bundler
   - gem install bundler
-cache: bundler
 script: ./go ci_build
 # safelist
 branches:
