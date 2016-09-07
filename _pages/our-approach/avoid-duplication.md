@@ -5,7 +5,9 @@ If something is written once and links to relevant information easily and well, 
 
 If users can find two similar pieces of content on a subject, they might end up calling a helpline or sending an email to the first address they find because they aren’t sure they have the right information.
 
-There are thousands of federal websites. Collectively, they host hundreds of millions of pieces of content. What are you publishing? What are other agencies publishing? Are users across the country and the world seeing a coherent view? **Check that the user need you’re trying to address has not already been covered.**
+There are thousands of federal websites. Collectively, they host hundreds of millions of pieces of content. What are you writing about? What are other agencies publishing? Are users across the country and the world seeing a coherent view?
+
+Before you publish something, check that the user need you’re trying to address has not already been covered:
 
 - Search for the content using a popular search engine like Google or Bing. This is how most users will start, too. If content is already easy to find, duplicating it can lead us to compete with ourselves for search results.
 

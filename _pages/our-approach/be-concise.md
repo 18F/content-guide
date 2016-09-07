@@ -12,11 +12,11 @@ To keep content understandable, concise, and relevant, it should be:
 
 You should:
 
-- Use contractions (such as *can’t* and *won’t*)
-- Not let caveats dictate unwieldy grammar – for example, say *You can* rather than *You may be able to*
+- Use contractions (such as _can’t_ and _won’t_)
+- Not let caveats dictate unwieldy grammar (for example, say _You can_ rather than _You may be able to_)
 - Use the language people are using
 - Use [Google Trends](https://www.google.com/trends) to check for common search terms
 - Use short sentences
 - Check sentences with more than 25 words to see if you can split them for clarity
 
-Words ending in *–ion* and *-ment* tend to make sentences longer and more complicated than necessary. Avoid turning verbs into nouns, a common sign of government-ese at work.
+Words ending in *–ion* and *-ment* tend to make sentences longer and more complicated than necessary. Avoid turning verbs into nouns, a common sign of governmentese at work.

@@ -65,8 +65,9 @@ Include a short two- or three-sentence summary about the document to help the re
 
 Use [backticks](https://help.github.com/articles/basic-writing-and-formatting-syntax/#quoting-code) to style text and code snippets readers may want to copy and paste. For example:
 
-* Use the `legend` element to offer a label within each form element.
-* Copy and paste `mkdir /home/foo/doc/bar && cd $_` into Terminal.
+>  Use the `legend` element to offer a label within each form element.  
+
+> Copy and paste `mkdir /home/foo/doc/bar && cd $_` into Terminal.
 
 In the first example, `legend` is an HTML element and should be styled as code. “Element” is a technical concept and shouldn't be marked up as code. “Label” is both a concept and an HTML element but is used here in the former sense and should not be styled as code.
 
@@ -74,14 +75,12 @@ Do not capitalize code elements, even at the start of a sentence, unless the ter
 
 Use [fenced code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/) for multi-line code snippets, and specify the language to enable [syntax highlighting on GitHub](https://help.github.com/articles/creating-and-highlighting-code-blocks/#syntax-highlighting):
 
------
-In JavaScript, to get the current value of a `select` element with an `id` of `mySelect`, use this:
-
-```javascript
-var el = document.getElementById("mySelect");
-var value = el.options[el.selectedIndex].value;
-```
------
+> In JavaScript, to get the current value of a `select` element with an `id` of  `mySelect`, use this:
+>
+> ```javascript
+> var el = document.getElementById("mySelect");
+> var value = el.options[el.selectedIndex].value;
+> ```
 
 Use [straight quotes](http://smartquotesforsmartpeople.com/) within code blocks rather than curly (or smart) quotes.
 
