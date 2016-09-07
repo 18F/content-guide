@@ -9,7 +9,18 @@ We prefer _older person_ or _senior_ to _elderly_.
 
 ## Nationality
 
-Avoid using _citizen_ as a generic term for people who live inside the U.S. Many government programs serve non-citizens and individuals with a wide range of immigration and visa statuses. Use _public_ when possible.
+Avoid using _citizen_ as a generic term for people who live within the U.S. Many government programs serve non-citizens and individuals with a wide range of immigration and visa statuses.
+
+How you refer to the public is largely dependent on context. Feel free to choose from any of these words:
+
+* People
+* The public
+* Users
+* Folks
+
+Be as specific as possible. Depending on the topic, you may want to say something like "People who need healthcare" or "People who need to access government services online."
+
+Use _citizens_ for information related to U.S. citizenship, such as describing who is eligible to vote in federal elections.
 
 ## Gender
 
