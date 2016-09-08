@@ -24,7 +24,7 @@ Use of the passive voice is common enough that many people don’t notice when t
 
 Never use the passive voice in a way that makes actions seem like they happen without anyone doing them.
 
-You may occasionally need to use the passive voice to soften an error message, for example, or to make something easier to understand.
+You may occasionally need to use the passive voice to soften an error message or make something easier to understand.
 
 Rewording either of these sentences to use the active voice would complicate the sentence or pull focus away from its main point:
 
