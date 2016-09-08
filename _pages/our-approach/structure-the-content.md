@@ -15,12 +15,15 @@ Put the most important information in the first two paragraphs. That’s the sec
 
 ## Break up text
 
-Large chunks of text can overwhelm readers. Use subheads and bullet points; they provide clear narrative structure for readers in a hurry. Meanwhile, put your information-carrying words at the beginning of your sentences, and keep them in [active voice](https://pages.18f.gov/content-guide/active-voice/).
+Large chunks of text can overwhelm readers. Use subheads and bullet points; they provide clear narrative structure for readers in a hurry. Put information-carrying words at the beginning of the phrase, and use the [active voice](https://pages.18f.gov/content-guide/active-voice/).
 
-For example:
+Instead of:
 
-- Original subhead: *Looking into the regulation of campaign finances*
-- Better subhead: *Campaign finance law explained*
+> Looking into the regulation of campaign finances
+
+Use:
+
+> Campaign finance law explained
 
 If you’re wrangling a lot of data, tables can help you visualize that content. Long paragraphs cluttered with numbers or dates are more difficult to scan than, for example:
 
@@ -59,11 +62,13 @@ Craft sentences at 25 words or fewer, whenever possible. If a sentence has fewer
 
 We also recommend varying sentence length. Switching things up helps you keep readers interested. This tactic will also give you better control of your content’s [tone](https://pages.18f.gov/content-guide/voice-and-tone/) — a text with only short sentences can unintentionally sound terse. The occasional longer sentence adds a bit of narrative interest (and can help a piece of writing sound friendlier, too).
 
-Here’s an example of how you might transform a too-long sentence into something more manageable:
+Here’s an example of how you might transform a too-long sentence into something more manageable. Instead of:
 
-- Too long: *Due to privacy and logistical considerations, passes cannot be replaced if lost or stolen; a new Paper Voucher must be accessed by going to the [everykidinapark.gov](https://everykidinapark.gov/) website and completing the same activities to obtain a new Paper Voucher.*
+> Due to privacy and logistical considerations, passes cannot be replaced if lost or stolen; a new Paper Voucher must be accessed by going to the [everykidinapark.gov](https://everykidinapark.gov/) website and completing the same activities to obtain a new Paper Voucher.
 
-- Easier to read: *Unfortunately, we can’t replace lost or stolen passes. Get a new pass by visiting [everykidinapark.gov](https://everykidinapark.gov/) and signing up again.*
+Use:
+
+> Unfortunately, we can’t replace lost or stolen passes. Get a new pass by visiting [everykidinapark.gov](https://everykidinapark.gov/) and signing up again.
 
 ## Don’t use FAQs
 

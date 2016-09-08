@@ -25,6 +25,8 @@ This can be tricky when a trademarked name, like Kleenex, has become synonymous 
 
 ## Guidelines
 
-Careful use of trademarked names and brands is important because the government shouldn’t endorse specific brands or products. When writing about corporate brands or products to illustrate a point, mention a range of related companies instead of a single provider. For example, *Twitter, Facebook, or YouTube can help you connect with users.*
+Careful use of trademarked names and brands is important because the government shouldn’t endorse specific brands or products. When writing about corporate brands or products to illustrate a point, mention a range of related companies instead of a single provider. For example:
+
+> Twitter, Facebook, and YouTube can help you connect with users.
 
 Avoid linking to products or services, because people can see it as an endorsement. The same rule applies to the brands and products of individuals, such as personal websites or websites where you can buy their book. Do link to useful resources, like slide decks or how-to guides, from private individuals or companies. If you mention a trademark, capitalize and punctuate it in the trademark holder’s preferred style.

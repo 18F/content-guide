@@ -2,27 +2,32 @@
 title: Active voice
 ---
 
-Our writing should be concise and direct. We prefer the voice that best supports this style, which is usually the active voice. The active voice allows the reader to more easily identify each sentence’s subject (and it makes written content more engaging, too).
+Our writing should be concise and direct. We prefer the active voice because it supports brevity and makes written content more engaging, too.
 
-**Avoid passive verb tenses whenever possible.** The active voice makes content easier to understand because the reader can more easily identify who the subject performing the action is. It makes written content more engaging, too.
+The active voice helps the reader identify the subject of the sentence. In the following example, the person who submits the form is essential information. Omitting that leads to a confusing and impersonal sentence.
 
-**No:** *The request form must be submitted to the approving official.*  
-**Yes:** *You must submit the request form to the approving official.*  
+**Passive**: _The request form must be submitted to the approving official._  
+**Active**: _You must submit the request form to the approving official._
 
-Who submits the form is essential information. Omitting that leads to a confusing and impersonal sentence.
+Along with deemphasizing who should take an action, the passive voice is usually longer, too. Wordy instructions are harder to follow.
 
-**No:** *The case number should be saved in your records. It will be required for future inquiries.*  
-**Yes:** *Save the case number in your records. You will need it for future inquiries.*  
+**Passive**: _The case number should be saved in your records. It will be required for future inquiries._  
+**Active**: _Save the case number in your records. You will need it for future inquiries._
 
-The passive voice is longer. Excessively wordy instructions are harder to follow. Passive voice also deemphasizes who should save the case number (that’s you).
+When in doubt, cut directly to the verb and give the reader clear directions.
+
+## How to recognize the passive voice
 
 Use of the passive voice is common enough that many people don’t notice when they use it. Here’s a simple way to recognize it, [courtesy of Dr. Rebecca Johnson](https://twitter.com/johnsonr/status/259012668298506240): If you insert “by zombies” after the verb and the sentence still makes sense, you’re using the passive voice.
 
-Occasionally, context makes the passive voice easier to understand than the active voice.
+## When to use the passive voice
 
-*Forms __issued by the Office of Government Ethics__ include the OGE-450 and the OGE-278.*  
-*The agency __is required__ to respond to requests within 20 working days.*  
+Never use the passive voice in a way that makes actions seem like they happen without anyone doing them.
 
-Rewording either of these sentences to use only the active voice would complicate the sentence or pull focus away from its main point. When that is the case, use the passive voice.
+You may occasionally need to use the passive voice to soften an error message or make something easier to understand.
 
-**Never use the passive voice in a way that makes actions seem like they happen without anyone doing them.**
+Rewording either of these sentences to use the active voice would complicate the sentence or pull focus away from its main point:
+
+> Forms __issued by the Office of Government Ethics__ include the OGE-450 and the OGE-278.  
+
+> The agency __is required__ to respond to requests within 20 working days.
