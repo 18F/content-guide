@@ -644,6 +644,22 @@ a[id]{
 	clear: none;
 }
 
+.highlighter-rouge pre{
+  background: #f0f0f0;
+  overflow-x: scroll;
+  overflow-y: auto;
+  padding: 8px;
+}
+
+.highlighter-rouge code{
+  font-weight: inherit;
+  color: black;
+  border: none;
+  background: inherit;
+  position: static;
+  padding: 0;
+}
+
 .page aside{
 	font-size: 16px;
 	color: #918c84;
