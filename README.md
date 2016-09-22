@@ -8,7 +8,7 @@ For a detailed introduction, see [how to use this guide](https://pages.18f.gov/c
 
 18F's Content Guild ([#g-content](https://18f.slack.com/archives/g-content)) maintains this guide.
 
-We started by adapting GOV.UK’s [excellent work](https://www.gov.uk/guidance/content-design), and we’d like to thank their team for championing plain language and information accessibility. Over time, we've expanded the guide to cover more topics, reorganized things, and moved the site from 18F Pages to [Federalist](https://github.com/18F/federalist). This guide is a work in progress, and we'll continue refining it over time.
+We started by adapting [GOV.UK’s work](https://www.gov.uk/guidance/content-design), and we’d like to thank their team for championing plain language and information accessibility. Over time, we've expanded the guide to cover more topics, reorganized things, and moved the site from 18F Pages to [Federalist](https://github.com/18F/federalist). This guide is a work in progress, and we'll continue refining it over time.
 
 ### Contributors
 
@@ -21,7 +21,7 @@ We started by adapting GOV.UK’s [excellent work](https://www.gov.uk/guidance/c
 * [Corey Mahoney](https://github.com/coreycaitlin)
 * [Kate Saul](https://github.com/kategarklavs) - Guild Lead
 * [Will Slack](https://github.com/wslack)
-* [Tadhg O'Higgens](https://github.com/tadhg-ohiggins)
+* [Tadhg O'Higgins](https://github.com/tadhg-ohiggins)
 * [Atul Varma](https://github.com/toolness)
 
 ## Contributing
