@@ -42,7 +42,18 @@ If you do use copyrighted images:
 
 Images must comply with 508 standards and accessibility guidelines. The broad requirement is that any information presented in an image must also be presented in an alternative format (for people who cannot view images). While 508 compliant is the minimum threshold for our content, we generally hold our work to a higher standard specified by the Web Content Accessibility Guidelines’ (WCAG) AA standard.
 
-For images this means every image on a web page must have “alt text” describing the image. Additionally, any text that appears in the image must also appear in the alt text. Most screen readers already add “Image of” when reading out an image, so alt text like “Image of the 18F logo” is redundant because screen readers will read it “Image of image of the 18F logo.” A good rule of thumb is to limit alt text to 150 words, anything longer should be placed in the content of the page. Images that serve solely to illustrate or provide visual interest for other nearby content do not require alt text, but they do require the “alt” element (in code, this is `alt=""`).
+For images this means every image on a web page must have *alt text* describing the image. Additionally, any text that appears in the image must also appear in the alt text. Most screen readers already add “Image of” when reading out an image, so alt text like “Image of the 18F logo” is redundant because screen readers will read it “Image of image of the 18F logo.” A good rule of thumb is to limit alt text to 150 words, anything longer should be placed in the content of the page.
+
+Images that serve solely to illustrate or provide visual interest for other
+nearby content do not require alt text, but they do require the `alt` attribute
+to be present (in code, this is done with `alt=""`). Otherwise, screen readers
+will fall back to uttering the URL of the image.
+
+Note also that if the image is associated with an action or concept, the alt
+text should refer to the name of the action or concept rather than the literal
+description of the image. For example, if a search field has an image of a
+magnifying glass to signify that clicking on it will initiate a search, “Search”
+will be more useful alt text than “Magnifying glass”.
 
 For more details and examples, read the [18F Accessibility Guide](https://pages.18f.gov/accessibility/images/).
 
