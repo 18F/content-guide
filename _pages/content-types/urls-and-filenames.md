@@ -328,3 +328,71 @@ redirected to `https://`. If at all possible, your URL should not
 contain a port. Query strings should also be avoided. Fragments can be
 used as a helper for the user, but should not be necessary for the user
 to find the relevant content.
+
+## Link text
+
+It’s important to remember that users of screen readers will often
+[skip from one link to another][link-to-link], skipping the text in
+between, as a way of “skimming” content.
+
+This ultimately means that link text should be understandable independent of
+the text surrounding it. Avoid link text like *click here*, *here*,
+*learn more*, and so forth whenever possible.
+
+For example, instead of:
+
+> [Click here][CoC] for more information about our Code of Conduct.
+
+Use:
+
+> For more information, see the [18F Code of Conduct][CoC].
+
+This has an added benefit of improving search results for sighted users.
+
+[CoC]: https://github.com/18F/code-of-conduct
+[link-to-link]: http://webaim.org/techniques/hypertext/#link_to_link
+
+## Screen reader-only text
+
+In some situations, descriptive links may be overly verbose or redundant for
+sighted users. Here’s an example from the [betaFEC site][]:
+
+<a href="{{ baseurl }}/assets/img/betaFEC.png">
+  <img src="{{ baseurl }}/assets/img/betaFEC.png" alt="betaFEC screenshot">
+</a>
+
+Here the *Learn more* link is appropriate for sighted users, but it may be
+confusing to screen reader users. In such situations, it’s possible to add
+[invisible text just for screen reader users][sr-only].  For example, the
+Draft U.S. Web Design Standards has a special CSS class called `usa-sr-only`
+for this purpose. Using this class, the aforementioned *Learn more* link
+might be written in HTML like so:
+
+```html
+<a href=”essentials-house-and-senate-candidates-and-committees/”>
+  Learn more
+  <span class=”usa-sr-only”>
+    about candidate and candidate committees
+  </span>
+</a>
+```
+
+This would keep the link concise for sighted users, while also providing 
+important context for screen reader users.
+
+If you want to use “screenreader only” text on your project but are unfamiliar
+with CSS, ask your project’s front end developer for help. They can create a
+CSS class for you if one doesn’t already exist. Alternatively, reach out to
+[#g-accessibility][] or [#g-frontend][] in Slack!
+
+[#g-accessibility]: https://18f.slack.com/archives/g-accessibility
+[#g-frontend]: https://18f.slack.com/archives/g-frontend
+[sr-only]: http://webaim.org/techniques/css/invisiblecontent/
+[betaFEC site]: https://beta.fec.gov/registration-and-reporting/
+
+## Additional resources
+
+* [WebAIM: Links and Hypertext](http://webaim.org/techniques/hypertext/)
+* [W3C: Don’t Use “Click Here” as Link Text](https://www.w3.org/QA/Tips/noClickHere)
+* [Stop Clicking Here! 7 Superior SEO Alternatives to Generic Links](https://moz.com/blog/click-here-seo)
+* [18F Accessibility Guide](https://pages.18f.gov/accessibility/links/)
