@@ -1,18 +1,44 @@
 ## 18F Content Guide
 
-This guide helps writers create content that’s easy to use and meets citizens where they’re at. Government websites often talk at readers rather than to them: As with other facets of its online presence, .gov writing tends to describe the government’s concerns in “governmentese,” leaving users frustrated by information that is neither actionable nor understandable.
+This is the repository for the [18F Content Guide](https://pages.18f.gov/content-guide/). This guide was developed for 18F employees, but we hope it’s a useful reference for anyone.
 
-This guide takes into account that frustration as well as several commonly supported guidelines about writing for the web. Using this guide can help content designers benefit from our experience to date, incorporate user feedback into the content design process, and engender trust by communicating in a consistent manner.
+For a detailed introduction, see [how to use this guide](https://pages.18f.gov/content-guide/how-to-use-this-guide/).
 
-## How to use this guide
+## History
 
-We created this guide for reference on an as-needed basis. It’s here when you’re wondering whether to capitalize the word federal, for instance, or when you’re wondering how to create a friendly, informational tone.
+18F's Content Guild ([#g-content](https://18f.slack.com/archives/g-content)) maintains this guide.
 
-To this end, we’ve structured the guide into descriptively named sections. Browse our table of contents to find the topic you’re looking for.
+We started by adapting [GOV.UK’s work](https://www.gov.uk/guidance/content-design), and we’d like to thank their team for championing plain language and information accessibility. Over time, we've expanded the guide to cover more topics, reorganized things, and moved the site from 18F Pages to [Federalist](https://github.com/18F/federalist). This guide is a work in progress, and we'll continue refining it over time.
 
-We aren’t opposed if you’d like to read this guide start to finish, of course.
+### Contributors
 
-Most importantly, we encourage you to make a copy of this document and adapt its to your organizational needs. This guide is just that: a guide. It’s not meant to provide the final opinion on any of the topics discussed. If a certain section isn’t relevant to you and your team, delete it. And if you feel the guide is missing a section, by all means, add it. This guide is yours to use, and we trust you’ll update it in the ways that best suit you.
+* [Emileigh Barnes](https://github.com/emileighoutlaw) - Guild Lead
+* [Nicole Fenton](https://github.com/nicoleslaw)
+* [Andre Francisco](https://github.com/awfrancisco)
+* [Britta Gustafson](https://github.com/brittag)
+* [James Hupp](https://github.com/jameshupp)
+* [Andrew Maier](https://github.com/andrewmaier)
+* [Corey Mahoney](https://github.com/coreycaitlin)
+* [Kate Saul](https://github.com/kategarklavs) - Guild Lead
+* [Will Slack](https://github.com/wslack)
+* [Tadhg O'Higgins](https://github.com/tadhg-ohiggins)
+* [Atul Varma](https://github.com/toolness)
+
+## Contributing
+
+We welcome your thoughts and suggestions. Please [create an issue](https://github.com/18F/content-guide/issues/new) or send us a pull request. We follow the [18F Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md) and all contributors should do the same.
+
+### Running the site
+
+The 18F Content Guide runs on [Jekyll](http://jekyllrb.com/). To run it locally:
+
+1. Clone the repository.
+1. Get [Jekyll] and the necessary dependencies: `bundle install`
+1. Install all node dependencies: `npm install`
+1. Set the $NODE_ENV to `dev`: `export NODE_ENV=dev`
+1. Package js files with webpack: `webpack --watch`
+1. Run the web server: `npm run start` (or `jekyll serve` if you have Jekyll installed globally)
+1. Visit the local site at [http://localhost:4000](http://localhost:4000)
 
 ### Public domain
 
