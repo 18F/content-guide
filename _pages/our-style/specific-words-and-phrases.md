@@ -32,6 +32,7 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **open source**, **open source software**
 - **percent** is preferred more than the “%” symbol. For example, _10 percent of respondents_
 - **p.m.**
+- **Scrum** should be used to refer to the set of practices for the agile method. We don't use that term for the daily meetings and instead use _daily standup_.
 - **startup**
 -  States:
     -   Spell out names. For example, _Mississippi_.
