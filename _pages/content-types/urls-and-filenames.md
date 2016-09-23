@@ -357,8 +357,8 @@ This has an added benefit of improving search results for sighted users.
 In some situations, descriptive links may be overly verbose or redundant for
 sighted users. Here’s an example from the [betaFEC site][]:
 
-<a href="{{ site.baseurl }}/assets/img/betaFEC.png">
-  <img src="{{ site.baseurl }}/assets/img/betaFEC.png" alt="betaFEC screenshot">
+<a href="{{ site.baseurl }}/images/betaFEC.png">
+  <img src="{{ site.baseurl }}/images/betaFEC.png" alt="betaFEC screenshot">
 </a>
 
 Here the *Learn more* link is appropriate for sighted users, but it may be
