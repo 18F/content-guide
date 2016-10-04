@@ -6,45 +6,29 @@ Data is often represented on websites, in reports and other documents.  When don
 
 ## Basics
 
+### Keep it simple
+
+When referring to specific data points, use data in the simplest, most meaningful manner possible.  When describing data or elements of data visualizations, follow standard practice.  Describe data succinctly.  Do not embellish with jargon-filled language or statements that an average user won't understand.  It is your job to describe your data correctly, not the reader's job to guess what you mean.
+
+Instead of: 
+
+>
+
+Use: 
+
+>
+
+### Use appropriate visualizations
+
+Select a complimentary way to visualize the data.  Your reader should be able to interpret the data correctly with a minimal amount of supporting information.
+
+A useful technique is to ask a reader to interpret your visualization without an explanation.  If a reader has to take an inordinate amount of time to interpret the data, or cannot correctly interpret the data without help, the visualization isn't effective.
+
 ### Do the hard work to make it simple.
 
 Help the reader follow along. Break instructions or processes down into individual steps. Use short, simple sentences with words people use in everyday conversation.
 
 Refer to navigation labels, buttons, and menus as they appear in the app or website. Verify the spelling and capitalization as you write. Be specific.
-
-Instead of:
-
-> Open a new meeting invitation.
-
-Use:
-
-> In Google Calendar, click **Create**.
-
-### Direct the reader.
-
-Start your sentences with active verbs or clear objectives.
-
-Instead of:
-
-> Help us understand what kind of help you need by [creating an issue in GitHub](https://github.com/18F/FEC/issues/new).
-
-Use:
-
-> [Create an issue](https://github.com/18F/FEC/issues/new) with details about your request.
-
-Or:
-
-> To get started, [create an issue](https://github.com/18F/FEC/issues/new) in GitHub with details about your request.
-
-Focus on what the reader can do rather than what they can’t. (This is known as using positive language.)
-
-Instead of:
-
-> You cannot continue without signing in.
-
-Use:
-
-> Sign in to continue.
 
 ## Guidelines
 
