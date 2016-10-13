@@ -86,7 +86,7 @@ to remember).
 
 #### Domain names
 
--   **Starting Point**:
+-   **Starting point**:
     `www.longnamecreationservice.departmentoflongnames.bureauofnames.gov`.
 -   **Slight improvement**:
     `longnamecreationservice.departmentoflongnames.bureauofnames.gov`.
@@ -118,7 +118,7 @@ to remember).
 
 #### Paths
 
--   **Starting Point**:
+-   **Starting point**:
     `/services/default/php/forms/departmentoflongnames/longnamecreationservice/index.php?action=create`.
 -   **Slight improvement**:
     `/services/default/php/forms/departmentoflongnames/longnamecreationservice/index.php`.
@@ -156,7 +156,7 @@ to remember).
 
 #### Both
 
--   **Starting Point**:
+-   **Starting point**:
     `www.longnamecreationservice.departmentoflongnames.bureauofnames.gov/services/default/php/forms/departmentoflongnames/longnamecreationservice/index.php?action=create`.
 -   **Improvement**:
     `make-long-names.bureauofnames.gov/department-of-long-names/make-long-names/`.
