@@ -24,6 +24,23 @@ Select a complimentary way to visualize the data.  Your reader should be able to
 
 A useful technique is to ask a reader to interpret your visualization without an explanation.  If a reader has to take an inordinate amount of time to interpret the data, or cannot correctly interpret the data without help, the visualization isn't effective.
 
+Here are some common types of visualizations, and some guidelines on how to use them.  We're going to talk about five mechanisms for representing data: tables, charts, graphs, maps and diagrams.
+
+#### Tables
+Stuff here.
+
+#### Charts
+Stuff here.
+
+#### Graphs
+Stuff here.
+
+#### Maps
+Stuff here.
+
+#### Diagrams
+Stuff here.
+
 ### Do the hard work to make it simple.
 
 Help the reader follow along. Break instructions or processes down into individual steps. Use short, simple sentences with words people use in everyday conversation.
