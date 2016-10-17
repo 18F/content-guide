@@ -26,8 +26,15 @@ A useful technique is to ask a reader to interpret your visualization without an
 
 Here are some common types of visualizations, and some guidelines on how to use them.  We're going to talk about five mechanisms for representing data: tables, charts, graphs, maps and diagrams.
 
-#### Tables
-Stuff here.
+#### Tables (some of this comes directly from https://pages.18f.gov/content-guide/technical-and-interface-writing/)
+Tables are generally suitable only for data: two or more “objects” (rows) that share two or more “values” (columns). In tables, column widths are the same for all rows, which can make them easier to scan visually. Tables are easily navigable for sightless users so long as the content is organized in a logical way. Here are some other guidelines to consider:
+
+- When listing numbers, it’s good practice to align them to the right of their cell, with the same decimal precision (“40.50” and “1.00”) so that the numbers are easier to compare while scanning.  Use of decimals should be uniform through all the records in shown in the table.
+- Records can be sorted by particular columns, but this should be indicated in the design of the table.  For example, if listing cities by size of population, the title of the table and the population column should include an appropriate indicator.  
+- Avoid truncating records in the data table.
+- Always align column headings up with the values in the columns. For example, numeric column headings should be aligned right if the values are, too.
+- Column names should correctly describe the data in the cells.  Use aliases for system-generated names when summarizing data in tables.
+- Avoid using heavy table borders and shading that make the data difficult to read.  Avoid special fonts for tables.
 
 #### Charts
 Stuff here.
