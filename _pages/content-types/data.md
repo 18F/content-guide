@@ -36,6 +36,8 @@ Tables are generally suitable only for data: two or more “objects” (rows) th
 - Column names should correctly describe the data in the cells.  Use aliases for system-generated names when summarizing data in tables.
 - Avoid using heavy table borders and shading that make the data difficult to read.  Avoid special fonts for tables.
 
+
+
 #### Charts
 Stuff here.
 
