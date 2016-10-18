@@ -36,7 +36,7 @@ Tables are generally suitable only for data: two or more “objects” (rows) th
 - Column names should correctly describe the data in the cells.  Use aliases for system-generated names when summarizing data in tables.
 - Avoid using heavy table borders and shading that make the data difficult to read.  Avoid special fonts for tables.
 
-![alt text](https://github.com/18f/content-guide/raw/data-1/src/_pages/content-types/images/table_1.png "Gallup Table Example")
+![alt text](https://raw.githubusercontent.com/18F/content-guide/data-1/_pages/content-types/images/table_1.png "Gallup Table Example" width="50%" height="50%")
 
 #### Charts
 Stuff here.
