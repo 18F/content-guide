@@ -36,7 +36,17 @@ Tables are generally suitable only for data: two or more “objects” (rows) th
 - Column names should correctly describe the data in the cells.  Use aliases for system-generated names when summarizing data in tables.
 - Avoid using heavy table borders and shading that make the data difficult to read.  Avoid special fonts for tables.
 
+### State of American Well Being: 2015 State Well Being Rankings
+
 <img src="https://raw.githubusercontent.com/18F/content-guide/data-1/_pages/content-types/images/table_1.png" width="50%" height="50%">
+
+In [this example](http://www.well-beingindex.com/2016-community-impact) from the Gallup - Healthways Well Being index, we can observe the following: 
+
+- columns are clearly defined
+- fonts are legible and contrast well with cell shading
+- values are clearly ordered
+- decimal lengths are consistent
+- colors are uniform and intuitive (lighter cell shading is representing lower rankings)
 
 #### Charts
 Stuff here.
