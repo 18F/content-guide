@@ -64,7 +64,14 @@ Here are some helpful guidelines to consider:
 
 In [this example](http://www.vizhealth.org/gallery/assets/64/) of a line graph from the Visualizing Health website, we can observe the following: 
 
-- 
+- The origin of the graph is 0% on the y-axis and beginning of the time interval on the x-axis.  The delineation of 1 mo is in the appropriate place.
+- Related measures are grouped appropriately by color.
+- Labels are clear and understandable.  
+- Abbreviations are common (YRS for YEARS).
+- Symbology remains consistent regardless of color (radiation vs. surgery).
+- Symbols are offset where they overlap (blue lines at 3 year mark).
+- Hashed lines indicate important slices in time, but are not distracting to the reader.
+- Graph key does not obstruct underlying data.
 
 #### Maps
 Stuff here.
