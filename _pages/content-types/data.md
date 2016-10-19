@@ -48,11 +48,14 @@ In [this example](http://www.well-beingindex.com/2016-community-impact) from the
 - decimal lengths are consistent
 - colors are uniform and intuitive (lighter cell shading is representing lower rankings)
 
-#### Charts
-Stuff here.
+#### Charts and Graphs
+We're lumping charts and graphs together here, but they are a bit different.  Graphs generally tend to represent data points more rigidly and include more information (think a scatterplot).  The reader can see distinct data points on the X and Y axis, and there generally shouldn't be much room for misinterpretation.  Charts on the other hand can appear cleaner (they often contain less information) but they can also be easier to manipulate to be misleading.  Pie charts, simple line charts (spark lines) are examples of charts.  For the purpose of the guidance found here, we'll try to identify some good practices and common mistakes you can avoid to make sure your graphs and charts are both understandable without being misleading or leading to misinterpretation.
 
-#### Graphs
-Stuff here.
+Here are some helpful guidelines to consider:
+
+- X and Y axis should be clearly labeled.  You don't want your reader guessing at what these mean.  Avoid use of unclear abbreviations or shorthand.
+- Start X and Y axis at appropriate places for your dataset.  Don't "top" your chart to try and show insignificant changes in values as more significant.  This is misleading and can lead to readers not trusting the figures you release.  
+- Link out to the original dataset used to create the graph.  Your results should be easily verifiable - if the dataset is not public and a subset of the data can not be released, clearly cite the source of the information.
 
 #### Maps
 Stuff here.
