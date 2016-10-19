@@ -56,6 +56,15 @@ Here are some helpful guidelines to consider:
 - X and Y axis should be clearly labeled.  You don't want your reader guessing at what these mean.  Avoid use of unclear abbreviations or shorthand.
 - Start X and Y axis at appropriate places for your dataset.  Don't "top" your chart to try and show insignificant changes in values as more significant.  This is misleading and can lead to readers not trusting the figures you release.  
 - Link out to the original dataset used to create the graph.  Your results should be easily verifiable - if the dataset is not public and a subset of the data can not be released, clearly cite the source of the information.
+- More here...
+
+### Changes in risk over time: short-term vs. long term
+
+<img src="https://raw.githubusercontent.com/18F/content-guide/data-1/_pages/content-types/images/line_graph_1.jpg" width="65%" height="65%">
+
+In [this example](http://www.vizhealth.org/gallery/assets/64/) from the Visualizing Health website, we can observe the following: 
+
+- 
 
 #### Maps
 Stuff here.
