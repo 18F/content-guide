@@ -40,7 +40,7 @@ Tables are generally suitable only for data: two or more “objects” (rows) th
 
 <img src="https://raw.githubusercontent.com/18F/content-guide/data-1/_pages/content-types/images/table_1.png" width="50%" height="50%">
 
-In [this example](http://www.well-beingindex.com/2016-community-impact) from the Gallup - Healthways Well Being index, we can observe the following: 
+In [this example](http://www.well-beingindex.com/2016-community-impact) of a table from the Gallup - Healthways Well Being index, we can observe the following: 
 
 - columns are clearly defined
 - fonts are legible and contrast well with cell shading
@@ -62,7 +62,7 @@ Here are some helpful guidelines to consider:
 
 <img src="https://raw.githubusercontent.com/18F/content-guide/data-1/_pages/content-types/images/line_graph_1.jpg" width="65%" height="65%">
 
-In [this example](http://www.vizhealth.org/gallery/assets/64/) from the Visualizing Health website, we can observe the following: 
+In [this example](http://www.vizhealth.org/gallery/assets/64/) of a line graph from the Visualizing Health website, we can observe the following: 
 
 - 
 
