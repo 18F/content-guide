@@ -110,6 +110,11 @@ $(document).ready(function() {
                       $(this).text(
                           text == "Show Me >" ? "Hide Image" : "Show Me >");
   }));
+
+  // Add anchorJS anchors; see https://github.com/18F/content-guide/issues/149
+  anchors.options.placement = 'right';
+  anchors.add();
+
 });
 
 document.addEventListener('DOMContentLoaded', function() {
