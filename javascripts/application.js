@@ -114,6 +114,9 @@ $(document).ready(function() {
   // Add anchorJS anchors; see https://github.com/18F/content-guide/issues/149
   anchors.options.placement = 'right';
   anchors.add();
+  anchors.remove(".logo");
+  anchors.remove("#title-18f-content-guide");
+  anchors.remove("ol li h1");
 
 });
 
