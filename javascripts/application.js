@@ -114,10 +114,12 @@ $(document).ready(function() {
   // Add anchorJS anchors; see https://github.com/18F/content-guide/issues/149
   anchors.options.placement = 'right';
   anchors.add();
+  // Our logo is an h1 element but shouldn't have a visible anchor link:
   anchors.remove(".logo");
-  anchors.remove("#title-18f-content-guide");
-  anchors.remove("ol li h1");
-
+  // The header elements in the table of contents shouldn't have anchor links:
+  anchors.remove(".layout-table-of-contents h1")
+  // The page-title header elements shouldn't have anchor links:
+  anchors.remove(".page-title")
 });
 
 document.addEventListener('DOMContentLoaded', function() {
