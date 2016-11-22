@@ -110,6 +110,16 @@ $(document).ready(function() {
                       $(this).text(
                           text == "Show Me >" ? "Hide Image" : "Show Me >");
   }));
+
+  // Add anchorJS anchors; see https://github.com/18F/content-guide/issues/149
+  anchors.options.placement = 'right';
+  anchors.add();
+  // Our logo is an h1 element but shouldn't have a visible anchor link:
+  anchors.remove(".logo");
+  // The header elements in the table of contents shouldn't have anchor links:
+  anchors.remove(".layout-table-of-contents h1")
+  // The page-title header elements shouldn't have anchor links:
+  anchors.remove(".page-title")
 });
 
 document.addEventListener('DOMContentLoaded', function() {

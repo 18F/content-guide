@@ -11,7 +11,11 @@ excerpt: none
     <a class="a-skip-to-main" href="#main">Skip to main content</a>
     <header role="banner" class="site-header">
       <div class="wrapper">
-        <h1>{{site.title}}</h1>
+        <!-- This h1 element has this id because, unless we set it here,
+        kramdown will populate it with a value based on the content of the
+        element, which results in "18f-content-guide", which is an invalid 
+        value due to its starting with a numeral. -->
+        <h1 id="title-18f-content-guide">{{site.title}}</h1>
         <p>{{site.description}}</p>
         {% jekyll_pages_api_search_interface %}
       </div>
