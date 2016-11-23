@@ -747,7 +747,7 @@ a[id]{
 
 .page blockquote p{
 	font-family: Merriweather, Georgia, serif;
-	font-style: italic;
+    margin-left: 1em;
 	color: #555;
 	font-size: 17px;
 	line-height: 1.67em;
