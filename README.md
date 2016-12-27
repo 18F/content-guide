@@ -30,10 +30,7 @@ The 18F Content Guide runs on [Jekyll](http://jekyllrb.com/). To run it locally:
 
 1. Clone the repository.
 1. Get [Jekyll] and the necessary dependencies: `bundle install`
-1. Install all node dependencies: `npm install`
-1. Set the $NODE_ENV to `dev`: `export NODE_ENV=dev`
-1. Package js files with webpack: `webpack --watch`
-1. Run the web server: `npm run start` (or `jekyll serve` if you have Jekyll installed globally)
+1. Run the web server with `./go serve` (or `jekyll serve` if you have Jekyll installed globally)
 1. Visit the local site at [http://localhost:4000](http://localhost:4000)
 
 ### Public domain
