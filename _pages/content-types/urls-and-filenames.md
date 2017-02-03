@@ -380,10 +380,10 @@ might be written in HTML like so:
 This would keep the link concise for sighted users, while also providing 
 important context for screen reader users.
 
-If you want to use “screenreader only” text on your project but are unfamiliar
-with CSS, ask your project’s front end developer for help. They can create a
-CSS class for you if one doesn’t already exist. Alternatively, reach out to
-[#g-accessibility][] or [#g-frontend][] in Slack!
+If you want to use text intended only for screen readers on your project but
+are unfamiliar with CSS, ask your project’s front end developer for help. They
+can create a CSS class for you if one doesn’t already exist. Alternatively,
+reach out to [#g-accessibility][] or [#g-frontend][] in Slack!
 
 [#g-accessibility]: https://18f.slack.com/archives/g-accessibility
 [#g-frontend]: https://18f.slack.com/archives/g-frontend
