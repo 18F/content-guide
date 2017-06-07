@@ -23,6 +23,7 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **front end**, **front end developer**
 - **GitHub**
 - **government**, unless part of a proper noun. For example, _Government Printing Office_
+- **homepage**
 - **human-centered design**
 - **info** is an acceptable shortening of _information_. In formal situations, use the full word.
 - **internet**
