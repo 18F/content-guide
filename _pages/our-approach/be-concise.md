@@ -1,6 +1,7 @@
 ---
 title: Be concise
 ---
+
 To keep content understandable, concise, and relevant, it should be:
 
 - Specific
