@@ -14,7 +14,6 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **DC**, not _D.C._
 - **DevOps**
 - **digital coalition**
-- **Draft U.S. Web Design Standards** on first use and **Draft Standards** on subsequent references
 - **drop-down** when used as an adjective. For example, _drop-down menu._ **drop down** when used as a noun. For example, _an option from the drop down_. Never "dropdown."
 - **email**, not "e-mail"
 - **executive branch**
@@ -47,4 +46,5 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - URLs should be lowercase, even when they appear at the start of a sentence. For example, _notalone.gov launched today._
 - **U.S.**, not "US" or "USA"
 - **user-centered design**
+- **U.S. Web Design Standards** on first use and **Standards** on subsequent references
 - **Wi-Fi**
