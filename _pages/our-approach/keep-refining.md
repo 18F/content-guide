@@ -4,6 +4,8 @@ title: Keep refining
 
 Content design is an ongoing process, and even published content isn’t really “done,” in a traditional sense — it’s not a static entity. To ensure that your content is helping users, you need to keep refining your content over time.
 
+When you’re creating content, it’s best to base your refinements on insights from users. This section addresses ways to test your content’s effectiveness and includes tips for archiving and deleting content without disrupting the user experience.
+
 ## Testing and ongoing research
 
 Set aside time regularly to make sure your content works for users. If you’re not sure where to start, check your web analytics to identify:
