@@ -13,7 +13,7 @@ Creating trustworthy internal and external communications relies, to a large ext
 
 When you're deciding whether to capitalize noun phrases, keep in mind that in English, title case is often a marker of formality. Using it judiciously can help clarify that you're speaking about a specific, official thing (such as a form, office, or person). Overuse can cause users stress by implying formality or officialness where it doesn't exist. For instance:
 
-- It makes sense to capitalize the phrase "Form 1040, U.S. Individual Income Tax Return" because you want users to know the exact, official title of that specific form.
+- It makes sense to capitalize the phrase _Form 1040, U.S. Individual Income Tax Return_ because you want users to know the exact, official title of that specific form.
 - It could confuse users to capitalize _income taxes_ or _income tax forms_, because those phrases could refer to any number of possible forms.
 
 See additional capitalization rules in the [Specific words and phrases](https://pages.18f.gov/content-guide/specific-words-and-phrases/)
