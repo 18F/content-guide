@@ -357,7 +357,7 @@ sighted users. Here’s an example from the [betaFEC site][]:
   <img src="{{ site.baseurl }}/images/betaFEC.png" alt="betaFEC screenshot">
 </a>
 
-Here the *Learn more* link is appropriate for sighted users, but it may be confusing to screen reader users. In such situations, it’s possible to add [invisible text just for screen reader users][sr-only].  For example, the U.S. Web Design Standards has a special CSS class called `usa-sr-only` for this purpose. Using this class, the aforementioned *Learn more* link might be written in HTML like so:
+Here the *Learn more* link is appropriate for sighted users, but it may be confusing to screen reader users. In such situations, it’s possible to add [invisible text just for screen reader users][sr-only]. For example, the U.S. Web Design Standards has a special CSS class called `usa-sr-only` for this purpose. Using this class, the aforementioned *Learn more* link might be written in HTML like so:
 
 ```html
 <a href=”essentials-house-and-senate-candidates-and-committees/”>
