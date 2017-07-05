@@ -29,6 +29,7 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **JavaScript**
 - **kanban**
 - **login** when used as noun, for example, _I forgot my login name and password_, or when used as an adjective, for example _Make sure the login page is 508 complaint._ **log in** when used as a verb, for example, _Log in to access your calendar._
+- Names: use full names on first reference. On second reference, use first names when writing about our teams or our work, and otherwise follow AP style (which is to mostly use last names on second reference). In addition, if the context means that there's a chance of confusion on second reference when using only first or last names, use full names.
 - **open source**, **open source software**
 - **percent** is preferred more than the “%” symbol. For example, _10 percent of respondents_
 - **p.m.**
