@@ -87,6 +87,9 @@ navigation:
   - text: Structure the content
     url: structure-the-content/
     internal: true
+  - text: Keep refining
+    url: keep-refining/
+    internal: true
 - text: Our style
   blurb: |
     Grammar, spelling, and mechanics.
