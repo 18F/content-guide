@@ -18,7 +18,7 @@ How you refer to the public is largely dependent on context. Feel free to choose
 * Users
 * Folks
 
-Be as specific as possible. Depending on the situation, you may want to say something like "People who need healthcare" or "People who need to access government services online."
+Be as specific as possible. Depending on the situation, you may want to say something like "people who need healthcare" or "people who need to access government services online."
 
 Use _citizens_ for information related to U.S. citizenship, for example, when describing who is eligible to vote in federal elections.
 
