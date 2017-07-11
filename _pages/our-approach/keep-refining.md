@@ -42,9 +42,9 @@ Before you archive or delete anything, review your site analytics to understand 
 * User bookmarks
 * Links from external sites
 
-Each of these can be addressed by ensuring you have [redirects from the old URLs](/urls-and-filenames/#maintaining-urls) to the new content.
+Each of these can be addressed by ensuring you have [redirects from the old URLs](/urls-and-filenames/#maintaining-urls) to the latest content.
 
-When reviewing outdated content, think about the best way to meet user needs:
+When you’re looking at a particular page, think about the best way to meet user needs:
 
 * Who is this content for?
 * Is there a legal requirement for having it?
