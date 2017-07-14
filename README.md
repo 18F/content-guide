@@ -46,7 +46,7 @@ If you don't want to have to deal with making sure that you have the
 proper version of Ruby and Node installed, you can use Docker instead. It
 takes care of all the dependencies for you.
 
-1. Install [Docker][].
+1. Install [Docker Community Edition][].
 1. Clone the repository.
 1. Run `docker-compose up`.
 1. Visit the local site at [http://localhost:4000](http://localhost:4000)
@@ -64,4 +64,4 @@ This project is in the worldwide [public domain](LICENSE.md).
 
 [Jekyll]: http://jekyllrb.com/
 [Node.js]: https://nodejs.org/en/
-[Docker]: https://www.docker.com/
+[Docker Community Edition]: https://www.docker.com/community-edition
