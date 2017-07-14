@@ -37,7 +37,7 @@ Labels should appear above fields, not as placeholder text inside those fields. 
 
 ## Don’t make optional information required
 
-If a piece of information is optional, label it as such. Requiring only the information that’s truly required will save your users time — something all of us can appreciate. It’s also a good practice to label optional fields instead of labeling required ones; seeing the optional labels, users will infer that the unlabeled fields are for required information. 
+If a piece of information is optional, label it as such. Requiring only the information that’s truly required will save your users time — something all of us can appreciate. It's also a best practice to label only optional fields or only required fields, depending on which option is less overwhelming. For example, if your form has four required fields and one optional field, it would make more sense for you to label the optional field. 
 
 ## Follow accessibility best practices
 
