@@ -25,7 +25,7 @@ We strive to design content that’s equally accessible — and enjoyable — ac
 
 Brevity is especially pertinent when creating forms. People are completing your form to achieve a certain end; don’t create more work for them by using unwieldy or long-winded descriptions. 
 
-Create labels that are concise and to the point — First name is much easier to comprehend, at a glance, than What moniker do you go by? And, as we noted earlier, short labels are also easier to read on mobile, which improves your form’s accessibility across devices and potentially saves you money on translations.
+Create labels that are concise and to the point — "First name" is much easier to comprehend, at a glance, than "What moniker do you go by?" And, as we noted earlier, short labels are also easier to read on mobile, which improves your form’s accessibility across devices and potentially saves you money on translations.
 
 ## Align field length with response length
 
@@ -43,42 +43,46 @@ If a piece of information is optional, label it as such. Requiring only the info
 
 If not designed thoughtfully, forms can present major accessibility issues. Inaccessible forms can impact a range of people — screen reader users, keyboard-only users, people with cognitive disabilities, and those who are mobility impaired, to name a few — creating unnecessary barriers. To ensure your forms are accessible, take the following steps.
 
-### Use a proper label element
+### Use a proper `<label>` element
 
 Associate all data entry fields with labels so that screen reader users can easily tell what type of information they should enter. When data fields are properly labeled, folks using screen readers can complete the form using forms mode. 
 
-The label tag associates a single label tag to a single form element (text field, radio button, checklist item, and so on). Use the for attribute to associate a label with a form element by matching the value of the for attribute to the value of the element's id attribute:
+The `<label>` tag associates a single label tag to a single form element (text field, radio button, checklist item, and so on). Use the `for` attribute to associate a label with a form element by matching the value of the `for` attribute to the value of the element's `id` attribute:
 
-`<form action="/signup" method="post">
+```html
+<form action="/signup" method="post">
   <label for=”myinput”>Label text</label>
   <input id=”myinput” name=”textfield” type=”text”>
-</form>`
+</form>
+```
 
-### Use fieldset and legend for grouping
+### Use `<fieldset>` and `<legend>` for grouping
 
-Use fieldset and legend tags to group related input elements, particularly with sets of radio buttons and checkboxes. Fieldsets display with a border, which is helpful for all users (especially those living with cognitive disabilities). Be sure to accompany all fieldsets with legend tags, which describe the associations:
+Use `<fieldset>` and `<legend>` tags to group related input elements, particularly with sets of radio buttons and checkboxes. Fieldsets display with a border, which is helpful for all users (especially those living with cognitive disabilities). Be sure to accompany all fieldsets with legend tags, which describe the associations:
 
-`<form action="/subscribe" method="post">
+```html
+<form action="/subscribe" method="post">
   <fieldset>
     <legend>Choose your favorite sport:</legend>
-    <input id="soccer" type="checkbox" name="sports"                value="soccer">
+    <input id="soccer" type="checkbox" name="sports" value="soccer">
     <label for="soccer">Soccer</label><br>
     <input id="basketball" type="checkbox" name="sports" value="basketball">
     <label for="basketball">Basketball</label><br>
     <input id="quidditch" type="checkbox" name="sports" value="quidditch">
     <label for="quidditch">Quidditch</label><br>
   </fieldset>
-</form>`
+</form>
+```
 
 ### Follow a logical tab order
 
 Not everyone uses a mouse; many people navigate forms using their keyboards. By default, the keyboard focuses on form elements, but it’s possible to break this behavior with JavaScript. 
 
-Tabbing should take users from field to field in a logical order. Bouncing from first name to address to last name can cause non-sighted and visually impaired users to wonder if they’ve missed any fields. To prevent confusion, make sure tabbing moves through your form fields in a way that makes sense.
+Tabbing should take users from field to field in a logical order. Bouncing from "first name" to "address" to "last name" can cause non-sighted and visually impaired users to wonder if they’ve missed any fields. To prevent confusion, make sure tabbing moves through your form fields in a way that makes sense.
 
 ### Indicate optional fields and use proper error handling
 
-Call out optional fields using a symbol or text, not just a change in color. Embed your chosen symbol in the label tag. 
+Call out optional fields using a symbol or text, not just a change in color. Embed your chosen symbol in the `<label>` tag. 
 
 Even if you clearly label fields as required or optional, people completing your form may make mistakes (and that’s OK). Provide your users with helpful feedback — your error messages should identify the fields that contain errors and should describe the nature of the error. 
 
