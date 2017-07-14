@@ -92,7 +92,7 @@ Include a separate submission type button to initiate a form submission. A submi
 
 ## Additional resources
 
-[Form Structure](https://www.gov.uk/service-manual/design/form-structure), GOV.UK
-[U.S. Web Design Standards Form Controls](https://standards.usa.gov/components/form-controls/)
-[Forms Tutorial](https://www.w3.org/WAI/tutorials/forms/), W3C
-[Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c), uxdesign.cc
+* [Form Structure](https://www.gov.uk/service-manual/design/form-structure), GOV.UK
+* [U.S. Web Design Standards Form Controls](https://standards.usa.gov/components/form-controls/)
+* [Forms Tutorial](https://www.w3.org/WAI/tutorials/forms/), W3C
+* [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c), uxdesign.cc
