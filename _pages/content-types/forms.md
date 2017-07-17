@@ -45,7 +45,7 @@ If not designed thoughtfully, forms can present major accessibility issues. Inac
 
 ### Use a proper `<label>` element
 
-Associate all data entry fields with labels so that screen reader users can easily tell what type of information they should enter. When data fields are properly labeled, folks using screen readers can complete the form using forms mode. 
+Match all data entry fields with labels so that screen reader users can easily tell what type of information they should enter. When data fields are properly labeled, folks using screen readers can complete the form using forms mode. 
 
 The `<label>` tag associates a single label tag to a single form element (text field, radio button, checklist item, and so on). Use the `for` attribute to associate a label with a form element by matching the value of the `for` attribute to the value of the element's `id` attribute:
 
@@ -86,9 +86,11 @@ Call out optional fields using a symbol or text, not just a change in color. Emb
 
 Even if you clearly label fields as required or optional, people completing your form may make mistakes (and that’s OK). Provide your users with helpful feedback — your error messages should identify the fields that contain errors and should describe the nature of the error. 
 
-### Use submission type buttons
+### Use submission-type buttons
 
-Include a separate submission type button to initiate a form submission. A submission-upon-option selection can interfere with screen reader function and can present difficulties to people with motion impairments.
+Include a separate Submit (submission-type) button to initiate form submission. As a person is navigating through data-entry form controls, their making a selection should not reload the page; please keep this in mind as you’re creating a form.
+
+Keyboard users should be able to complete the each page of a form sequentially. Their making a selection should not force them to start back at the top of the page and tab back to where they were. Programmatically set focus to the last field they were in so they can continue sequentially tabbing through the page.
 
 ## Additional resources
 
