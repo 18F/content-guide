@@ -160,6 +160,7 @@ img { max-width: 100%; }
 	text-decoration: none;
 	line-height: 40px;
 	letter-spacing: -1px;
+	padding-right: 1px; /* Without this the letter spacing seems to cut off the right edge of the logo on OS X Chrome */
 	text-shadow: 0 -1px 0 #006f49;
 }
 
@@ -746,7 +747,7 @@ a[id]{
 
 .page blockquote p{
 	font-family: Merriweather, Georgia, serif;
-	font-style: italic;
+    margin-left: 1em;
 	color: #555;
 	font-size: 17px;
 	line-height: 1.67em;

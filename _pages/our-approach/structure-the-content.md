@@ -56,20 +56,6 @@ If you’re wrangling a lot of data, tables can help you visualize that content.
     </tbody>
 </table>
 
-## Keep sentences short and sweet
-
-Craft sentences at 25 words or fewer, whenever possible. If a sentence has fewer than 14 words, [readers understand 90 percent of content](http://comprehension.prsa.org/?p=217). At 25 words, sentences are markedly more difficult to comprehend.
-
-We also recommend varying sentence length. Switching things up helps you keep readers interested. This tactic will also give you better control of your content’s [tone](https://pages.18f.gov/content-guide/voice-and-tone/) — a text with only short sentences can unintentionally sound terse. The occasional longer sentence adds a bit of narrative interest (and can help a piece of writing sound friendlier, too).
-
-Here’s an example of how you might transform a too-long sentence into something more manageable. Instead of:
-
-> Due to privacy and logistical considerations, passes cannot be replaced if lost or stolen; a new Paper Voucher must be accessed by going to the [everykidinapark.gov](https://everykidinapark.gov/) website and completing the same activities to obtain a new Paper Voucher.
-
-Use:
-
-> Unfortunately, we can’t replace lost or stolen passes. Get a new pass by visiting [everykidinapark.gov](https://everykidinapark.gov/) and signing up again.
-
 ## Don’t use FAQs
 
 Like our peers at GDS, we [strongly discourage writing FAQs](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#dont-use-faqs), or Frequently Asked Questions.

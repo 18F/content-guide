@@ -1,8 +1,8 @@
 ## 18F Content Guide
 
-This is the repository for the [18F Content Guide](https://pages.18f.gov/content-guide/). This guide was developed for 18F employees, but we hope it’s a useful reference for anyone.
+This is the repository for the [18F Content Guide](https://content-guide.18f.gov). This guide was developed for 18F employees, but we hope it’s a useful reference for anyone.
 
-For a detailed introduction, see [how to use this guide](https://pages.18f.gov/content-guide/how-to-use-this-guide/).
+For a detailed introduction, see [how to use this guide](https://content-guide.18f.gov/how-to-use-this-guide).
 
 ## History
 
@@ -24,20 +24,13 @@ We started by adapting [GOV.UK’s work](https://www.gov.uk/guidance/content-des
 * [Tadhg O'Higgins](https://github.com/tadhg-ohiggins)
 * [Atul Varma](https://github.com/toolness)
 
-## Contributing
-
-We welcome your thoughts and suggestions. Please [create an issue](https://github.com/18F/content-guide/issues/new) or send us a pull request. We follow the [18F Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md) and all contributors should do the same.
-
 ### Running the site
 
 The 18F Content Guide runs on [Jekyll](http://jekyllrb.com/). To run it locally:
 
 1. Clone the repository.
 1. Get [Jekyll] and the necessary dependencies: `bundle install`
-1. Install all node dependencies: `npm install`
-1. Set the $NODE_ENV to `dev`: `export NODE_ENV=dev`
-1. Package js files with webpack: `webpack --watch`
-1. Run the web server: `npm run start` (or `jekyll serve` if you have Jekyll installed globally)
+1. Run the web server with `./go serve` (or `jekyll serve` if you have Jekyll installed globally)
 1. Visit the local site at [http://localhost:4000](http://localhost:4000)
 
 ### Public domain

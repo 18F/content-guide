@@ -28,7 +28,7 @@ If you want to use existing images, check out the [18F Visual Identity Guide](ht
 Good places to search for public domain (CC0) images:
 
 * [USA.gov](https://search.usa.gov/search/images?affiliate=usagov&query=)
-* [Flickr](https://www.flickr.com/search/?text=cats&license=8) (select “U.S. Government works” or “No known copyright restrictions” from the top left drop down)
+* [Flickr](https://www.flickr.com/search/?text=cats&license=8) (select **U.S. Government works** or **No known copyright restrictions** from the top left drop down)
 * [Wikimedia commons](https://commons.wikimedia.org/wiki/Category:Public_domain)
 
 If you do use copyrighted images:
@@ -44,16 +44,9 @@ Images must comply with 508 standards and accessibility guidelines. The broad re
 
 For images this means every image on a web page must have *alt text* describing the image. Additionally, any text that appears in the image must also appear in the alt text. Most screen readers already add “Image of” when reading out an image, so alt text like “Image of the 18F logo” is redundant because screen readers will read it “Image of image of the 18F logo.” A good rule of thumb is to limit alt text to 150 words, anything longer should be placed in the content of the page.
 
-Images that serve solely to illustrate or provide visual interest for other
-nearby content do not require alt text, but they do require the `alt` attribute
-to be present (in code, this is done with `alt=""`). Otherwise, screen readers
-will fall back to uttering the URL of the image.
+Images that serve solely to illustrate or provide visual interest for other nearby content do not require alt text, but they do require the `alt` attribute to be present (in code, this is done with `alt=""`). Otherwise, screen readers will fall back to uttering the URL of the image.
 
-Note also that if the image is associated with an action or concept, the alt
-text should refer to the name of the action or concept rather than the literal
-description of the image. For example, if a search field has an image of a
-magnifying glass to signify that clicking on it will initiate a search, “Search”
-will be more useful alt text than “Magnifying glass”.
+Note also that if the image is associated with an action or concept, the alt text should refer to the name of the action or concept rather than the literal description of the image. For example, if a search field has an image of a magnifying glass to signify that clicking on it will initiate a search, “Search” will be more useful alt text than “Magnifying glass”.
 
 For more details and examples, read the [18F Accessibility Guide](https://pages.18f.gov/accessibility/images/).
 
