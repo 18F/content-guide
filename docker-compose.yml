@@ -1,0 +1,16 @@
+version: '2'
+services:
+  app:
+    build: .
+    working_dir: /content-guide
+    command: bash -c 'bundle install && jekyll serve --force_polling -H 0.0.0.0 -P 4000'
+    stop_signal: SIGKILL
+    ports:
+      - 4000:4000
+    volumes:
+      - .:/content-guide
+      - root:/root/
+      - bundle:/usr/local/bundle/
+volumes:
+  root:
+  bundle:
