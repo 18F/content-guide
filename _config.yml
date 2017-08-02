@@ -146,9 +146,6 @@ navigation:
   - text: Trademarks and brands
     url: trademarks-and-brands/
     internal: true
-  - text: Forms
-    url: forms/
-    internal: true
   - text: URLs and filenames
     url: urls-and-filenames/
     internal: true
