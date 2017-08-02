@@ -35,6 +35,7 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **p.m.**
 - **README**
 - **Scrum** should be used to refer to the set of practices for the agile method. We don't use that term for the daily meetings and instead use _daily standup_.
+- **single sign-on**
 - **startup**
 -  States:
     -   Spell out names. For example, _Mississippi_.
