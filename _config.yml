@@ -109,6 +109,9 @@ navigation:
   - text: Conscious style
     url: conscious-style/
     internal: true
+  - text: Names
+    url: names/
+    internal: true
   - text: Numbers and percentages
     url: numbers-and-percentages/
     internal: true
@@ -128,6 +131,9 @@ navigation:
   internal: true
   generated: true
   children:
+  - text: Forms
+    url: forms/
+    internal: true
   - text: Headings and titles
     url: headings-and-titles/
     internal: true
