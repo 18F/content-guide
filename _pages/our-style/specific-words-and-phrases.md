@@ -36,6 +36,7 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **README**
 - **Scrum** should be used to refer to the set of practices for the agile method. We don't use that term for the daily meetings and instead use _daily standup_.
 - **single sign-on**
+- **sitemap**
 - **startup**
 - **tech** is an acceptable shortening of _technology_. In formal situations, use the full word.
 - **to do** (noun) and **to-do** (adjective). For example, _your to dos_ or _your to-do list_.
