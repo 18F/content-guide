@@ -5,9 +5,6 @@
 version: 2
 jobs:
   build:
-    filters:
-      branches:
-        only: 18f-pages
     docker:
       # specify the version you desire here
        - image: circleci/ruby:2.1.5
