@@ -30,6 +30,8 @@ jobs:
           name: ci_build
           command: |
             ./go ci_build
+          environment:
+            LC_CTYPE="en_US.UTF-8"
 
       - save_cache:
           paths:
