@@ -53,6 +53,7 @@ end
 
 def_command :ci_build, 'Run the CI tests' do |args|
   build_jekyll
+  exec_cmd 'locale'
   require 'html-proofer'
   HTMLProofer.check_directory('./_site',
     disable_external: true,
