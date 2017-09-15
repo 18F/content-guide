@@ -90,6 +90,9 @@ navigation:
   - text: Keep refining
     url: keep-refining/
     internal: true
+  - text: Giving and receiving feedback
+    url: giving-and-receiving-feedback/
+    internal: true
 - text: Our style
   blurb: |
     Grammar, spelling, and mechanics.
