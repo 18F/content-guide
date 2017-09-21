@@ -26,7 +26,7 @@ Respond as a reader and tell the writer:
 
 * What doesn’t feel right
 * What doesn’t make sense
-* What isn’t working—and what is!
+* What isn’t working — and what is!
 * What you want to know more or less about, and why
 * What questions you have
 * What doesn’t reflect your own experience
@@ -49,12 +49,13 @@ Everyone needs feedback, even professional writers. Don’t second-guess yoursel
 It’s natural to feel timid about sharing your work, especially if it’s an early draft. But sharing work early in the writing process has great benefits. Your colleagues can help you identify the strengths and weaknesses of your piece, which can help you narrow your focus and determine which sections need the most work. Likewise, your colleagues can point out interesting areas that you could expand on.
 
 If you’re apprehensive about sharing your work, it can be helpful to label documents as drafts to help frame your readers’ expectations and perceptions. For example: ‘First draft: Giving feedback on writing.’ Sharing drafts with one person, rather than a larger group, can also help you ease into the process.
+
 First, be clear about the type of feedback you’re looking for to ensure you get comments that are useful for the stage of writing you’re in. Here’s a summary of some types of feedback you can ask for and at what stage:
 
 * Collaborative: These are some initial rough ideas—feel free to dig in and change anything.
 * High-level edits:  Observations about a piece’s general concept, structure, and intent — are most useful for early drafts. Are the big ideas coming through? Does the structure make sense? Is the flow logical?
 * Line edits: Better suited to later, more finalized drafts, whose ideas are fleshed out and which could benefit from some polish. How’s the voice and tone? Is the writing clear and consistent? What doesn’t make sense?
-* Copyediting: We’re about to publish this—are there typos or awkward phrases?
+* Copyediting: We’re about to publish this — are there typos or awkward phrases?
 
 If your piece needs additional context, share it. There are all types of context that might be helpful: background information, strategies that have been tried in the past (and since abandoned), any legal considerations, audience needs or insights from research, or variations between our house style and a client’s content conventions.
 
