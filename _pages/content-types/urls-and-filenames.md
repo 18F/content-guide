@@ -331,13 +331,9 @@ to find the relevant content.
 
 ## Link text
 
-It’s important to remember that users of screen readers will often
-[skip from one link to another][link-to-link], skipping the text in
-between, as a way of “skimming” content.
+It’s important to remember that users of screen readers will often [skip from one link to another][link-to-link], skipping the text in between, as a way of skimming for the content they need.
 
-This ultimately means that link text should be understandable independent of
-the text surrounding it. Avoid link text like *click here*, *here*,
-*learn more*, and so forth whenever possible.
+This ultimately means that link text should be understandable independent of the text surrounding it. Avoid ambiguous link text like *click here*, *here*, or *learn more* whenever possible.
 
 For example, instead of:
 
@@ -361,12 +357,7 @@ sighted users. Here’s an example from the [betaFEC site][]:
   <img src="{{ site.baseurl }}/images/betaFEC.png" alt="betaFEC screenshot">
 </a>
 
-Here the *Learn more* link is appropriate for sighted users, but it may be
-confusing to screen reader users. In such situations, it’s possible to add
-[invisible text just for screen reader users][sr-only].  For example, the
-Draft U.S. Web Design Standards has a special CSS class called `usa-sr-only`
-for this purpose. Using this class, the aforementioned *Learn more* link
-might be written in HTML like so:
+Here the *Learn more* link is appropriate for sighted users, but it may be confusing to screen reader users. In such situations, it’s possible to add [invisible text just for screen reader users][sr-only]. For example, the U.S. Web Design Standards has a special CSS class called `usa-sr-only` for this purpose. Using this class, the aforementioned *Learn more* link might be written in HTML like so:
 
 ```html
 <a href=”essentials-house-and-senate-candidates-and-committees/”>
@@ -380,10 +371,10 @@ might be written in HTML like so:
 This would keep the link concise for sighted users, while also providing 
 important context for screen reader users.
 
-If you want to use “screenreader only” text on your project but are unfamiliar
-with CSS, ask your project’s front end developer for help. They can create a
-CSS class for you if one doesn’t already exist. Alternatively, reach out to
-[#g-accessibility][] or [#g-frontend][] in Slack!
+If you want to use text intended only for screen readers on your project but
+are unfamiliar with CSS, ask your project’s front end developer for help. They
+can create a CSS class for you if one doesn’t already exist. Alternatively,
+reach out to [#g-accessibility][] or [#g-frontend][] in Slack!
 
 [#g-accessibility]: https://18f.slack.com/archives/g-accessibility
 [#g-frontend]: https://18f.slack.com/archives/g-frontend

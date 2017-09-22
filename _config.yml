@@ -87,6 +87,12 @@ navigation:
   - text: Structure the content
     url: structure-the-content/
     internal: true
+  - text: Keep refining
+    url: keep-refining/
+    internal: true
+  - text: Giving and receiving feedback
+    url: giving-and-receiving-feedback/
+    internal: true
 - text: Our style
   blurb: |
     Grammar, spelling, and mechanics.
@@ -105,6 +111,9 @@ navigation:
     internal: true
   - text: Conscious style
     url: conscious-style/
+    internal: true
+  - text: Names
+    url: names/
     internal: true
   - text: Numbers and percentages
     url: numbers-and-percentages/
@@ -125,6 +134,9 @@ navigation:
   internal: true
   generated: true
   children:
+  - text: Forms
+    url: forms/
+    internal: true
   - text: Headings and titles
     url: headings-and-titles/
     internal: true

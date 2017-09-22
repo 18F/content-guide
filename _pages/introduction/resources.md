@@ -24,5 +24,6 @@ As we created this guide, we also referred to these resources:
 
 * [18F Accessibility Guide](https://pages.18f.gov/accessibility/)
 * [18F Visual Identity Guide](https://pages.18f.gov/brand/)
-* [Draft U.S. Web Standards](https://standards.usa.gov/)
+* [U.S. Web Design Standards](https://standards.usa.gov/)
 * [18F Blog: Content Design](https://18f.gsa.gov/tags/content-design/)
+* [DigitalGov: Style Guides by Government Agencies](https://www.digitalgov.gov/resources/style-guides-by-government-agencies/)
