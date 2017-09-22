@@ -7,7 +7,7 @@ jobs:
   build:
     docker:
       # specify the version you desire here
-       - image: ruby:2.1.5
+      - image: starefossen/ruby-node
       
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
@@ -32,12 +32,6 @@ jobs:
             ./go ci_build
           environment:
               LANG: C.UTF-8
-#              LC_COLLATE: en_US.UTF-8
-#              LC_CTYPE: en_US.UTF-8
-#              LC_MESSAGES: en_US.UTF-8
-#              LC_MONETARY: en_US.UTF-8
-#              LC_NUMERIC: en_US.UTF-8
-#              LC_TIME: en_US.UTF-8
 
       - save_cache:
           paths:

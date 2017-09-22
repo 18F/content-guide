@@ -1,0 +1,21 @@
+version: '2'
+services:
+  # This service is a shared network stack (i.e. shared "localhost") for all
+  # external-facing services. It allows "localhost" links to work correctly
+  # outside of Docker.
+  ruby: &RUBY     # This command is out of order to aid with config reuse
+    # image: ruby:2.1.5
+    image: starefossen/ruby-node
+    volumes:
+      - $PWD:/usr/src/app
+    working_dir: /usr/src/app
+    stdin_open: true
+    tty: true
+
+  #---- Commands ----
+  ci_build:
+    user: root
+    <<: *RUBY
+    environment:
+      LANG: C.UTF-8
+    entrypoint: sh -c "npm install uglifyify && gem install bundler && ./go ci_build"
