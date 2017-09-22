@@ -27,6 +27,14 @@ jobs:
           - v1-dependencies-
 
       - run:
+          name: uglifyify
+          command: |
+            npm install uglifyify
+      - run:
+          name: bundler
+          command: |
+            gem install bundler
+      - run:
           name: ci_build
           command: |
             ./go ci_build
