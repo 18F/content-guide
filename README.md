@@ -22,6 +22,7 @@ We started by adapting [GOV.UK’s work](https://www.gov.uk/guidance/content-des
 * [Andrew Maier](https://github.com/andrewmaier)
 * [Corey Mahoney](https://github.com/coreycaitlin)
 * [Kate Saul](https://github.com/kategarklavs)
+* [Anna Heller Sebok](https://github.com/annahsebok)
 * [Will Slack](https://github.com/wslack)
 * [Tadhg O'Higgins](https://github.com/tadhg-ohiggins)
 * [Atul Varma](https://github.com/toolness)
