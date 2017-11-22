@@ -93,6 +93,9 @@ navigation:
   - text: Giving and receiving feedback
     url: giving-and-receiving-feedback/
     internal: true
+  - text: Make content web-friendly
+    url: make-content-web-friendly/
+    internal: true
 - text: Our style
   blurb: |
     Grammar, spelling, and mechanics.
