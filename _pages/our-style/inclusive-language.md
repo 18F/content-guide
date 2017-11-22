@@ -3,7 +3,9 @@ title: Inclusive language
 redirect_from:
   - /conscious-style/
 ---
-In our personal and professional lives, the words we use can make the difference between forging positive connections or creating distance. As we build government services, we want to ensure that they are accessible and welcoming to all users. Inclusive language is a powerful tool for making users feel welcome and helping them understand their options.
+In our personal and professional lives, the words we use can make the difference between forging positive connections or creating distance.
+
+As we build government services, we want to ensure that they are accessible and welcoming to all users. Inclusive language is a powerful tool for making users feel welcome and helping them understand their options.
 
 This guide is influenced by the [Conscious Style Guide](http://consciousstyleguide.com/), which is an excellent resource for learning more about the conversations behind terms, categories, and concepts. Other resources we used:
 
@@ -14,13 +16,27 @@ This guide is influenced by the [Conscious Style Guide](http://consciousstylegui
 
 This guide provides suggestions for word choice and phrasing when writing and talking about diverse groups of people.
 
+## Ability and disability
+
+Every person is a whole person — no matter how they interact with the world. Focus on what they need to do, what tools they use, and avoid making assumptions. If a person’s situation, medical condition, illness, or injury is relevant to the content, be as specific as possible and avoid inserting value judgements about their circumstance (for example, use _has multiple sclerosis_, not _is afflicted with_ or _suffers from_).
+
+Just like with language around race, gender, or other identities, it’s always best to ask people how they identify rather than assuming. For help finding appropriate or accurate language, see the [Disability Language Style Guide](http://ncdj.org/style-guide/) from the National Center on Disability and Journalism.
+
+Notes on specific words:
+
+- Avoid describing people as _disabled_, _handicapped_, or _confined to a wheelchair_.
+- Avoid terms that contribute to stigmas around disability or mental illness: _crazy_, _dumb_, _lame_, _insane_, _psycho_, _schizophrenic_, or _stupid_.
+- Avoid terms that contribute to stigmas around sensory disabilities: _blind spot_ or _tone deaf_.
+
 ## Age
 
-Avoid referring to someone’s age, unless it’s relevant to what we’re writing about (for example, when referring to benefits that are available to people of certain ages).
+Avoid referring to someone’s age, unless it’s relevant to what you're writing about (for example, when referring to benefits that are available to people of certain ages).
+
+Don’t use women or older relatives as substitute for _novice_ or _beginner_. For example, don’t say something is [so simple your mother can use it](http://geekfeminism.wikia.com/wiki/So_simple,_your_mother_could_do_it).
 
 If necessary, we prefer _older person_ or _senior_ to _elderly_.
 
-## Sexuality and gender
+## Gender and sexuality
 
 Make content gender neutral wherever possible, and strive to write in a [gender-fair](http://www.ncte.org/positions/statements/genderfairuseoflang) way. If you’re writing about a hypothetical person or if you’re unsure of the person’s pronouns, use _they_ or _them_ instead of _he/she_.
 
@@ -28,7 +44,7 @@ Avoid words and phrases that indicate gender bias, such as irrelevant descriptio
 
 Use descriptors of gender identity or sexual orientation as modifiers, not as nouns (for example, _transgender person_, _cisgender person_, or _lesbian woman_). Avoid guessing sex, gender identity, or sexual orientation. When in doubt, either reconsider the need to include this information or ask the person you’re referring to how they identify and what terms they prefer.
 
-Notes on specific words:
+**Notes on specific words:**
 
 - Use _different sex_ instead of _opposite sex_ (because this recognizes gender as a spectrum, rather than a binary).
 - We support using _they_ or _their_ as singular pronouns.
@@ -48,15 +64,23 @@ How you refer to the public is largely dependent on context. Feel free to choose
 * Users
 * Folks
 
-Be as specific as possible. Depending on the situation, you may want to say something like "people who need healthcare" or "people who need to access government services online."
+Be as specific as possible. Depending on the situation, you may want to say something like _people who need healthcare_ or _people who need to access government services online_.
 
 Use _citizens_ for information related to U.S. citizenship, for example, when describing who is eligible to vote in federal elections.
 
 Be careful with _Americans_ or _the American public_. These terms are [ambiguous](https://en.wikipedia.org/wiki/Names_for_United_States_citizens) and are often used as synonyms for _citizens_. In most cases, _the public_ is equally clear and more inclusive. That said, referring to _Americans_ or _the American people_ can be useful if you want to inspire readers or take a more patriotic tone.
 
+## Race and ethnicity
 
-## Gender
+Avoid using words, images, or situations that reinforce racial, ethnic, or religious stereotypes (even stereotypes that may appear to be positive). Avoid the term _non-white_, or other terms that treat whiteness as a default.
 
-Make sure text is gender neutral wherever possible. Use _they_, _them_, and _their_. Avoid words and phrases that indicate gender bias, such as lengthy and irrelevant descriptions of appearance.
+Don’t make assumptions: ask how people identify themselves, and be aware of complexities within racial, ethnic, and religious identities. For example, not all Arabs are Muslim, and many nationalities and ethnicities include various religious practices and traditions.
 
-Don’t use women or older relatives as substitute for _novice_ or _beginner_. For example, don’t say something is [so simple your mother can use it](http://geekfeminism.wikia.com/wiki/So_simple,_your_mother_could_do_it).
+When referring to a person’s race or ethnicity, use adjectives, not nouns (for example, _a Hispanic person_, not _a Hispanic_).
+
+**Media style guides for race, ethnicity, and religion:**
+
+- [National Association of Black Journalists Style Guide](http://www.nabj.org/?styleguide)
+- [Asian American Journalists Association Handbook](http://www.aaja.org/aajahandbook/)
+- [Native American Journalists Association Reporter's Indigenous Terminology Guide](http://www.naja.com/reporter-s-indigenous-terminology-guide/)
+- Religion Newswriters Association [Religion Stylebook](http://religionstylebook.com/)
