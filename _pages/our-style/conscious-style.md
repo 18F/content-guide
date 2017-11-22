@@ -1,11 +1,39 @@
 ---
-title: Conscious style
+title: Inclusive language
 ---
-We follow the [Conscious Style Guide](http://consciousstyleguide.com/) because we are inclusive of all users.
+In our personal and professional lives, the words we use can make the difference between forging positive connections or creating distance. As we build government services, we want to ensure that they are accessible and welcoming to all users. Inclusive language is a powerful tool for making users feel welcome and helping them understand their options.
+
+This guide is influenced by the [Conscious Style Guide](http://consciousstyleguide.com/), which is an excellent resource for learning more about the conversations behind terms, categories, and concepts. Other resources we used:
+
+- [Diversity Style Guide](http://www.diversitystyleguide.com/)
+- [Disability Language Style Guide](http://ncdj.org/style-guide/)
+- [Associated Press Stylebook](http://www.apstylebook.com/)
+- [Syracuse University Disability Cultural Center Language Guide](http://sudcc.syr.edu/LanguageGuide/)
+
+This guide provides suggestions for word choice and phrasing when writing and talking about diverse groups of people.
 
 ## Age
 
-We prefer _older person_ or _senior_ to _elderly_.
+Avoid referring to someone’s age, unless it’s relevant to what we’re writing about (for example, when referring to benefits that are available to people of certain ages).
+
+If necessary, we prefer _older person_ or _senior_ to _elderly_.
+
+## Sexuality and gender
+
+Make content gender neutral wherever possible, and strive to write in a [gender-fair](http://www.ncte.org/positions/statements/genderfairuseoflang) way. If you’re writing about a hypothetical person or if you’re unsure of the person’s pronouns, use _they_ or _them_ instead of _he/she_.
+
+Avoid words and phrases that indicate gender bias, such as irrelevant descriptions of appearance.
+
+Use descriptors of gender identity or sexual orientation as modifiers, not as nouns (for example, _transgender person_, _cisgender person_, or _lesbian woman_). Avoid guessing sex, gender identity, or sexual orientation. When in doubt, either reconsider the need to include this information or ask the person you’re referring to how they identify and what terms they prefer.
+
+Notes on specific words:
+
+- Use _different sex_ instead of _opposite sex_ (because this recognizes gender as a spectrum, rather than a binary).
+- We support using _they_ or _their_ as singular pronouns.
+- Avoid _guys_ as a way to refer to mixed-gender groups.
+- Don't make assumptions about marital or family relationships (for example, use _spouse_ or _partner_ instead of _husband_ and _wife_; use _parent_ instead of _mother_ and _father_).
+
+For more detailed guidance on terms related to sex, gender identity, and sexual orientation, see the [National Lesbian and Gay Journalists Association Style Guide](http://www.nlgja.org/stylebook/terminology/) or the [GLAAD Media Reference Guide](https://www.glaad.org/reference/).
 
 ## Nationality
 
