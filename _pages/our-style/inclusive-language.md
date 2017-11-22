@@ -1,5 +1,7 @@
 ---
 title: Inclusive language
+redirect_from:
+  - /conscious-style/
 ---
 In our personal and professional lives, the words we use can make the difference between forging positive connections or creating distance. As we build government services, we want to ensure that they are accessible and welcoming to all users. Inclusive language is a powerful tool for making users feel welcome and helping them understand their options.
 
