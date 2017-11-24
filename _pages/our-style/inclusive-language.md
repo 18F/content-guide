@@ -3,18 +3,18 @@ title: Inclusive language
 redirect_from:
   - /conscious-style/
 ---
-In our personal and professional lives, the words we use can make the difference between forging positive connections or creating distance.
+The words we use can make the difference between forging positive connections or creating distance in our personal and professional lives. Particularly in writing, impact is more important than intent.
 
-As we build government services, we want to ensure that they are accessible and welcoming to all users. Inclusive language is a powerful tool for making users feel welcome and helping them understand their options.
+As we build government services, we want to ensure they are accessible and welcoming to everyone who needs to use them. Inclusive language helps us to be more accurate and build trust with our users.
 
-This guide is influenced by the [Conscious Style Guide](http://consciousstyleguide.com/), which is an excellent resource for learning more about the conversations behind terms, categories, and concepts. Other resources we used:
+This guidance is influenced by the [Conscious Style Guide](http://consciousstyleguide.com/), which is an excellent resource for learning more about the conversations behind terms, categories, and concepts. Other resources we used:
 
 - [Diversity Style Guide](http://www.diversitystyleguide.com/)
 - [Disability Language Style Guide](http://ncdj.org/style-guide/)
 - [Associated Press Stylebook](http://www.apstylebook.com/)
 - [Syracuse University Disability Cultural Center Language Guide](http://sudcc.syr.edu/LanguageGuide/)
 
-This guide provides suggestions for word choice and phrasing when writing and talking about diverse groups of people.
+This page is not exhaustive, but aims to provide principles, resources, and specific suggestions for writing and talking about diverse groups of people.
 
 ## Ability and disability
 
@@ -83,4 +83,4 @@ When referring to a person’s race or ethnicity, use adjectives, not nouns (for
 - [National Association of Black Journalists Style Guide](http://www.nabj.org/?styleguide)
 - [Asian American Journalists Association Handbook](http://www.aaja.org/aajahandbook/)
 - [Native American Journalists Association Reporter's Indigenous Terminology Guide](http://www.naja.com/reporter-s-indigenous-terminology-guide/)
-- Religion Newswriters Association [Religion Stylebook](http://religionstylebook.com/)
+- [Religion Newswriters Association's Religion Stylebook](http://religionstylebook.com/)
