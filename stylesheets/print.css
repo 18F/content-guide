@@ -22,6 +22,6 @@ a:after {
 }
 
 @page {
-  size: portrait;
+  size: landscape;
   margin: 1in;
 }
