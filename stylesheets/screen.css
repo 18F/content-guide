@@ -415,14 +415,16 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 
 }
 
+.site-footer .button.button-nav-tips,
 .site-footer .button.button-edit{
-	margin-right: -1px;
+	margin-right: -2px;
 	border-radius: 2px 0 0 2px;
 	border-right: none;
 	position: relative;
 	clear: left;
 }
 
+.site-footer .button.button-nav-tips::after,
 .site-footer .button.button-edit::after{
 	content: "";
 	position: absolute;
@@ -435,10 +437,15 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 
 }
 
+.site-footer .button.button-print,
 .site-footer .button.button-issue{
-	border-radius: 0 2px 2px 0;
+	border-radius: 0 2px 2px 0 !important;
 	border-left-color: #e8e8e8;
 	margin-right: 0;
+}
+
+.site-footer .button.button-print{
+  margin-right: 0.4em;
 }
 
 .site-footer .button:hover{
@@ -480,8 +487,9 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 
 	.site-footer{ text-align: right; padding-top: 1.6em;}
 	.site-footer span.hub{ float: left; margin-top: -0.33em;}
-	.site-footer .button{ float: none; }
-	.site-footer .button.button-edit{ margin-right: -0.4em;}
+  .site-footer .button{ float: none; }
+	.site-footer .button.button-edit,
+  .site-footer .button.button-nav-tips { margin-right: -0.4em;}
 }
 
 
@@ -1125,7 +1133,7 @@ a[id]{
 	padding: 1em;
 	background: #eee;
 	border-radius: 4px;
-  
+
 }
 
 .layout-table-of-contents ol li:first-of-type h1{

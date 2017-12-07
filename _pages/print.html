@@ -1,0 +1,23 @@
+---
+permalink: /print
+title: Print
+layout: none
+excerpt: none
+---
+
+<html lang="en">
+  {% include head.html %}
+  <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/stylesheets/print.css">
+  <body class="layout-print">
+    {% for page in site.pages %}
+      {% unless page.title == "Introduction" %}
+        <div class="article">
+          <div class="page">
+            <h1 class="page-title">{{ page.title }}</h1>
+            {{page.content}}
+          </div>
+        </div>
+      {% endunless %}
+    {% endfor %}
+  </body>
+</html>
