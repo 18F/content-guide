@@ -22,7 +22,7 @@ Every person is a whole person — no matter how they interact with the world. F
 
 Just like with language around race, gender, or other identities, it’s always best to ask people how they identify rather than assuming. For help finding appropriate or accurate language, see the [Disability Language Style Guide](http://ncdj.org/style-guide/) from the National Center on Disability and Journalism.
 
-Notes on specific words:
+### Notes on specific words
 
 - Avoid describing people as _disabled_, _handicapped_, or _confined to a wheelchair_.
 - Avoid terms that contribute to stigmas around disability or mental illness: _crazy_, _dumb_, _lame_, _insane_, _psycho_, _schizophrenic_, or _stupid_.
@@ -44,7 +44,7 @@ Avoid words and phrases that indicate gender bias, such as irrelevant descriptio
 
 Use descriptors of gender identity or sexual orientation as modifiers, not as nouns (for example, _transgender person_, _cisgender person_, or _lesbian woman_). Avoid guessing sex, gender identity, or sexual orientation. When in doubt, either reconsider the need to include this information or ask the person you’re referring to how they identify and what terms they prefer.
 
-**Notes on specific words:**
+### Notes on specific words
 
 - Use _different sex_ instead of _opposite sex_ (because this recognizes gender as a spectrum, rather than a binary).
 - We support using _they_ or _their_ as singular pronouns.
@@ -78,7 +78,7 @@ Don’t make assumptions: ask how people identify themselves, and be aware of co
 
 When referring to a person’s race or ethnicity, use adjectives, not nouns (for example, _a Hispanic person_, not _a Hispanic_).
 
-**Media style guides for race, ethnicity, and religion:**
+### Media style guides for race, ethnicity, and religion
 
 - [National Association of Black Journalists Style Guide](http://www.nabj.org/?styleguide)
 - [Asian American Journalists Association Handbook](http://www.aaja.org/aajahandbook/)
