@@ -22,8 +22,6 @@ Every person is a whole person — no matter how they interact with the world. F
 
 Just like with language around race, gender, or other identities, it’s always best to ask people how they identify rather than assuming. For help finding appropriate or accurate language, see the [Disability Language Style Guide](http://ncdj.org/style-guide/) from the National Center on Disability and Journalism.
 
-### Notes on specific words
-
 - Avoid describing people as _disabled_, _handicapped_, or _confined to a wheelchair_.
 - Avoid terms that contribute to stigmas around disability or mental illness: _crazy_, _dumb_, _lame_, _insane_, _psycho_, _schizophrenic_, or _stupid_.
 - Avoid terms that contribute to stigmas around sensory disabilities: _blind spot_ or _tone deaf_.
@@ -32,9 +30,8 @@ Just like with language around race, gender, or other identities, it’s always 
 
 Avoid referring to someone’s age, unless it’s relevant to what you're writing about (for example, when referring to benefits that are available to people of certain ages).
 
-Don’t use women or older relatives as substitute for _novice_ or _beginner_. For example, don’t say something is [so simple your mother can use it](http://geekfeminism.wikia.com/wiki/So_simple,_your_mother_could_do_it).
-
-If necessary, we prefer _older person_ or _senior_ to _elderly_.
+- Don’t use women or older relatives as substitute for _novice_ or _beginner_. For example, don’t say something is [so simple your mother can use it](http://geekfeminism.wikia.com/wiki/So_simple,_your_mother_could_do_it).
+- We prefer _older person_ or _senior_ to _elderly_.
 
 ## Gender and sexuality
 
@@ -44,33 +41,26 @@ Avoid words and phrases that indicate gender bias, such as irrelevant descriptio
 
 Use descriptors of gender identity or sexual orientation as modifiers, not as nouns (for example, _transgender person_, _cisgender person_, or _lesbian woman_). Avoid guessing sex, gender identity, or sexual orientation. When in doubt, either reconsider the need to include this information or ask the person you’re referring to how they identify and what terms they prefer.
 
-### Notes on specific words
-
 - Use _different sex_ instead of _opposite sex_ (because this recognizes gender as a spectrum, rather than a binary).
 - We support using _they_ or _their_ as singular pronouns.
 - Avoid _guys_ as a way to refer to mixed-gender groups.
 - Don't make assumptions about marital or family relationships (for example, use _spouse_ or _partner_ instead of _husband_ and _wife_; use _parent_ instead of _mother_ and _father_).
 
-For more detailed guidance on terms related to sex, gender identity, and sexual orientation, see the [National Lesbian and Gay Journalists Association Style Guide](http://www.nlgja.org/stylebook/terminology/) or the [GLAAD Media Reference Guide](https://www.glaad.org/reference/).
+For more detailed guidance, see the [National Lesbian and Gay Journalists Association Style Guide](http://www.nlgja.org/stylebook/terminology/) or the [GLAAD Media Reference Guide](https://www.glaad.org/reference/).
 
 ## Nationality
 
 Avoid using _citizen_ as a generic term for people who live in the United States. Many government programs serve non-citizens and individuals with a wide range of immigration and visa statuses.
 
-How you refer to the public is largely dependent on context. Feel free to choose from any of these words:
+- How you refer to the public is largely dependent on context. Feel free to choose from any of these words: _people_, _the public_, _users_, or _folks_.
 
-* People
-* The public
-* Users
-* Folks
+- Be as specific as possible. Depending on the situation, you may want to say something like _people who need healthcare_ or _people who need to access government services online_.
 
-Be as specific as possible. Depending on the situation, you may want to say something like _people who need healthcare_ or _people who need to access government services online_.
+- Use _citizens_ for information related to U.S. citizenship, for example, when describing who is eligible to vote in federal elections.
 
-Use _citizens_ for information related to U.S. citizenship, for example, when describing who is eligible to vote in federal elections.
+- Be careful with _Americans_ or _the American public_. These terms are [ambiguous](https://en.wikipedia.org/wiki/Names_for_United_States_citizens) and are often used as synonyms for _citizens_. In most cases, _the public_ is equally clear and more inclusive. That said, referring to _Americans_ or _the American people_ can be useful if you want to inspire readers or take a more patriotic tone.
 
-Be careful with _Americans_ or _the American public_. These terms are [ambiguous](https://en.wikipedia.org/wiki/Names_for_United_States_citizens) and are often used as synonyms for _citizens_. In most cases, _the public_ is equally clear and more inclusive. That said, referring to _Americans_ or _the American people_ can be useful if you want to inspire readers or take a more patriotic tone.
-
-## Race and ethnicity
+## Race, ethnicity, and religion
 
 Avoid using words, images, or situations that reinforce racial, ethnic, or religious stereotypes (even stereotypes that may appear to be positive). Avoid the term _non-white_, or other terms that treat whiteness as a default.
 
