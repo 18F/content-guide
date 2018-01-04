@@ -146,6 +146,9 @@ navigation:
   - text: Images
     url: images/
     internal: true
+  - text: Style guides
+    url: style-guides/
+    internal: true
   - text: Technical and interface writing
     url: technical-and-interface-writing/
     internal: true
