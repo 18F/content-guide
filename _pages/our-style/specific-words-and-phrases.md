@@ -44,5 +44,5 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - URLs should be lowercase, even when they appear at the start of a sentence. For example, _notalone.gov launched today._
 - **U.S.**, not US or USA
 - **user-centered design**
-- **U.S. Web Design Standards** on first use and **Standards** on subsequent references
+- **U.S. Web Design System** on first use and **Design System** on subsequent references
 - **Wi-Fi**
