@@ -66,6 +66,7 @@ a.button span.slack::before{
 	margin-right: 4px;
 }
 
+.notice,
 .wrapper{
 	width: 95%;
 	max-width: 960px;
@@ -92,6 +93,14 @@ img.travel-guide-hide{
 	display: table;
 	clear: both;
 }
+
+.notice{
+  background: lemonchiffon;
+  border: 1px solid goldenrod;
+  padding: 1em;
+}
+
+.notice p:last-child { margin-bottom: 0; }
 
 main{
 	background: white;
@@ -418,7 +427,7 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 .site-footer .button.button-nav-tips,
 .site-footer .button.button-edit{
 	margin-right: -2px;
-	border-radius: 2px 0 0 2px;
+	border-radius: 3px 0 0 3px;
 	border-right: none;
 	position: relative;
 	clear: left;
@@ -439,7 +448,7 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 
 .site-footer .button.button-print,
 .site-footer .button.button-issue{
-	border-radius: 0 2px 2px 0 !important;
+	border-radius: 0 3px 3px 0;
 	border-left-color: #e8e8e8;
 	margin-right: 0;
 }
@@ -569,7 +578,11 @@ input[type="search"]:focus::-webkit-search-cancel-button::after{
 
 /* @group .page */
 
-.page{ padding-top: 1em; }
+.page{
+    padding-top: 1em;
+    clear: both;
+    overflow: hidden;
+}
 
 .page .wrapper{
 	width: auto;
@@ -1216,7 +1229,10 @@ a[id]{
 	}
 }
 
-
 /* @end */
+.layout-article-print .wrapper > .page-title,
+.layout-article-print .article-print {
+  display: none;
+}
 
 /* @end */

@@ -4,6 +4,13 @@
 
 /* @group bootstrap */
 
+.site-header,
+.site-footer,
+.notice-print,
+.layout-article-print nav.inline-navigation {
+  display: none;
+}
+
 body{
   -webkit-print-color-adjust: exact;
   -moz-column-count: 2;
