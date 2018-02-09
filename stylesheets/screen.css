@@ -1230,6 +1230,7 @@ a[id]{
 }
 
 /* @end */
+.layout-article-print nav.inline-navigation,
 .layout-article-print .wrapper > .page-title,
 .layout-article-print .article-print {
   display: none;
