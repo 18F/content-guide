@@ -5,13 +5,14 @@
     </span>
     <nav>
       <a href="{{ site.baseurl}}/nav-tips/" class="button button-nav-tips">Navigation tips</a>
+      <a href="{{ site.baseurl}}/print/" class="button button-print">Print this guide</a>
       {% unless page.hide_edit_link %}
-      <a class="button button-edit" href="https://github.com/{{ site.github.organization }}/{{ site.github.repository }}/edit/{{ site.github.default_branch }}/{{ page.path }}">Edit this page</a>{% endunless %}
+        <a class="button button-edit" href="https://github.com/{{ site.github.organization }}/{{ site.github.repository }}/edit/{{ site.github.default_branch }}/{{ page.path }}">Edit this page</a>
+      {% endunless %}
       <a class="button button-issue" href="https://github.com/{{ site.github.organization }}/{{ site.github.repository }}/issues/">File an issue</a>
-    </nav>          
+    </nav>
   </div>
 </footer>
 
 {% guides_style_18f_include analytics.html %}
-
 {% jekyll_pages_api_search_load %}

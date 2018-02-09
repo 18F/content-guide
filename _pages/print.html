@@ -1,0 +1,58 @@
+---
+permalink: /print
+title: Print
+layout: page
+excerpt: none
+---
+
+<div class="notice notice-print">
+  <p>If a print dialog doesn&rsquo;t appear, please select <a href="javascript:print();">File &rarr; print</a> from your browser.</p>
+</div>
+
+  {% for nav in site.navigation %}
+    {% if nav.url == nil %}{% continue %}{% endif %}
+      {% unless nav.children == nil %}
+        {% for child in nav.children %}
+          {% if child.children != nil %}
+            {% for page in site.pages %}
+              {% if page.title == child.text %}
+                <article class="article article-{{ page.title | slugify }}">
+                  <div class="page">
+                    <h1 class="page-title">{{ page.title }}</h1>
+                    {{page.content}}
+                  </div>
+                </article>
+              {% endif %}
+            {% endfor %}
+            {% for grandchild in child.children %}
+              {% for page in site.pages %}
+                {% if page.title == grandchild.text %}
+                  <article class="article article-{{ page.title | slugify }}">
+                    <div class="page">
+                      <h1 class="page-title">{{ page.title }}</h1>
+                      {{page.content}}
+                    </div>
+                  </article>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          {% else %}
+            {% for page in site.pages %}
+              {% if page.title == child.text %}
+                <article class="article article-{{ page.title | slugify }}">
+                  <div class="page">
+                    <h1 class="page-title">{{ page.title }}</h1>
+                    {{page.content}}
+                  </div>
+                </article>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+      {% endunless %}
+  {% endfor %}
+
+
+<script type="text/javascript">
+  window.onload = print();
+</script>
