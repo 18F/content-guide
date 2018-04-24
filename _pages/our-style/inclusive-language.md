@@ -74,3 +74,4 @@ When referring to a person’s race or ethnicity, use adjectives, not nouns (for
 - [Asian American Journalists Association Handbook](http://www.aaja.org/aajahandbook/)
 - [Native American Journalists Association Reporter's Indigenous Terminology Guide](http://www.naja.com/reporter-s-indigenous-terminology-guide/)
 - [Religion Newswriters Association's Religion Stylebook](http://religionstylebook.com/)
+- [The Responsible Communication Style Guide](https://rcstyleguide.com) covers race, gender, religion, sexuality, and health/well-being
