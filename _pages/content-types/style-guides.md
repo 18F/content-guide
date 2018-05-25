@@ -32,6 +32,6 @@ Here are a few things to keep in mind when you’re developing style guides:
 
 - [cloud.gov](https://github.com/18F/cg-product/blob/master/ContentGuide.md)
 - [FBI Crime Data Explorer](https://github.com/18F/crime-data-explorer/wiki/Content-Guide)
-- [login.gov](https://github.com/18F/identity-private/wiki/Content-Style-Guide)
+- [login.gov](https://github.com/18F/identity-private/wiki/Content-Style-Guide) :lock:
 - [myUSCIS](https://docs.google.com/document/d/1s7UFFCaJrBTCVe90iL4d3EhR53-8-pdYPR8wdVRD0DY/edit)
 - [Natural Resources Revenue Data](https://github.com/18F/doi-extractives-data/wiki/Content-guide)
