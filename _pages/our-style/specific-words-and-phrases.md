@@ -8,7 +8,7 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **ages**, avoid hyphens in ages unless it clarifies the text. For example, _a group of 10 18-year-old White House tourists_.
 - **agile**
 - **a.m.**
-- **back end**, **back end development**
+- **back end**, **back-end development**
 - **Congress** refers to the U.S. Senate and House of Representatives.
 - **congressional** is lowercase unless part of a proper name. For example, _Congressional Record_
 - **DC**, not D.C.
