@@ -20,7 +20,7 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **federal**, unless part of a proper noun. For example, _Federal Bureau of Investigation_
 - **federal government**, not Federal Government or Federal government
 - **fiscal year** is lowercase. It’s okay to abbreviate as _FY_ on the second reference.
-- **front end**, **front end developer**
+- **front end**, **front-end developer**
 - **GitHub**
 - **government**, unless part of a proper noun. For example, _Government Printing Office_
 - **homepage**
