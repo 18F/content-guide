@@ -41,17 +41,6 @@ To run it locally:
 
 Note that you will also need [Node.js](https://nodejs.org/en) in order for the site's built-in search functionality to work.
 
-### Running the site with Docker
-
-If you don't want to deal with making sure you have the proper versions of Ruby and Node installed, you can run it with Docker instead:
-
-1. Install [Docker Community Edition](https://store.docker.com/editions/community/docker-ce-desktop-mac).
-2. Clone the repository.
-3. Run `docker-compose up`.
-4. Visit the local site at [http://localhost:4000](http://localhost:4000)
-
-If you decide that you no longer want to run the site using Docker, run `docker-compose down -v` to properly clean everything up.
-
 ### Public domain
 
 As a work of the United States government, this project is in the public domain within the United States.
