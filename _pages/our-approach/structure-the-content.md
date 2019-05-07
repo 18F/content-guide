@@ -58,7 +58,7 @@ If you’re wrangling a lot of data, tables can help you visualize that content.
 
 ## Don’t use FAQs
 
-Like our peers at GDS, we [strongly discourage writing FAQs](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#dont-use-faqs), or Frequently Asked Questions.
+Like our peers at GDS, we [strongly discourage writing FAQs](https://www.gov.uk/guidance/content-design/writing-for-gov-uk#do-not-use-faqs), or Frequently Asked Questions.
 
 FAQs:
 
