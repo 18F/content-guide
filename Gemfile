@@ -7,7 +7,7 @@ gem 'go_script'
 
 group :jekyll_plugins do
   gem "guides_style_18f", :github => '18F/guides-style', :branch => 'v1.0.6'
-  gem 'html-proofer'
+  gem 'html-proofer', '>= 3.1.0'
   gem 'jekyll_pages_api_search'
   gem 'jekyll-redirect-from'
 end
