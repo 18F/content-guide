@@ -24,7 +24,7 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **GitHub**
 - **government**, unless part of a proper noun. For example, _Government Printing Office_
 - **homepage**
-- **human-centered design**, but we prefer user-centered design to describe 18F's principles and work.
+- **human-centered design**, often used interchangeably with user-centered design. We prefer user-centered design to describe 18F's principles and work to emphasize our focus on those those who are _using_ a service/product (rather than those making it or humans in general)
 - **info** is an acceptable shortening of _information_. In formal situations, use the full word.
 - **internet**
 - **JavaScript**
@@ -43,6 +43,6 @@ Below are rules for how we use common words and phrases. The bold term shows the
 - **United States government** or **U.S. government**, not U.S. Government
 - URLs should be lowercase, even when they appear at the start of a sentence. For example, _notalone.gov launched today._
 - **U.S.**, not US or USA
-- **user-centered design**, preferred term over human-centered design to describe 18F's principles and work.
+- **user-centered design**, often used interchangeably with human-centered design. We prefer user-centered design to describe 18F's principles and work to emphasize our focus on those those who are _using_ a service/product (rather than those making it or humans in general)
 - **U.S. Web Design System** on first use and **Design System** on subsequent references
 - **Wi-Fi**
