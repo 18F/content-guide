@@ -8,6 +8,11 @@ exclude:
 - README.md
 - go
 
+url: "https://content-guide.18f.gov"
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
 permalink: pretty
 highlighter: rouge
 kramdown:
@@ -33,9 +38,6 @@ collections:
 
 generate_nodes: true
 flat_namespace: true
-
-gems:
-  - jekyll-redirect-from
 
 defaults:
   -
