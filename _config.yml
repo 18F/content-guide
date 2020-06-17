@@ -8,6 +8,10 @@ exclude:
 - README.md
 - go
 
+url: "https://content-guide.18f.gov"
+plugins_dir:
+  - jekyll-sitemap
+
 permalink: pretty
 highlighter: rouge
 kramdown:
