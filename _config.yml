@@ -9,8 +9,9 @@ exclude:
 - go
 
 url: "https://content-guide.18f.gov"
-plugins_dir:
+gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 permalink: pretty
 highlighter: rouge
@@ -37,9 +38,6 @@ collections:
 
 generate_nodes: true
 flat_namespace: true
-
-gems:
-  - jekyll-redirect-from
 
 defaults:
   -
