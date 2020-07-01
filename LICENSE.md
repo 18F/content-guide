@@ -24,4 +24,4 @@ When using or citing the work, you should not imply endorsement by the author or
 This repository also includes these files:
 
 - `/javascripts/anchor.min.js`, which is part of the [Anchor JS](https://bryanbraun.github.io/anchorjs/) project and subject to its license.
-- `/javascripts/jquery-2.1.4.min.js`, which is part of the [jQuery](https://jquery.com/) project and subject to its license.
+- `/javascripts/jquery-3.5.1.min.js`, which is part of the [jQuery](https://jquery.com/) project and subject to its license.
