@@ -3,3 +3,5 @@ _site/
 .DS_store
 .*.swp
 node_modules
+.jekyll-cache/
+.jekyll-metadata
