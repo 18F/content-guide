@@ -1,9 +1,12 @@
 ---
+layout: post
 title: Abbreviations and acronyms
-permalink: /abbreviations-and-acronyms/
+permalink: /our-style/abbreviations-and-acronyms/
+sidenav: our-style
+sticky_sidenav: true
 redirect_from:
-  - /acronyms/
-  - /acronyms-and-abbreviations/
+  - /faqs
+  - /how-users-read/
 ---
 
 Abbreviations are any shortened or contracted word or phrase. For example, writing *St.* instead of *Street*, or *Rx* for *prescription*, or *DC* for *District of Columbia*.

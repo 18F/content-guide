@@ -1,5 +1,14 @@
 ---
+layout: post
 title: Active voice
+permalink: /our-style/active-voice/
+sidenav: our-style
+sticky_sidenav: true
+subnav:
+  - text: How to recognize the passive voice
+    href: '#how-to-recognize-the-passive-voice'
+  - text: When to use the passive voice
+    href: '#when-to-use-the-passive-voice'
 ---
 
 Our writing should be concise and direct. We prefer the active voice because it supports brevity and makes written content more engaging, too.

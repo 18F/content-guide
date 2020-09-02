@@ -1,5 +1,14 @@
 ---
+layout: post
 title: Names
+permalink: /our-style/names/
+sidenav: our-style
+sticky_sidenav: true
+subnav:
+  - text: Personal names
+    href: '#personal-names'
+  - text: State names
+    href: '#state-names'
 ---
 
 ## Personal names

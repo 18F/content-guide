@@ -1,48 +1,66 @@
-## 18F Content Guide
+# 18F Content Guide
 
-This is the repository for the [18F Content Guide](https://content-guide.18f.gov/). This guide was developed for 18F employees, but we hope it's a useful reference for everyone.
+18F content designers and strategists join cross-functional teams to collaboratively improve user experiences across government. This guide is here to help us get the job done. It’s neither a step-by-step tutorial nor a set of rules. Instead, it’s a starting point for 18F-led content design: doing it, discussing it, and ensuring it’s done to a consistent level of quality.
 
-For a detailed introduction, see [how to use this guide](https://content-guide.18f.gov/how-to-use-this-guide/).
+---
 
-## History
+#### Under development
 
-18F's Content Guild ([#g-content](https://18f.slack.com/archives/g-content)) maintains this guide.
+This guide is currently under development. It is a living guide that will continue to be added to and updated over time. You can review [our goals](https://github.com/18F/ux-guide/wiki/Goals), [preview the site on Federalist](https://federalist-48b3228b-0241-4802-9442-e08ff5c3e680.app.cloud.gov/site/18f/ux-guide/), [contribute](https://github.com/18F/ux-guide/blob/master/CONTRIBUTING.md) or get a general overview below.
 
-We started by adapting [GOV.UK’s work](https://www.gov.uk/guidance/content-design), and we’d like to thank their team for championing plain language and information accessibility. We've since expanded the guide to cover more topics, reorganized things, and moved the site from 18F Pages to [Federalist](https://github.com/18F/federalist/). This guide is a work in progress, and we'll continue refining it over time.
+---
 
-### Contributors
+## Table of contents
 
-* [Jamie Albrecht](https://github.com/jamiealbrecht)
-* [Emileigh Barnes](https://github.com/emileighoutlaw)
-* [Nicole Fenton](https://github.com/nicoleslaw)
-* [Andre Francisco](https://github.com/awfrancisco)
-* [Britta Gustafson](https://github.com/brittag)
-* [Jeannine Hunter](https://github.com/jeanninehunter)
-* [James Hupp](https://github.com/jameshupp)
-* [Andrew Maier](https://github.com/andrewmaier)
-* [Corey Mahoney](https://github.com/coreycaitlin)
-* [Kate Saul](https://github.com/kategarklavs)
-* [Anna Heller Sebok](https://github.com/annahsebok)
-* [Will Slack](https://github.com/wslack)
-* [Tadhg O'Higgins](https://github.com/tadhg-ohiggins)
-* [Atul Varma](https://github.com/toolness)
+1. [About](https://github.com/18F/ux-guide/blob/master/_pages/about.md)
+1. Our approach
+    1. [Values and principles](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/values-and-principles.md)
+    1. [Defining design](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/defining-design.md)
+    1. [Stay lean](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/stay-lean.md)
+    1. [Meet partners where they are](https://github.com/18F/ux-guide/blob/master/_pages/our-approach/meet-people-where-they-are.md)
+1. Research
+    1. [Clarify the basics](https://github.com/18F/ux-guide/blob/master/_pages/research/clarify-the-basics.md)
+    1. [Plan](https://github.com/18F/ux-guide/blob/master/_pages/research/plan.md)
+    1. [Do](https://github.com/18F/ux-guide/blob/master/_pages/research/do.md)
+    1. [Make research actionable](https://github.com/18F/ux-guide/blob/master/_pages/research/make-research-actionable.md)
+    1. [Legal](https://github.com/18F/ux-guide/blob/master/_pages/research/legal.md)
+    1. [Privacy](https://github.com/18F/ux-guide/blob/master/_pages/research/privacy.md)
+    1. [Bias](https://github.com/18F/ux-guide/blob/master/_pages/research/bias.md)
+    1. [Ethics](https://github.com/18F/ux-guide/blob/master/_pages/research/ethics.md)
+1. Design 
+    1. [Build a prototype](https://github.com/18F/ux-guide/blob/master/_pages/design/build-a-prototype.md)
+    1. [Use a design system](https://github.com/18F/ux-guide/blob/master/_pages/design/use-a-design-system.md)
+1. Resources
 
-### Running the site
+## Development
+The UX Guide uses [USWDS-Jekyll](https://github.com/18F/uswds-jekyll).
 
-The 18F Content Guide runs on [Jekyll](http://jekyllrb.com/).
+To test it locally:
 
-To run it locally:
+1. Clone this repo
+2. In the local clone of this repo, run `jekyll serve`
 
-1. Make sure that you have Ruby 2.3. At present, this project is incompatible with Ruby 2.4.
-2. Clone the repository.
-3. Install [Jekyll](http://jekyllrb.com/) and the necessary dependencies: `bundle install`
-4. Run the web server with `./go serve` (or `jekyll serve` if you have Jekyll installed globally)
-5. Visit the local site at [http://localhost:4000](http://localhost:4000)
+---
 
-Note that you will also need [Node.js](https://nodejs.org/en) in order for the site's built-in search functionality to work.
+## Contributors
 
-### Public domain
+This guide was collaboratively authored by members of 18F’s UX team past and present. While the initial content was pulled together over a few months, the guide builds on institutional knowledge from across 18F over the years. Here are the members of the UX guide working group: 
 
-As a work of the United States government, this project is in the public domain within the United States.
+- Qituwra Anderson
+- Melissa Braxton
+- Jeremy Canfield
+- Jennifer Damis
+- Matt Dobson
+- Vishal Iyer
+- John Donmoyer
+- Nikki Lee
+- Julia Lindpaintner
+- Corey Mahoney
+- Andrew Maier
+- Anne Petersen
+- Ben Peterson
+- Jacklynn Pham
+- Laura Poncé
+- Aditi Rao
+- Mark Trammell
 
-Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).

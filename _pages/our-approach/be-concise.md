@@ -1,5 +1,12 @@
 ---
+layout: post
 title: Be concise
+permalink: /our-approach/be-concise/
+sidenav: our-approach
+sticky_sidenav: true
+subnav:
+  - text: Keep sentences short and sweet
+    href: '#keep-sentences-short-and-sweet'
 ---
 
 To keep content understandable, concise, and relevant, it should be:
@@ -26,9 +33,11 @@ Words ending in *–ion* and *-ment* tend to make sentences longer and more comp
 
 Craft sentences at 25 words or fewer, whenever possible. If a sentence has fewer than 14 words, [readers understand 90 percent of content](http://comprehension.prsa.org/?p=217). At 25 words, sentences are markedly more difficult to comprehend.
 
-We also recommend varying sentence length. Switching things up helps you keep readers interested. This tactic will also give you better control of your content’s [tone](https://pages.18f.gov/content-guide/voice-and-tone/) — a text with only short sentences can unintentionally sound terse. The occasional longer sentence adds a bit of narrative interest (and can help a piece of writing sound friendlier, too).
+We also recommend varying sentence length. Switching things up helps you keep readers interested. This tactic will also give you better control of your content’s [tone]({{ "/our-style/voice-and-tone" | relative_url }}) — a text with only short sentences can unintentionally sound terse. The occasional longer sentence adds a bit of narrative interest (and can help a piece of writing sound friendlier, too).
 
-Here’s an example of how you might transform a too-long sentence into something more manageable. Instead of:
+Here’s an example of how you might transform a too-long sentence into something more manageable. 
+
+Instead of:
 
 > Due to privacy and logistical considerations, passes cannot be replaced if lost or stolen; a new Paper Voucher must be accessed by going to the [everykidinapark.gov](https://everykidinapark.gov/) website and completing the same activities to obtain a new Paper Voucher.
 
@@ -41,4 +50,4 @@ Use:
 
 ---
 
-_Thanks to [GDS](https://www.gov.uk/guidance/content-design/writing-for-gov-uk), who we looked to for inspiration when writing this page._
+_Thanks to [GDS](https://www.gov.uk/guidance/content-design/writing-for-gov-uk), whom we looked to for inspiration when writing this page._

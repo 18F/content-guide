@@ -1,5 +1,20 @@
 ---
+layout: post
 title: Inclusive language
+permalink: /our-style/inclusive-language/
+sidenav: our-style
+sticky_sidenav: true
+subnav:
+  - text: Ability and disability
+    href: '#ability-and-disability'
+  - text: Age
+    href: '#age'
+  - text: Gender and sexuality
+    href: '#gender-and-sexuality'
+  - text: Nationality
+    href: '#nationality'     
+  - text: Race, ethnicity, and religion
+    href: '#race-ethnicity-and-religion'        
 redirect_from:
   - /conscious-style/
 ---
@@ -12,7 +27,7 @@ This guidance is influenced by the [Conscious Style Guide](http://consciousstyle
 - [Diversity Style Guide](http://www.diversitystyleguide.com/)
 - [Disability Language Style Guide](http://ncdj.org/style-guide/)
 - [Associated Press Stylebook](http://www.apstylebook.com/)
-- [Syracuse University Disability Cultural Center Language Guide](http://sudcc.syr.edu/LanguageGuide/)
+- [Syracuse University Disability Cultural Center Language Guide](http://sudcc.syr.edu/resources/language-guide.html)
 
 This page is not exhaustive, but aims to provide principles, resources, and specific suggestions for writing and talking about diverse groups of people.
 

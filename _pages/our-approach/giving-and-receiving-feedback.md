@@ -1,5 +1,14 @@
 ---
+layout: post
 title: Giving and receiving feedback
+permalink: /our-approach/giving-and-receiving-feedback/
+sidenav: our-approach
+sticky_sidenav: true
+subnav:
+  - text: How to give feedback
+    href: '#how-to-give-feedback'
+  - text: How to receive feedback
+    href: '#how-to-receive-feedback'
 ---
 
 Giving and receiving feedback on writing is hard. Both need your time, energy, and care. That may feel daunting. But we all want our work to be strong and it only gets better with feedback.

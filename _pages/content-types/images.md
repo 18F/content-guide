@@ -1,5 +1,14 @@
 ---
+layout: post
 title: Images
+permalink: /content-types/images/
+sidenav: content-types
+sticky_sidenav: true
+subnav:
+  - text: Common uses of imagery at 18F
+    href: '#common-uses-of-imagery-at-18f'
+  - text: Copyrighted images
+    href: '#copyrighted-images'
 ---
 Images are an excellent way to communicate information.
 

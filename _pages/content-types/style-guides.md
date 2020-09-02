@@ -1,5 +1,14 @@
 ---
+layout: post
 title: Style guides
+permalink: /content-types/style-guides/
+sidenav: content-types
+sticky_sidenav: true
+subnav:
+  - text: Guidelines
+    href: '#guidelines'
+  - text: Examples
+    href: '#examples'
 ---
 
 We often develop project-specific style guides to support our partners and their audiences. We usually call these documents _content guides_, because most of our partners already follow a style guide like [AP](https://www.apstylebook.com/), [GPO](https://www.govinfo.gov/app/details/GPO-STYLEMANUAL-2016), or [Chicago](http://www.chicagomanualofstyle.org/home.html).
@@ -32,6 +41,5 @@ Here are a few things to keep in mind when you’re developing style guides:
 
 - [cloud.gov](https://github.com/18F/cg-product/blob/master/ContentGuide.md)
 - [FBI Crime Data Explorer](https://github.com/18F/crime-data-explorer/wiki/Content-Guide)
-- [login.gov](https://github.com/18F/identity-private/wiki/Content-Style-Guide) :lock:
-- [myUSCIS](https://docs.google.com/document/d/1s7UFFCaJrBTCVe90iL4d3EhR53-8-pdYPR8wdVRD0DY/edit)
-- [Natural Resources Revenue Data](https://github.com/18F/doi-extractives-data/wiki/Content-guide)
+- [login.gov](https://design.login.gov/content/)
+- [Natural Resources Revenue Data](https://github.com/ONRR/nrrd/wiki/Content-style-guide)

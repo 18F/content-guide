@@ -1,187 +1,58 @@
-markdown: kramdown
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: 18F Content Guide
-description: How to plan, write, and manage content at 18F.
-exclude:
-- CONTRIBUTING.md
-- Gemfile
-- Gemfile.lock
-- README.md
-- go
+email: 18f-xd@gsa.gov
+description: >-
+  This is the beginning of a guide that will house
+  resources, norms, and practices for doing user
+  experience research and design work at 18F.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://content-guide.18f.gov" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 18F
+github_username:  18F
 
-url: "https://content-guide.18f.gov"
-gems:
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+theme: uswds-jekyll
+plugins:
+  - jekyll-feed
   - jekyll-sitemap
-  - jekyll-redirect-from
 
-permalink: pretty
-highlighter: rouge
-kramdown:
-  auto_ids: true
-
-sass:
-  style: :compressed
-
-# Author/Organization info to be displayed in the templates
-author:
-  name: 18F Content Guild
-  url: https://18f.gsa.gov
-
-github:
-  organization: 18F
-  repository: content-guide
-  default_branch: 18f-pages
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
-generate_nodes: true
-flat_namespace: true
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-
-# Navigation
-# List links that should appear in the site sidebar here
-navigation:
-- text: Introduction
-  url: introduction/
-  internal: true
-  generated: true
-  children:
-  - text: How to use this guide
-    url: how-to-use-this-guide/
-    internal: true
-  - text: License
-    url: license/
-    internal: true
-  - text: Resources
-    url: resources/
-    internal: true
-- text: Our approach
-  blurb: |
-    Tips and standards for developing user-centered content.
-  url: our-approach/
-  internal: true
-  generated: true
-  children:
-  - text: Content principles
-    url: content-principles/
-    internal: true
-  - text: Address the user
-    url: address-the-user/
-    internal: true
-  - text: Avoid duplication
-    url: avoid-duplication/
-    internal: true
-  - text: Be concise
-    url: be-concise/
-    internal: true
-  - text: Use plain language
-    url: plain-language/
-    internal: true
-  - text: Structure the content
-    url: structure-the-content/
-    internal: true
-  - text: Keep refining
-    url: keep-refining/
-    internal: true
-  - text: Giving and receiving feedback
-    url: giving-and-receiving-feedback/
-    internal: true
-  - text: Make content web-friendly
-    url: make-content-web-friendly/
-    internal: true
-- text: Our style
-  blurb: |
-    Grammar, spelling, and mechanics.
-  url: our-style/
-  internal: true
-  generated: true
-  children:
-  - text: Abbreviations and acronyms
-    url: abbreviations-and-acronyms/
-    internal: true
-  - text: Active voice
-    url: active-voice/
-    internal: true
-  - text: Capitalization
-    url: capitalization/
-    internal: true
-  - text: Inclusive language
-    url: inclusive-language/
-    internal: true
-  - text: Names
-    url: names/
-    internal: true
-  - text: Numbers and percentages
-    url: numbers-and-percentages/
-    internal: true
-  - text: Punctuation
-    url: punctuation/
-    internal: true
-  - text: Specific words and phrases
-    url: specific-words-and-phrases/
-    internal: true
-  - text: Voice and tone
-    url: voice-and-tone/
-    internal: true
-- text: Content types
-  blurb: |
-    Detailed guidance for web and print elements.
-  url: content-types/
-  internal: true
-  generated: true
-  children:
-  - text: Forms
-    url: forms/
-    internal: true
-  - text: Headings and titles
-    url: headings-and-titles/
-    internal: true
-  - text: Images
-    url: images/
-    internal: true
-  - text: Style guides
-    url: style-guides/
-    internal: true
-  - text: Technical and interface writing
-    url: technical-and-interface-writing/
-    internal: true
-  - text: Trademarks and brands
-    url: trademarks-and-brands/
-    internal: true
-  - text: URLs and filenames
-    url: urls-and-filenames/
-    internal: true
-
-repos:
-- name: 18F Content Guide
-  description: Main repository
-  url: https://github.com/18F/content-guide
-
+# Google Analytics & DAP tracking code for handbook
 google_analytics_ua: UA-48605964-19
+dap_agency: GSA
 
+# Add search site handle to enable search
+search_site_handle: content-guide.18f.gov
 
-# Configuration for jekyll_pages_api_search plugin gem.
-jekyll_pages_api_search:
-  # Uncomment this to speed up site generation while developing.
-  # skip_index: true
-  placeholder: Search
-  # Each member of `index_fields` should correspond to a field generated by
-  # the jekyll_pages_api. It can hold an optional `boost` member as a signal
-  # to Lunr.js to weight the field more highly (default is 1).
-  index_fields:
-    title:
-      boost: 10
-    tags:
-      boost: 10
-    url:
-      boost: 5
-    body:
+scripts:
+  - assets/uswds/js/uswds.min.js
+  - javascripts/private-eye.js
+  - javascripts/application.js
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

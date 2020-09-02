@@ -1,5 +1,18 @@
 ---
+layout: post
 title: Voice and tone
+permalink: /our-style/voice-and-tone/
+sidenav: our-style
+sticky_sidenav: true
+subnav:
+  - text: The difference between voice and tone
+    href: '#the-difference-between-voice-and-tone'
+  - text: Our voice
+    href: '#our-voice'
+  - text: Establish your own voice
+    href: '#establishing-your-own-voice'
+  - text: Further reading
+    href: '#further-reading'    
 ---
 
 If you’re like many folks, you might not be sure of the difference between voice and tone. Maybe you’ve never deliberately crafted a voice and don’t know where to start. Not to fret! In this section, we’ll discuss the differences between voice and tone, how we describe our organizational voice, how to establish your own voice, and how to choose a tone that’s appropriate for whatever you’re writing.
@@ -24,7 +37,7 @@ At 18F, we like to communicate in a friendly, straightforward way. We consider o
 
 We believe that government communication can — and should — be fun and easy to read, and our voice represents this.
 
-Here are a few sentences, taken from the [18F Content Guide](https://pages.18f.gov/content-guide/), that exemplify our voice:
+Here are a few sentences, taken from this guide, that exemplify our voice:
 
 > We created this guide for reference on an as-needed basis. It’s here when you’re wondering whether to capitalize the word _federal_, for instance, or when you’re wondering how to create a friendly, informational tone.
 

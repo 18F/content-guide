@@ -1,5 +1,22 @@
 ---
+layout: post
 title: URLs and filenames
+permalink: /content-types/urls-and-filenames/
+sidenav: content-types
+sticky_sidenav: true
+subnav:
+  - text: Creating URLs
+    href: '#creating-urls'
+  - text: Creating filenames
+    href: '#creating-filenames'
+  - text: Presenting URLs and filenames in text
+    href: '#presenting-urls-and-filenames-in-text'
+  - text: Link text
+    href: '#link-text'
+  - text: Screen reader-only text
+    href: '#screen-reader-only-text'
+  - text: Additional resources
+    href: '#additional-resources'             
 ---
 
 ## Creating URLs
@@ -353,9 +370,7 @@ This has an added benefit of improving search results for sighted users.
 In some situations, descriptive links may be overly verbose or redundant for
 sighted users. Here’s an example from the [betaFEC site][]:
 
-<a href="{{ site.baseurl }}/images/betaFEC.png">
-  <img src="{{ site.baseurl }}/images/betaFEC.png" alt="betaFEC screenshot">
-</a>
+[![Screenshot of Federal Election Commission website, with Candidates and committees highlighted under who can register and report, with a prominent button-style link at the bottom that says learn more]({{ "/images/betaFEC.png" | relative_url }})]({{ "/images/betaFEC.png" | relative_url }})
 
 Here the *Learn more* link is appropriate for sighted users, but it may be confusing to screen reader users. In such situations, it’s possible to add [invisible text just for screen reader users][sr-only]. For example, the U.S. Web Design Standards has a special CSS class called `usa-sr-only` for this purpose. Using this class, the aforementioned *Learn more* link might be written in HTML like so:
 

@@ -1,5 +1,9 @@
 ---
+layout: post
 title: Specific words and phrases
+permalink: /our-style/specific-words-and-phrases/
+sidenav: our-style
+sticky_sidenav: true
 ---
 
 Below are rules for how we use common words and phrases. The bold term shows the accepted form (capitalization, hyphenation, punctuation), with accompanying text explaining usage.
