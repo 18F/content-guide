@@ -1,6 +1,6 @@
 # _data/navigation.yml
 primary:
-  - text: Introduction
+  - text: About this guide
     href: /
   - text: Our approach
     href: /our-approach/
@@ -10,7 +10,7 @@ primary:
     href: /content-types/
 
 overview:
-  - text: Introduction
+  - text: About this guide
     href: /
   - text: License
     href: /license/

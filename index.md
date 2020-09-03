@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction
+title: About this guide
 permalink: /
 sidenav: overview
 sticky_sidenav: true
