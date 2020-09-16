@@ -16,9 +16,7 @@
 title: 18F Content Guide
 email: 18f-xd@gsa.gov
 description: >-
-  This is the beginning of a guide that will house
-  resources, norms, and practices for doing user
-  experience research and design work at 18F.
+  How to plan, write, and manage content at 18F.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://content-guide.18f.gov" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 18F
