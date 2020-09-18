@@ -1,6 +1,6 @@
 ---
 title: Forms
 permalink: /forms/
-redirect_to:
-  - /content-types/forms/
+layout: redirect
+redirect: /content-types/forms/
 ---
