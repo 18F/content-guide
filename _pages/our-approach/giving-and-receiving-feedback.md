@@ -65,7 +65,6 @@ Lastly, show appreciation. Giving feedback takes time and energy. Thank the pers
 
 ### Additional resources
 
-- [You’re My Favorite Client](https://abookapart.com/products/youre-my-favorite-client), Chapter 4 by Mike Monteiro. It’s available on Safari Books.
 - [Questions I ask when reviewing design](https://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design), Jason Fried
 - [Writing Comments in the Margins](https://teachingcenter.wustl.edu/resources/writing-assignments-feedback/commenting-on-student-writing/#MarginComments), Washington University
 - [The Power of Bad Ideas](http://www.core77.com/posts/22446/the-power-of-bad-ideas-22446), Steve Portigal
