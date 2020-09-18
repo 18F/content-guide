@@ -1,6 +1,6 @@
 ---
 title: Images
 permalink: /images/
-redirect_to:
-  - /content-types/images/
+layout: redirect
+redirect: /content-types/images/
 ---

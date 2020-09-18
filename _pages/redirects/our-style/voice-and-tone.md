@@ -1,5 +1,8 @@
 ---
 title: Voice and tone
+permalink: /voice-and-tone/
+layout: redirect
+redirect: /our-style/voice-and-tone/
 ---
 
 If you’re like many folks, you might not be sure of the difference between voice and tone. Maybe you’ve never deliberately crafted a voice and don’t know where to start. Not to fret! In this section, we’ll discuss the differences between voice and tone, how we describe our organizational voice, how to establish your own voice, and how to choose a tone that’s appropriate for whatever you’re writing.

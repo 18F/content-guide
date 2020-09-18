@@ -1,6 +1,6 @@
 ---
 title: Style guides
 permalink: /style-guides/
-redirect_to:
-  - /content-types/style-guides/
+layout: redirect
+redirect: /content-types/style-guides/
 ---
