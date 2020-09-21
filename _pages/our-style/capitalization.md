@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Capitalization
 permalink: /our-style/capitalization/
 sidenav: our-style

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Style guides
 permalink: /content-types/style-guides/
 sidenav: content-types

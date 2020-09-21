@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Abbreviations and acronyms
 permalink: /our-style/abbreviations-and-acronyms/
 sidenav: our-style

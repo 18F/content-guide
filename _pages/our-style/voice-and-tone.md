@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Voice and tone
 permalink: /our-style/voice-and-tone/
 sidenav: our-style

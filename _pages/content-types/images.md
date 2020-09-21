@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Images
 permalink: /content-types/images/
 sidenav: content-types

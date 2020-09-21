@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Our approach
 permalink: /our-approach/
 sidenav: our-approach

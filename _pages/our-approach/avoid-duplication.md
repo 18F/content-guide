@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Avoid duplication
 permalink: /our-approach/avoid-duplication/
 sidenav: our-approach

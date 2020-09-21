@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Punctuation
 permalink: /our-style/punctuation/
 sidenav: our-style

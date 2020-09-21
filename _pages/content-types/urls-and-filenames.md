@@ -1,5 +1,4 @@
 ---
-layout: post
 title: URLs and filenames
 permalink: /content-types/urls-and-filenames/
 sidenav: content-types

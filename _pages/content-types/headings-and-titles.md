@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Headings and titles
 permalink: /content-types/headings-and-titles/
 sidenav: content-types

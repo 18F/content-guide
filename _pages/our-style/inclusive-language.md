@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Inclusive language
 permalink: /our-style/inclusive-language/
 sidenav: our-style

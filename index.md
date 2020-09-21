@@ -1,5 +1,4 @@
 ---
-layout: post
 title: About this guide
 permalink: /
 sidenav: overview

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Address the user
 permalink: /our-approach/address-the-user/
 sidenav: our-approach

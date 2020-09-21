@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Resources
 permalink: /resources/
 sidenav: overview

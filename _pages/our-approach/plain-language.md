@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Use plain language
 permalink: /our-approach/plain-language/
 sidenav: our-approach

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Content principles
 permalink: /our-approach/content-principles/
 sidenav: our-approach

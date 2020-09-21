@@ -1,5 +1,4 @@
 ---
-layout: post
 title: License
 permalink: /license/
 sidenav: overview

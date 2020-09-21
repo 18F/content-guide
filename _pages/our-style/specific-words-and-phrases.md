@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Specific words and phrases
 permalink: /our-style/specific-words-and-phrases/
 sidenav: our-style

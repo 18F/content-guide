@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Structure the content
 permalink: /our-approach/structure-the-content/
 sidenav: our-approach

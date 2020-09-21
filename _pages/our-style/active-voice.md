@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Active voice
 permalink: /our-style/active-voice/
 sidenav: our-style

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Names
 permalink: /our-style/names/
 sidenav: our-style

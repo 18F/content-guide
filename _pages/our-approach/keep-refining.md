@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Keep refining
 permalink: /our-approach/keep-refining/
 sidenav: our-approach

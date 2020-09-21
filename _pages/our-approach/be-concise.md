@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Be concise
 permalink: /our-approach/be-concise/
 sidenav: our-approach

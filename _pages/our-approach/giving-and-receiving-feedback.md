@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Giving and receiving feedback
 permalink: /our-approach/giving-and-receiving-feedback/
 sidenav: our-approach

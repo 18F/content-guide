@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Trademarks and brands
 permalink: /content-types/trademarks-and-brands/
 sidenav: content-types
