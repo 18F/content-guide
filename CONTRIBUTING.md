@@ -1,8 +1,7 @@
 ## Welcome
 We're glad you're thinking about contributing to an 18F open source project! 
 
-If you're unsure about anything, ask us — or submit the issue or pull request anyway. We love all friendly contributions, 
-and we welcome your ideas about how to keep our Content Guide updated, friendly, and accessible.
+If you're unsure about anything, ask us — or submit the issue or pull request anyway. We love all friendly contributions, and we welcome your ideas about how to keep our Content Guide updated, friendly, and accessible.
 
 To ensure a welcoming environment for our projects, our staff follows the [18F Code of Conduct](https://github.com/18F/code-of-conduct/blob/master/code-of-conduct.md); 
 contributors should do the same. Please also check out the [18F Open Source Policy GitHub repository](https://github.com/18f/open-source-policy). 
