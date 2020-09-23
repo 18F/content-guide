@@ -1,5 +1,19 @@
 ---
 title: Inclusive language
+permalink: /our-style/inclusive-language/
+sidenav: our-style
+sticky_sidenav: true
+subnav:
+  - text: Ability and disability
+    href: '#ability-and-disability'
+  - text: Age
+    href: '#age'
+  - text: Gender and sexuality
+    href: '#gender-and-sexuality'
+  - text: Nationality
+    href: '#nationality'     
+  - text: Race, ethnicity, and religion
+    href: '#race-ethnicity-and-religion'        
 redirect_from:
   - /conscious-style/
 ---
@@ -12,7 +26,7 @@ This guidance is influenced by the [Conscious Style Guide](http://consciousstyle
 - [Diversity Style Guide](http://www.diversitystyleguide.com/)
 - [Disability Language Style Guide](http://ncdj.org/style-guide/)
 - [Associated Press Stylebook](http://www.apstylebook.com/)
-- [Syracuse University Disability Cultural Center Language Guide](http://sudcc.syr.edu/LanguageGuide/)
+- [Syracuse University Disability Cultural Center Language Guide](http://sudcc.syr.edu/resources/language-guide.html)
 
 This page is not exhaustive, but aims to provide principles, resources, and specific suggestions for writing and talking about diverse groups of people.
 
@@ -72,5 +86,5 @@ When referring to a person’s race or ethnicity, use adjectives, not nouns (for
 
 - [National Association of Black Journalists Style Guide](http://www.nabj.org/?styleguide)
 - [Asian American Journalists Association Handbook](http://www.aaja.org/aajahandbook/)
-- [Native American Journalists Association Reporter's Indigenous Terminology Guide](http://www.naja.com/reporter-s-indigenous-terminology-guide/)
+- [Native American Journalists Association Reporter's Indigenous Terminology Guide](https://najanewsroom.com/wp-content/uploads/2018/11/NAJA_Reporting_and_Indigenous_Terminology_Guide.pdf)
 - [Religion Newswriters Association's Religion Stylebook](http://religionstylebook.com/)

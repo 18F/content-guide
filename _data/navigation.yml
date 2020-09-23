@@ -1,0 +1,74 @@
+# _data/navigation.yml
+primary:
+  - text: About this guide
+    href: /
+  - text: Our approach
+    href: /our-approach/
+  - text: Our style
+    href: /our-style/
+  - text: Content types
+    href: /content-types/
+
+overview:
+  - text: About this guide
+    href: /
+  - text: License
+    href: /license/
+  - text: Resources
+    href: /resources/
+
+our-approach:
+  - text: Address the user
+    href: /our-approach/address-the-user/
+  - text: Avoid duplication
+    href: /our-approach/avoid-duplication/
+  - text: Be concise
+    href: /our-approach/be-concise/
+  - text: Content principles
+    href: /our-approach/content-principles/
+  - text: Giving and receiving feedback
+    href: /our-approach/giving-and-receiving-feedback/
+  - text: Keep refining
+    href: /our-approach/keep-refining/
+  - text: Make content web-friendly
+    href: /our-approach/make-content-web-friendly/
+  - text: Use plain language
+    href: /our-approach/plain-language/
+  - text: Structure the content
+    href: /our-approach/structure-the-content/
+
+our-style:
+  - text: Abbreviations and acronyms
+    href: /our-style/abbreviations-and-acronyms/
+  - text: Active voice
+    href: /our-style/active-voice/
+  - text: Capitalization
+    href: /our-style/capitalization/  
+  - text: Inclusive language
+    href: /our-style/inclusive-language/
+  - text: Names
+    href: /our-style/names/
+  - text: Numbers and percentages
+    href: /our-style/numbers-and-percentages/
+  - text: Punctuation
+    href: /our-style/punctuation/
+  - text: Specific words and phrases
+    href: /our-style/specific-words-and-phrases/
+  - text: Voice and tone
+    href: /our-style/voice-and-tone/
+
+content-types:
+  - text: Forms
+    href: /content-types/forms/
+  - text: Headings and titles
+    href: /content-types/headings-and-titles/
+  - text: Images
+    href: /content-types/images/
+  - text: Style guides
+    href: /content-types/style-guides/
+  - text: Technical and interface writing
+    href: /content-types/technical-and-interface-writing/
+  - text: Trademarks and brands
+    href: /content-types/trademarks-and-brands/
+  - text: URLs and filenames
+    href: /content-types/urls-and-filenames/  

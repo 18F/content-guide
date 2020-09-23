@@ -1,5 +1,23 @@
 ---
 title: Punctuation
+permalink: /our-style/punctuation/
+sidenav: our-style
+sticky_sidenav: true
+subnav:
+  - text: Bulleted lists
+    href: '#bulleted-lists'
+  - text: Colons
+    href: '#colons'
+  - text: Dashes
+    href: '#dashes'
+  - text: Quotes
+    href: '#quotes'
+  - text: Spaces
+    href: '#spaces'
+  - text: Ampersands or plus signs
+    href: '#ampersands-or-plus-signs'
+  - text: Slashes
+    href: '#slashes'            
 ---
 
 ## Bulleted lists

@@ -26,20 +26,21 @@ We started by adapting [GOV.UK’s work](https://www.gov.uk/guidance/content-des
 * [Will Slack](https://github.com/wslack)
 * [Tadhg O'Higgins](https://github.com/tadhg-ohiggins)
 * [Atul Varma](https://github.com/toolness)
+* [Jeff Durland](https://github.com/durland18F)
+* [Ryan Johnson](https://github.com/brentryanjohnson)
+* [Michelle Rago](https://github.com/michelle-rago)
 
-### Running the site
+## Development
+The Content Guide uses [USWDS-Jekyll](https://github.com/18F/uswds-jekyll).
 
-The 18F Content Guide runs on [Jekyll](http://jekyllrb.com/).
+To test it locally:
 
 To run it locally:
 
-1. Make sure that you have Ruby 2.3. At present, this project is incompatible with Ruby 2.4.
-2. Clone the repository.
-3. Install [Jekyll](http://jekyllrb.com/) and the necessary dependencies: `bundle install`
-4. Run the web server with `./go serve` (or `jekyll serve` if you have Jekyll installed globally)
-5. Visit the local site at [http://localhost:4000](http://localhost:4000)
-
-Note that you will also need [Node.js](https://nodejs.org/en) in order for the site's built-in search functionality to work.
+1. Clone the repository.
+1. Install [Jekyll](http://jekyllrb.com/) and the necessary dependencies: `bundle install`
+1. Run the web server with `bundle exec jekyll serve`
+1. Visit the local site at [http://localhost:4000](http://localhost:4000)
 
 ### Public domain
 

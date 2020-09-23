@@ -1,5 +1,13 @@
 ---
 title: Trademarks and brands
+permalink: /content-types/trademarks-and-brands/
+sidenav: content-types
+sticky_sidenav: true
+subnav:
+  - text: Common trademarked words
+    href: '#common-trademarked-words-with-alternative-terms'
+  - text: Guidelines
+    href: '#guidelines'
 ---
 Avoid using a trademark unless you’re referring to a specific product.
 

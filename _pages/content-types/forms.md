@@ -1,5 +1,27 @@
 ---
 title: Forms
+permalink: /content-types/forms/
+sidenav: content-types
+sticky_sidenav: true
+subnav:
+  - text: Use an appropriate tone
+    href: '#use-an-appropriate-tone'
+  - text: Start with easier questions
+    href: '#start-with-easier-questions'
+  - text: Provide enough context
+    href: '#provide-enough-context'
+  - text: Design with devices in mind
+    href: '#design-with-devices-in-mind'
+  - text: Keep it concise
+    href: '#keep-it-concise'
+  - text: Align field length with response length
+    href: '#align-field-length-with-response-length'
+  - text: "Don't use placeholder text as labels"
+    href: '#dont-use-placeholder-text-as-labels'
+  - text: Follow accessibility best practices
+    href: '#follow-accessibility-best-practices'
+  - text: Additional resources
+    href: '#additional-resources'            
 ---
 Many of our projects involve forms — editing existing forms and creating new ones. We’ve compiled the following list of strategies to help you create forms people will find easy (and maybe even enjoyable) to complete. 
 

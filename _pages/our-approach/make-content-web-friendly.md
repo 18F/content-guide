@@ -1,5 +1,8 @@
 ---
 title: Make content web-friendly
+permalink: /our-approach/make-content-web-friendly/
+sidenav: our-approach
+sticky_sidenav: true
 ---
 
 One of the simplest ways to present accessible, maintainable information online is to use HTML.

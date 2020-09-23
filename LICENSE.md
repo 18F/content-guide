@@ -1,6 +1,13 @@
 ---
 title: License
-permalink: /license
+permalink: /license/
+sidenav: overview
+sticky_sidenav: true
+subnav:
+  - text: No copyright
+    href: '#no-copyright'
+  - text: Other information
+    href: '#other-information'
 ---
 
 As a work of the federal government, this project is in the public domain within the United States.
@@ -18,10 +25,3 @@ In no way are the patent or trademark rights of any person affected by CC0, nor 
 Unless expressly stated otherwise, we make no warranties about the work, and disclaim liability for all uses of the work, to the fullest extent permitted by applicable law.
 
 When using or citing the work, you should not imply endorsement by the author or the affirmer.
-
-## Non-project code
-
-This repository also includes these files:
-
-- `/javascripts/anchor.min.js`, which is part of the [Anchor JS](https://bryanbraun.github.io/anchorjs/) project and subject to its license.
-- `/javascripts/jquery-3.5.1.min.js`, which is part of the [jQuery](https://jquery.com/) project and subject to its license.

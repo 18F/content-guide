@@ -1,7 +1,17 @@
 ---
 title: Use plain language
+permalink: /our-approach/plain-language/
+sidenav: our-approach
+sticky_sidenav: true
 redirect_from:
   - /legal-and-technical-terms/
+subnav:
+  - text: Words to avoid
+    href: '#words-to-avoid'
+  - text: When to use legal and technical terms
+    href: '#when-to-use-legal-and-technical-terms'
+  - text: Additional resources
+    href: '#additional-resources'
 ---
 
 U.S. government websites are for everyone. The content they contain should be as straightforward as possible.

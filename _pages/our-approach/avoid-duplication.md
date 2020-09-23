@@ -1,5 +1,8 @@
 ---
 title: Avoid duplication
+permalink: /our-approach/avoid-duplication/
+sidenav: our-approach
+sticky_sidenav: true
 ---
 If something is written once and links to relevant information easily and well, people are more likely to trust the content. Duplicate content produces poor search results, confuses the user, and damages the credibility of our websites.
 

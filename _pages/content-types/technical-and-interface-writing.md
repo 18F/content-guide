@@ -1,12 +1,20 @@
 ---
 title: Technical and interface writing
+permalink: /content-types/technical-and-interface-writing/
+sidenav: content-types
+sticky_sidenav: true
+subnav:
+  - text: Basics
+    href: '#basics'
+  - text: Guidelines
+    href: '#guidelines'
 ---
 
 At 18F, we often write technical documentation, guides, forms, and interface messages. In most of these cases, it’s safe to say the reader is learning something new or troubleshooting. These guidelines will help you write clear, concise instructions, which will provide your reader with the best possible experience.
 
 ## Basics
 
-### Do the hard work to make it simple.
+### Do the hard work to make it simple
 
 Help the reader follow along. Break instructions or processes down into individual steps. Use short, simple sentences with words people use in everyday conversation.
 
@@ -20,21 +28,21 @@ Use:
 
 > In Google Calendar, click **Create**.
 
-### Direct the reader.
+### Direct the reader
 
 Start your sentences with active verbs or clear objectives.
 
 Instead of:
 
-> Help us understand what kind of help you need by [creating an issue in GitHub](https://github.com/18F/FEC/issues/new).
+> Help us understand what kind of help you need by [creating an issue in GitHub](https://github.com/18F/content-guide/issues/new/).
 
 Use:
 
-> [Create an issue](https://github.com/18F/FEC/issues/new) with details about your request.
+> [Create an issue](https://github.com/18F/content-guide/issues/new/) with details about your request.
 
 Or:
 
-> To get started, [create an issue](https://github.com/18F/FEC/issues/new) in GitHub with details about your request.
+> To get started, [create an issue](https://github.com/18F/content-guide/issues/new/) in GitHub with details about your request.
 
 Focus on what the reader can do rather than what they can’t. (This is known as using positive language.)
 
@@ -55,7 +63,7 @@ Be consistent with how you phrase titles. If your guide or tutorial has several 
 * Nouns: _Policies_, _Teams_, _Offices_
 * Verbs: _Create an account_, _File a report_, _Download our data_
 
-[Use sentence case](https://pages.18f.gov/content-guide/capitalization/) for headings. (If you’re writing articles for the 18F Handbook or 18F Pages, the table of contents will auto-generate based on your `<h2>`, `<h3>`, and `<h4>` tags or Markdown headings.)
+[Use sentence case]({{ "/our-style/capitalization#headings" | relative_url }}) for headings. (If you’re writing articles for the 18F Handbook or 18F Pages, the table of contents will auto-generate based on your `<h2>`, `<h3>`, and `<h4>` tags or Markdown headings.)
 
 ### Introduction
 
