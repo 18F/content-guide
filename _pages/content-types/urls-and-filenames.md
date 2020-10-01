@@ -401,3 +401,4 @@ reach out to [#g-accessibility][] or [#g-frontend][] in Slack!
 * [W3C: Don’t Use “Click Here” as Link Text](https://www.w3.org/QA/Tips/noClickHere)
 * [Stop Clicking Here! 7 Superior SEO Alternatives to Generic Links](https://moz.com/blog/click-here-seo)
 * [18F Accessibility Guide](https://pages.18f.gov/accessibility/links/)
+* [GSA Linking Policy](https://www.gsa.gov/website-information/website-policies#linking)
