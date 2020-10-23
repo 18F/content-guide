@@ -1,7 +1,7 @@
 ---
 title: Trademarks and brands
-permalink: /content-types/trademarks-and-brands/
-sidenav: content-types
+permalink: /our-style/trademarks-and-brands/
+sidenav: our-style
 sticky_sidenav: true
 subnav:
   - text: Common trademarked words

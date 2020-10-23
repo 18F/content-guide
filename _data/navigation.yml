@@ -6,8 +6,6 @@ primary:
     href: /our-approach/
   - text: Our style
     href: /our-style/
-  - text: Content types
-    href: /content-types/
 
 overview:
   - text: About this guide
@@ -54,21 +52,13 @@ our-style:
     href: /our-style/punctuation/
   - text: Specific words and phrases
     href: /our-style/specific-words-and-phrases/
+  - text: Style guides
+    href: /our-style/style-guides/
+  - text: Technical and interface writing
+    href: /our-style/technical-and-interface-writing/
+  - text: Trademarks and brands
+    href: /our-style/trademarks-and-brands/
+  - text: URLs and filenames
+    href: /our-style/urls-and-filenames/
   - text: Voice and tone
     href: /our-style/voice-and-tone/
-
-content-types:
-  - text: Forms
-    href: /content-types/forms/
-  - text: Headings and titles
-    href: /content-types/headings-and-titles/
-  - text: Images
-    href: /content-types/images/
-  - text: Style guides
-    href: /content-types/style-guides/
-  - text: Technical and interface writing
-    href: /content-types/technical-and-interface-writing/
-  - text: Trademarks and brands
-    href: /content-types/trademarks-and-brands/
-  - text: URLs and filenames
-    href: /content-types/urls-and-filenames/  
