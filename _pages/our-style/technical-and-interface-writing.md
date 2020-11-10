@@ -1,7 +1,7 @@
 ---
 title: Technical and interface writing
-permalink: /content-types/technical-and-interface-writing/
-sidenav: content-types
+permalink: /our-style/technical-and-interface-writing/
+sidenav: our-style
 sticky_sidenav: true
 subnav:
   - text: Basics

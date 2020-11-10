@@ -1,7 +1,7 @@
 ---
 title: Style guides
-permalink: /content-types/style-guides/
-sidenav: content-types
+permalink: /our-style/style-guides/
+sidenav: our-style
 sticky_sidenav: true
 subnav:
   - text: Guidelines

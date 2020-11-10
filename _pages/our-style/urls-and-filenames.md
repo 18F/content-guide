@@ -1,7 +1,7 @@
 ---
 title: URLs and filenames
-permalink: /content-types/urls-and-filenames/
-sidenav: content-types
+permalink: /our-style/urls-and-filenames/
+sidenav: our-style
 sticky_sidenav: true
 subnav:
   - text: Creating URLs
