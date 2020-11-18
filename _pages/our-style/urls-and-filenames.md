@@ -69,17 +69,17 @@ Again, the shorter the better, but long paths are more excusable than
 long domains.
 
 Paths are typically understood as hierarchies that become increasingly
-specific: `/content-guide/urls-and-filenames/` reflects that
-urls-and-filenames is part of content-guide. If this were a much larger
+specific: `/our-style/urls-and-filenames/` reflects that
+urls-and-filenames is part of our-style. If this were a much larger
 guide, it’s possible that it could be divided further, for example
-`/content-guide/urls-and-filenames/creating-urls/`.
+`/our-style/urls-and-filenames/creating-urls/`.
 
 Each level of a path should make it possible to find the content beneath
 it:
 
--   The content at the root level should reflect that `/content-guide/`
+-   The content at the root level should reflect that `/our-style/`
     is present.
--   `/content-guide/` should make it easy to find `urls-and-filenames/`.
+-   `/our-style/` should make it easy to find `urls-and-filenames/`.
 
 Conversely, the user should be able to remove a level from the path and
 end up at the parent of the original content.
