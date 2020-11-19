@@ -50,6 +50,7 @@ defaults:
     values:
       layout: post  
 
+# This excludes files from the Jekyll build. In other words, these files will be in the GitHub repo, but not on the production site.
 exclude:
   - CONTRIBUTING.md
   - Dockerfile
