@@ -125,6 +125,12 @@ pre {
   white-space: pre-wrap;
 }
 
+// Breaks urls at container width
+code {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
 // Show Slack icon before Slack Links
 a[href^="https://gsa-tts.slack.com"]::before {
   content: "";
