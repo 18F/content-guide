@@ -10,7 +10,7 @@ subnav:
     href: '#if-you-work-at-another-organization'
 ---
 
-At 18F, we believe that good government content is the same as good content anywhere else: it is easy to understand, and helps users to do what they want to do. 
+At 18F, we believe that good government content is the same as good content anywhere else: it is easy to understand, and it helps users do what they want to do. 
 
 The question we want to answer with this guide is: how do we get there?
 
