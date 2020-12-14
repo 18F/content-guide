@@ -33,14 +33,25 @@ We started by adapting [GOV.UK’s work](https://www.gov.uk/guidance/content-des
 ## Development
 The Content Guide uses [USWDS-Jekyll](https://github.com/18F/uswds-jekyll).
 
-To test it locally:
-
 To run it locally:
 
 1. Clone the repository.
 1. Install [Jekyll](http://jekyllrb.com/) and the necessary dependencies: `bundle install`
 1. Run the web server with `bundle exec jekyll serve`
 1. Visit the local site at [http://localhost:4000](http://localhost:4000)
+
+_or_
+
+1. Install [Docker for Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac).
+1. Clone this repository.
+1. From this repository directory, run:
+
+   ```sh
+   docker-compose up --build
+   ```
+
+1. Open http://localhost:4000
+
 
 ### Public domain
 
