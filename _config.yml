@@ -57,5 +57,4 @@ exclude:
   - docker-compose.yml
   - Gemfile
   - Gemfile.lock
-  - LICENSE.md
   - README.md
