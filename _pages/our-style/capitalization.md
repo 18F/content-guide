@@ -38,5 +38,3 @@ Headlines, page titles, subheads and similar content should follow sentence case
 > _Making sense of Washington’s tech landscape_  
 
 > _Privileges and responsibilities_
-
-See also: information about [optimizing headings]({{ "/content-types/headings-and-titles/" | relative_url }}).
