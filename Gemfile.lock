@@ -39,7 +39,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -69,12 +69,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 4.0)
-  jekyll-feed (~> 0.6)
-  jekyll-redirect-from
-  jekyll-sitemap
+  jekyll (~> 4.1, >= 4.1.1)
+  jekyll-feed (~> 0.15, >= 0.15.0)
+  jekyll-redirect-from (>= 0.16.0)
+  jekyll-sitemap (>= 1.4.0)
   tzinfo-data
-  uswds-jekyll (~> 5.0)
+  uswds-jekyll (~> 5.0, >= 5.0.0)
 
 BUNDLED WITH
    2.1.4
