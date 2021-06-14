@@ -62,7 +62,7 @@ Use your answers to these questions to craft a description of your voice. Once y
 
 ### Choosing a tone
 
-As we mentioned earlier, your voice is a constant, but your tone is a variable. Consider the following: If you’re having an irredeemably terrible day, you might get peeved at a store associate who chirpily (and repeatedly) asks if they can help you with anything. Instead of picking up on your nonverbal — or perhaps verbal — cues, this associate is **tone-deaf**. The associate maintained a consistently helpful voice, but they failed to shift their tone from energetic to restrained. As a result, their message (however valuable or well-intended) is lost on you.
+As we mentioned earlier, your voice is a constant, but your tone is a variable. Consider the following: If you’re having an irredeemably terrible day, you might get peeved at a store associate who chirpily (and repeatedly) asks if they can help you with anything. While the associate maintained a helpful voice, they failed to shift from an energetic to a restrained tone based on your mood. As a result, their message (however valuable or well-intended) is lost on you.
 
 To avoid going the way of the associate, think about your users’ needs in different situations. Use these needs to determine your tone.
 
