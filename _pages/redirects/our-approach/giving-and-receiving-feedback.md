@@ -2,5 +2,5 @@
 title: Giving and receiving feedback
 permalink: /giving-and-receiving-feedback/
 layout: redirect
-redirect: /our-approach/giving-and-receiving-feedback/
+redirect: /our-approach/gather-feedback/
 ---

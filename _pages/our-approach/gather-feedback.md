@@ -1,6 +1,6 @@
 ---
-title: Giving and receiving feedback
-permalink: /our-approach/giving-and-receiving-feedback/
+title: Gather feedback
+permalink: /our-approach/gather-feedback/
 sidenav: our-approach
 sticky_sidenav: true
 subnav:
