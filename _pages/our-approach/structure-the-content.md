@@ -15,27 +15,35 @@ subnav:
     href: '#dont-use-faqs'
 ---
 
-Below you’ll find a few characteristics of online readers as well as our recommendations on ways to keep them in mind when writing and editing.
+It can be a little confusing when we talk about the structure of content: most writers think of the structure of their writing along the lines of chapters, sections, headings and paragraphs. But we know that people read web content a little differently than, for example, a magazine essay. And HTML gives us tools to build pages that support readers, especially those who use assistive technologies. 
+
+In this section, we will explain how to make it easier for all users to read your content.
+
+Reams of research tell us that people don’t read web pages; they scan them. It’s understandable — most often, people are trying to accomplish a task when they visit your site, rather than trying to educate themselves about the mission of your organization.
+
+So how do you support users that are just trying to get something done?
 
 ## Important information first
+Online, people tend to scan text until they find the information they need. No matter how carefully you craft your content, most people will only read 25 percent of it. This statistic isn’t meant to dishearten; rather, we believe it underscores the importance of getting content right.
 
-Online, users tend to scan text until they find the information they need. No matter how carefully you craft your content, most people will only read [25 percent of it](https://www.nngroup.com/articles/website-reading/). This statistic isn’t meant to dishearten; rather, we believe it underscores the importance of getting content right.
+We recommend using the “inverted pyramid” style, putting the most important information at the beginning, and the second most important second, until the very least important information is delivered in the last thought. Hopefully you will have the research you need about your users to tell you what’s most important to them. Plan for user testing after launch to make sure you’ve got it right.
 
-Put the most important information in the first two paragraphs. That’s the section users are most likely to read. In journalism, this technique is called the “inverted pyramid.”
+## Short, punchy paragraphs
+You might think of webpages as a series of little inverted pyramids, so that, as the reader’s eye lands on a particular chunk of text, they see the information that (we believe) is most important to them. 
 
-## Break up text
+## Descriptive headings
+When readers are scanning your short paragraphs, it’s helpful for them to see a header that lets them know what they will find there. It’s better to be clear than clever here; your readers will be grateful that you saved them time by showing them where to find the thing they were looking for.
 
-Large chunks of text can overwhelm readers. Use subheads and bullet points; they provide clear narrative structure for readers in a hurry. Put information-carrying words at the beginning of the phrase, and use the [active voice]({{ "/our-style/active-voice" | relative_url }}).
+## Heading tags
+HTML offers critical help in guiding users to the information they are looking for. Heading tags, such as `<h1>`, `<h2>`, and so forth, allow you to describe a hierarchy of information on the page; these tags should be used for the descriptive headings you’ll want to use to introduce short and punchy paragraphs. Designers can assign visual styling to these headings, and people who use assistive technologies can skip from heading to heading as a kind of table of contents to find the thing they are looking for.
 
-Instead of:
+## Lists
+If you find yourself using several commas in a paragraph to separate items in a list, or if you repeat the same phrase over and over in a paragraph, you should probably use a bulleted list instead. Lists are easily scannable, and [studies have shown that our eyes naturally gravitate to list items](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content-discovered/). Assistive technologies, such as screen readers, will identify list items and read out the number of items in a list before reading out the list itself. If you’re listing several items, using an unordered (`<ul>`) or ordered (`<ol>`) list will benefit all users.
 
-> Looking into the regulation of campaign finances
+That said, try to keep your lists as simple as possible. If you have several levels in your list, the complexity might overwhelm the benefits of using a bulleted list. If that’s the case, try using a table instead.
 
-Use:
-
-> Campaign finance law explained
-
-If you’re wrangling a lot of data, tables can help you visualize that content. Long paragraphs cluttered with numbers or dates are more difficult to scan than, for example:
+## Tables
+If you’re wrangling a lot of data, tables can help you visually organize that content. Long paragraphs cluttered with numbers or dates are more difficult to scan than, for example:
 
 <table>
     <thead>

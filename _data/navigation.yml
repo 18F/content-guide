@@ -16,16 +16,16 @@ overview:
     href: /resources/
 
 our-approach:
+  - text: Our approach
+    href: /our-approach/
   - text: Address the user
     href: /our-approach/address-the-user/
   - text: Avoid duplication
     href: /our-approach/avoid-duplication/
   - text: Be concise
     href: /our-approach/be-concise/
-  - text: Content principles
-    href: /our-approach/content-principles/
-  - text: Giving and receiving feedback
-    href: /our-approach/giving-and-receiving-feedback/
+  - text: Gather feedback
+    href: /our-approach/gather-feedback/
   - text: Keep refining
     href: /our-approach/keep-refining/
   - text: Make content web-friendly
@@ -36,6 +36,8 @@ our-approach:
     href: /our-approach/structure-the-content/
 
 our-style:
+  - text: Our style
+    href: /our-style/
   - text: Abbreviations and acronyms
     href: /our-style/abbreviations-and-acronyms/
   - text: Active voice
