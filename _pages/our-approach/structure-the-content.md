@@ -9,10 +9,19 @@ redirect_from:
 subnav:
   - text: Important information first
     href: '#important-information-first'
-  - text: Break up text
-    href: '#break-up-text'
+  - text: Short, punchy paragraphs
+    href: '#short-punchy-paragraphs'
+  - text: Descriptive headings
+    href: '#descriptive-headings'
+  - text: Heading tags
+    href: '#heading-tags'
+  - text: Lists
+    href: '#lists'
+  - text: Tables
+    href: '#tables'
   - text: "Don’t use FAQs"
     href: '#dont-use-faqs'
+
 ---
 
 It can be a little confusing when we talk about the structure of content: most writers think of the structure of their writing along the lines of chapters, sections, headings and paragraphs. But we know that people read web content a little differently than, for example, a magazine essay. And HTML gives us tools to build pages that support readers, especially those who use assistive technologies. 
