@@ -2,7 +2,7 @@
 
 This is the repository for the [18F Content Guide](https://content-guide.18f.gov/). This guide was developed for 18F employees, but we hope it's a useful reference for everyone.
 
-For a detailed introduction, see [how to use this guide](https://content-guide.18f.gov/how-to-use-this-guide/).
+For a detailed introduction, see [how to use this guide](https://content-guide.18f.gov/).
 
 ## History
 
