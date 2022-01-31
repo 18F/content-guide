@@ -2,7 +2,6 @@
 title: Content principles
 permalink: /our-approach/content-principles/
 sidenav: our-approach
-redirect: /our-approach/
 sticky_sidenav: true
 subnav:
   - text: Start with user needs
