@@ -3,6 +3,8 @@ title: Our approach
 permalink: /our-approach/
 sidenav: our-approach
 sticky_sidenav: true
+redirect_from:
+  - /our-approach/content-principles/
 subnav:
   - text: Start with user needs
     href: '#start-with-user-needs'

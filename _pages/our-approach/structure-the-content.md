@@ -21,7 +21,6 @@ subnav:
     href: '#tables'
   - text: "Don’t use FAQs"
     href: '#dont-use-faqs'
-
 ---
 
 It can be a little confusing when we talk about the structure of content: most writers think of the structure of their writing along the lines of chapters, sections, headings and paragraphs. But we know that people read web content a little differently than, for example, a magazine essay. And HTML gives us tools to build pages that support readers, especially those who use assistive technologies. 
