@@ -74,5 +74,5 @@ Lastly, show appreciation. Giving feedback takes time and energy. Thank the pers
 ### Additional resources
 
 - [Questions I ask when reviewing design](https://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design), Jason Fried
-- [Writing Comments in the Margins](https://teachingcenter.wustl.edu/resources/writing-assignments-feedback/commenting-on-student-writing/#MarginComments), Washington University
+- [Writing Comments in the Margins](https://ctl.wustl.edu/resources/commenting-on-student-writing/#margins), Washington University
 - [The Power of Bad Ideas](http://www.core77.com/posts/22446/the-power-of-bad-ideas-22446), Steve Portigal
