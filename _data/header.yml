@@ -27,5 +27,5 @@ primary:
   links: primary
 
 # this is a key into _data/navigation.yml
-secondary:
-  links: secondary
+#secondary:
+#  links: secondary

@@ -133,9 +133,10 @@
 
           {% if header.type == 'extended' or header.type == 'extended-mega' %}
           {% assign _secondary = header.secondary %}
+          {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
           <div class="usa-nav__secondary">
+            {% if secondary_links %}
             <ul class="usa-unstyled-list usa-nav__secondary-links">
-              {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
               {% for _link in secondary_links %}
                 <li class="usa-nav__secondary-item">
                   <a href="{% if _link.external %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}"
@@ -145,6 +146,7 @@
                 </li>
               {% endfor %}
             </ul>
+           {% endif %} 
             {% if site.search_site_handle  %}
               <form
                 accept-charset="UTF-8"
