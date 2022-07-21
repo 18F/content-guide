@@ -38,11 +38,11 @@ Here’s an example of how you might transform a too-long sentence into somethin
 
 Instead of:
 
-> Due to privacy and logistical considerations, passes cannot be replaced if lost or stolen; a new Paper Voucher must be accessed by going to the [everykidinapark.gov](https://everykidinapark.gov/) website and completing the same activities to obtain a new Paper Voucher.
+> Due to privacy and logistical considerations, passes cannot be replaced if lost or stolen; a new Paper Voucher must be accessed by going to our website and completing the same activities to obtain a new Paper Voucher.
 
 Use:
 
-> Unfortunately, we can’t replace lost or stolen passes. Get a new pass by visiting [everykidinapark.gov](https://everykidinapark.gov/) and signing up again.
+> Unfortunately, we can’t replace lost or stolen passes. Get a new pass by visiting our website and signing up again.
 
 
 
