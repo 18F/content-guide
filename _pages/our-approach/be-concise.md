@@ -42,7 +42,7 @@ Instead of:
 
 Use:
 
-> Unfortunately, we can’t replace lost or stolen passes. [Get a new pass by visiting our website](https://www.recreation.gov/pass/).
+> Unfortunately, we can’t replace lost or stolen passes. [Get a new pass on our website](https://www.recreation.gov/pass/).
 
 
 
