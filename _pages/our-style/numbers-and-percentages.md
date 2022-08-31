@@ -39,4 +39,4 @@ We choose to use the percent sign in these cases to improve content’s scannabi
 
 ## Dates
 
-Use the full, four-digit year. For informal writing, it's okay to use an abbreviated form. For example, *We're thankful web design isn't stuck in the '90s.*
+To avoid confusion, we spell out specific dates such as "October 22, 2005," rather than abbreviating the month or using numbers as in "10/22/2005." Use the full, four-digit year. For informal writing, it's okay to use an abbreviated form. For example, *We're thankful web design isn't stuck in the '90s.*
