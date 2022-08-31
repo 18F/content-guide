@@ -1,15 +1,16 @@
 ---
-title: Numbers and percentages
+title: Numbers, percentages, and dates
 permalink: /our-style/numbers-and-percentages/
 sidenav: our-style
 sticky_sidenav: true
 subnav:
   - text: Numbers
     href: '#numbers'
+  - text: Percentages
+    href: '#percentages'
   - text: Dates
     href: '#dates'
-  - text: Percentages
-    href: '#percentages'    
+
 ---
 
 ## Numbers
@@ -20,9 +21,9 @@ Sometimes the government writes about very large numbers: millions, billions, ev
 
 In titles, subheadings, and interface labels, we use numerals instead of spelling out numbers. For example, *10 digital tech leaders you should know now* or *6 ways to incorporate plain-language strategies*. We do this to promote ease of reading and scannability — in titles and headings, it’s easier for readers to scan numerals than it is for them to scan written-out numbers.
 
-## Dates
+### Ranges
 
-Use the full, four-digit year. For informal writing, it's okay to use an abbreviated form. For example, *We're thankful web design isn't stuck in the '90s.*
+For ranges of numbers, see [Punctuation > Dashes](https://content-guide.18f.gov/our-style/punctuation/#dashes).
 
 ## Percentages
 
@@ -34,3 +35,8 @@ In keeping with AP style, we spell out *percent* in most cases, with a few excep
 * **Captions and infographics**
 
 We choose to use the percent sign in these cases to improve content’s scannability, allowing readers to digest the content more quickly.
+
+
+## Dates
+
+To avoid confusion, we spell out specific dates such as "October 22, 2005," rather than abbreviating the month or using numbers as in "10/22/2005." Use the full, four-digit year. For informal writing, it's okay to use an abbreviated form. For example, *We're thankful web design isn't stuck in the '90s.*
