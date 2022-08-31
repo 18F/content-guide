@@ -56,7 +56,7 @@ When offsetting a phrase with dashes you should use the longer em dash (—), wh
 
 > We emphasize open, digital record keeping, and — whenever possible — we illuminate our processes.
 
-Although we advocate using words rather than symbols, in some contexts you may use an "en dash" to convey a range of numbers. For example,  both *10–20 students* and *10 to 20 students* are acceptable options.  En dash is `Option + -` on Macs.
+Although we advocate using words rather than symbols, in some contexts you may use an en dash to convey a range of numbers. For example,  both *10–20 students* and *10 to 20 students* are acceptable options.  En dash is `Option + -` on Macs.
 
 > We assign 2–3 people to each development team.
 
