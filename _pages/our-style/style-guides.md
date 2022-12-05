@@ -40,5 +40,4 @@ Here are a few things to keep in mind when you’re developing style guides:
 
 - [cloud.gov](https://github.com/18F/cg-product/blob/master/ContentGuide.md)
 - [FBI Crime Data Explorer](https://github.com/18F/crime-data-explorer/wiki/Content-Guide)
-- [login.gov](https://design.login.gov/content/)
 - [Natural Resources Revenue Data](https://github.com/ONRR/nrrd/wiki/Content-style-guide)
