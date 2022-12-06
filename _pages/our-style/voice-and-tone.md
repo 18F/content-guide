@@ -99,6 +99,6 @@ If you’re having trouble finding an appropriate tone, try reframing the situat
 
 ## Further reading
 
-* [Intuit’s voice and tone guide](http://voiceandtone.com/](https://contentdesign.intuit.com/voice-tone/)
+* [Intuit’s voice and tone guide](https://contentdesign.intuit.com/voice-tone/)
 * [Jeff Goins’s voice activities](https://goinswriter.com/writing-voice/)
 * [Wheaton College guide to style, diction, tone, and voice](https://www.wheaton.edu/Academics/Services/Writing-Center/Writing-Resources/Style-Diction-Tone-and-Voice)
