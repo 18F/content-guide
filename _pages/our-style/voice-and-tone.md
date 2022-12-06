@@ -85,10 +85,10 @@ Let’s consider three examples that target three different reader groups. Obitu
         <td>Blog post announcing open source documentation guide</td>
         <td>Developers and other readers with a strong tech background</td>
         <td>Direct, impartial</td>
-        <td>“The <a href="https://18f.gsa.gov/2015/07/29/style-guide-for-open-source-documentation/">Open Source Style Guide</a> is a comprehensive handbook for writing clear, accessible, and user-friendly documentation so that your open source code repositories are accessible both internally and externally.</td>
+        <td>“The <a href="https://18f.gsa.gov/2015/07/29/style-guide-for-open-source-documentation/">Open Source Style Guide</a> is a comprehensive handbook for writing clear, accessible, and user-friendly documentation so that your open source code repositories are accessible both internally and externally."</td>
     </tr>
     <tr>
-        <td>Marketing email from the boutique bridal department of a well-known clothing company </td>
+        <td>Marketing email from the boutique bridal department of a well-known clothing company</td>
         <td>Newly engaged women (ages 28 through 33)</td>
         <td>Enthusiastic, earnest, bubbly</td>
         <td>“Say ‘I do!’ to 25% off. Now through July 3rd, take an additional 25% off all bridal wear and accessories. Celebrate your big day in style (and get a jumpstart on your honeymoon fund!).”</td>
