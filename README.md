@@ -1,3 +1,5 @@
+**⚠️ This guide has moved to the [consolidated 18F guides repository](https://github.com/18F/guides).**
+
 ## 18F Content Guide
 
 This is the repository for the [18F Content Guide](https://content-guide.18f.gov/). This guide was developed for 18F employees, but we hope it's a useful reference for everyone.
